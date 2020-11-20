@@ -1,0 +1,2962 @@
+state,region,years,manufacturer,model,price,odometer,transmission
+ca,los angeles,2014,infiniti,q50 s 3.7 sedan 4d,21990,41439,automatic
+ca,los angeles,2015,ford,f550,23995,148835,automatic
+ca,los angeles,2014,mini,roadster cooper 2d,15590,44290,automatic
+ca,los angeles,2015,nissan,leaf sv,6999,75080,automatic
+ca,los angeles,2019,ram,1500 classic regular cab,24990,16073,other
+ca,los angeles,2017,lexus,nx 200t,25500,39145,automatic
+ca,los angeles,2017,toyota,corolla,7900,,automatic
+ca,los angeles,2011,mini,hardtop cooper s hatchback,11590,97303,other
+ca,los angeles,2010,honda,insight lx hatchback 4d,9590,61053,automatic
+ca,los angeles,2010,toyota,prius ii hatchback 4d,10990,77069,automatic
+ca,los angeles,2015,,Maserati Ghibli S Q4 Sedan 4D,27990,58214,automatic
+ca,los angeles,2014,bmw,4 series 428i coupe 2d,21990,47100,other
+ca,los angeles,2016,,smart fortwo electric drive,9990,17064,other
+ca,los angeles,2017,lexus,rx 350 f sport suv 4d,30990,49076,other
+ca,los angeles,2015,ford,transit connect,13995,84703,automatic
+ca,los angeles,2011,chevrolet,corvette grand sport,39590,8707,other
+ca,los angeles,2019,chevrolet,silverado 1500 ld,33990,5597,automatic
+ca,los angeles,2017,bmw,3 series,23200,10283,automatic
+ca,los angeles,2014,honda,odyssey ex-l minivan 4d,19990,62276,other
+ca,los angeles,2016,subaru,impreza 2.0i sport,17990,42902,automatic
+ca,los angeles,2017,ford,f-150 f150 crew cab xlt 20,36995,22120,automatic
+ca,los angeles,2017,lexus,is 200t,27000,24468,automatic
+ca,los angeles,2006,chevrolet,silverado 2500hd ls,9998,166378,automatic
+ca,los angeles,2017,jeep,grand cherokee,26000,56890,automatic
+ca,los angeles,2012,hyundai,sonata,8595,102177,automatic
+ca,los angeles,2012,hyundai,sonata,8595,102177,automatic
+ca,los angeles,2018,honda,civic type r touring,36990,20390,other
+ca,los angeles,2017,jaguar,f-type r convertible 2d,62990,11249,automatic
+ca,los angeles,2010,audi,a4 2.0t quattro premium,6500,,automatic
+ca,los angeles,2013,mercedes-benz,glk-class glk 350,19990,70607,automatic
+ca,los angeles,2017,mercedes-benz,c-class,29300,31851,automatic
+ca,los angeles,2018,chevrolet,cruze ls,14049,24395,automatic
+ca,los angeles,2013,porsche,cayenne sport utility 4d,30990,28447,automatic
+ca,los angeles,2017,tesla,model x 75d sport utility,54990,46767,other
+ca,los angeles,2019,volvo,s90 t5 momentum,614,108,automatic
+ca,los angeles,2013,bmw,7 series 750li sedan 4d,24990,67611,automatic
+ca,los angeles,2017,jaguar,f-pace,32983,33564,automatic
+ca,los angeles,2011,buick,lacrosse cxs sedan 4d,11990,77741,other
+ca,los angeles,2017,lexus,nx 200t,26500,26781,automatic
+ca,los angeles,2012,chevrolet,avalanche ltz sport,29990,41759,other
+ca,los angeles,2017,rover,range evoque hse,31990,34708,automatic
+ca,los angeles,2017,toyota,corolla im hatchback 4d,14590,66498,automatic
+ca,los angeles,2017,toyota,corolla,13900,21468,automatic
+ca,los angeles,2016,toyota,4runner limited sport,35990,33549,automatic
+ca,los angeles,2014,chevrolet,equinox,1,74000,automatic
+ca,los angeles,1960,,Triump tr3,1,90000,manual
+ca,los angeles,2012,toyota,sienna limited minivan 4d,17590,90238,other
+ca,los angeles,2005,nissan,sentra,1500,,manual
+ca,los angeles,2017,lexus,nx 200t,25000,44009,automatic
+ca,los angeles,2017,gmc,sierra,19999,28000,automatic
+ca,los angeles,2007,chevrolet,silverado,7000,116000,automatic
+ca,los angeles,2017,lexus,is 200t,26000,45315,automatic
+ca,los angeles,2018,mercedes-benz,gla,24995,43446,automatic
+ca,los angeles,2015,volkswagen,golf gti,1,,automatic
+ca,los angeles,2015,fiat,500e hatchback 2d,9590,41717,other
+ca,los angeles,2017,chevrolet,colorado crew cab lt,24990,47250,other
+ca,los angeles,2017,lexus,nx 200t,26900,17055,automatic
+ca,los angeles,2008,toyota,camry le,4500,97378,automatic
+ca,los angeles,2013,lexus,ls 460 sedan 4d,28990,60749,automatic
+ca,los angeles,2006,ford,e350 cutaway,17500,158000,automatic
+ca,los angeles,2016,volvo,s60,15400,55820,automatic
+ca,los angeles,2016,lexus,es 350,23400,43323,automatic
+ca,los angeles,2015,ford,f-150 4x4 navigation backu,39995,49115,automatic
+ca,los angeles,2016,dodge,challenger,27770,39450,automatic
+ca,los angeles,2020,kia,telluride s sport utility 4d,37990,20200,other
+ca,los angeles,2013,cadillac,xts luxury collection,17590,65232,other
+ca,los angeles,2010,lincoln,mks sedan 4d,11590,99750,other
+ca,los angeles,2019,aston-martin,martin db11 v8,163900,4251,automatic
+ca,los angeles,2019,chevrolet,silverado 1500 lt,0,28009,automatic
+ca,los angeles,2014,dodge,grand caravan sxt,0,79214,automatic
+ca,los angeles,2014,audi,s4 premium plus sedan 4d,28590,41167,automatic
+ca,los angeles,2016,acura,mdx,25700,53316,automatic
+ca,los angeles,2019,chevrolet,suburban lt sport,41590,39183,other
+ca,los angeles,1979,cadillac,eldorado,30000,38447,automatic
+ca,los angeles,2013,honda,cr-v lx sport utility 4d,14990,59246,other
+ca,los angeles,2013,volkswagen,touareg vr6 sport suv,17990,56293,automatic
+ca,los angeles,2015,dodge,grand caravan american,10995,66757,automatic
+ca,los angeles,2014,cadillac,ats 2.0l turbo luxury,17590,61576,other
+ca,los angeles,2016,honda,cr-v,17800,47891,automatic
+ca,los angeles,2004,toyota,tacoma,16995,13400,automatic
+ca,los angeles,2012,volvo,s60 t5 sedan 4d,11990,73617,other
+ca,los angeles,2014,kia,forte lx sedan 4d,10990,64129,automatic
+ca,los angeles,2020,mercedes-benz,cla 250 coupe,38800,2314,automatic
+ca,los angeles,2009,honda,accord coupe,8000,122000,automatic
+ca,los angeles,2016,toyota,highlander,22000,45405,automatic
+ca,los angeles,2015,hyundai,genesis coupe 3.8 2d,17990,84148,automatic
+ca,los angeles,2018,mazda,mazda3 5-door,15571,63762,automatic
+ca,los angeles,2013,gmc,yukon xl 1500 denali sport,24590,76364,other
+ca,los angeles,2011,mitsubishi,endeavor ls awd,5995,206000,automatic
+ca,los angeles,2017,chevrolet,equinox,14988,49566,automatic
+ca,los angeles,2014,bmw,5 series 528i sedan 4d,18990,72341,automatic
+ca,los angeles,2015,jeep,renegade,13900,47107,automatic
+ca,los angeles,2006,toyota,sienna,5500,158112,automatic
+ca,los angeles,2018,ford,f150 super cab xl pickup 4d,29990,20742,automatic
+ca,los angeles,2011,audi,a5,16500,32169,automatic
+ca,los angeles,2017,nissan,titan crew cab sv pickup,30590,16381,other
+ca,los angeles,2015,infiniti,q40 sedan 4d,16990,60321,automatic
+ca,los angeles,2015,jaguar,xj xjl portfolio sedan 4d,29990,53484,automatic
+ca,los angeles,2016,toyota,avalon xle,14000,80210,automatic
+ca,los angeles,2015,bmw,5 series,18800,52635,automatic
+ca,los angeles,2018,nissan,leaf sv hatchback 4d,18590,9030,other
+ca,los angeles,2001,chevrolet,silverado 1500,6300,198000,manual
+ca,los angeles,2005,toyota,tundra double cab sr5,6500,234021,automatic
+ca,los angeles,2018,honda,accord hybrid sedan 4d,20990,35372,automatic
+ca,los angeles,2017,ford,fiesta se hatchback 4d,11590,19179,other
+ca,los angeles,2016,honda,accord,14952,66165,automatic
+ca,los angeles,2006,,scion xb,3850,,manual
+ca,los angeles,2014,ford,focus,13900,99756,automatic
+ca,los angeles,2017,volkswagen,golf r hatchback,26990,71170,automatic
+ca,los angeles,2019,toyota,corolla hatchback se 4d,17990,30374,other
+ca,los angeles,2013,infiniti,jx jx35 sport utility,17990,97384,automatic
+ca,los angeles,2014,lexus,is 250,19400,68283,automatic
+ca,los angeles,2014,chevrolet,corvette stingray 2dr,47995,14220,manual
+ca,los angeles,2016,cadillac,elr coupe 2d,32990,30120,other
+ca,los angeles,2012,infiniti,fx fx35 sport utility,16990,85528,automatic
+ca,los angeles,2018,bmw,3 series,21980,32756,automatic
+ca,los angeles,2014,nissan,maxima,8800,144065,automatic
+ca,los angeles,2013,bmw,1 series 135i coupe 2d,25990,29520,other
+ca,los angeles,2015,mazda,mx-5 miata club,20590,4272,other
+ca,los angeles,1955,ford,thunderbird,55000,,automatic
+ca,los angeles,2017,mercedes-benz,s-class,57950,20054,automatic
+ca,los angeles,2007,ford,e250,10937,,automatic
+ca,los angeles,2014,bmw,i3,10985,65667,automatic
+ca,los angeles,2016,,Freightliner M2 106,37500,255180,automatic
+ca,los angeles,2015,kia,forte koup ex,130,70165,automatic
+ca,los angeles,2015,gmc,sierra 1500 2wd regular cab,22995,34884,automatic
+ca,los angeles,1957,porsche,356a replica,8300,,manual
+ca,los angeles,2002,toyota,sequoia limited,3450,219000,automatic
+ca,los angeles,2014,jeep,wrangler sport,38000,33000,automatic
+ca,los angeles,2016,chevrolet,cruze limited,11788,59621,automatic
+ca,los angeles,2017,toyota,prius,22388,32752,automatic
+ca,los angeles,2016,ford,escape,19995,20628,automatic
+ca,los angeles,2016,ford,c-max hybrid,17895,18031,automatic
+ca,los angeles,2017,mercedes-benz,c-class,23000,39888,automatic
+ca,los angeles,2014,chevrolet,spark ev 2lt hatchback,10590,50594,other
+ca,los angeles,2018,kia,soul,13695,20777,automatic
+ca,los angeles,2017,chevrolet,silverado 1500 double,32590,21730,automatic
+ca,los angeles,2014,tesla,model s sedan 4d,34590,44272,other
+ca,los angeles,2016,honda,civic,12991,92009,automatic
+ca,los angeles,2017,audi,a4,20598,45827,automatic
+ca,los angeles,1986,chrysler,le baron,14980,129231,automatic
+ca,los angeles,2013,volkswagen,beetle 2.5l 50s,19590,15119,automatic
+ca,los angeles,2015,ford,transit 350 van,0,68988,other
+ca,los angeles,2017,audi,a3,19359,36135,automatic
+ca,los angeles,2017,honda,hr-v,15995,85896,automatic
+ca,los angeles,2011,jeep,grand cherokee,9995,112945,automatic
+ca,los angeles,2017,kia,sorento,16795,52714,automatic
+ca,los angeles,2017,volvo,s90,23126,28245,automatic
+ca,los angeles,2020,porsche,cayenne s,69000,3122,automatic
+ca,los angeles,2012,hyundai,veloster,8996,121297,automatic
+ca,los angeles,2007,mercedes-benz,benz s 550,6500,,automatic
+ca,los angeles,2004,honda,accord,4400,214000,automatic
+ca,los angeles,2013,volkswagen,golf tdi hatchback 4d,12990,83709,other
+ca,los angeles,2018,audi,a6 3.0t premium plus sedan,29990,57418,automatic
+ca,los angeles,2018,subaru,forester,26952,24863,automatic
+ca,los angeles,2015,jeep,wrangler unlimited rubicon,34990,28058,other
+ca,los angeles,2012,toyota,highlander sport utility,17590,65107,other
+ca,los angeles,2009,volvo,v70,3900,,automatic
+ca,los angeles,2014,mercedes-benz,m-class,27991,17901,automatic
+ca,los angeles,2016,honda,odyssey,24495,62258,automatic
+ca,los angeles,1992,bmw,325i e30,7850,170000,manual
+ca,los angeles,2017,toyota,rav4 hybrid xle,19500,53000,automatic
+ca,los angeles,2015,acura,tlx 3.5 sedan 4d,17590,66235,automatic
+ca,los angeles,2019,toyota,tundra crewmax 1794,48990,11648,automatic
+ca,los angeles,2016,lexus,nx 200t sport utility 4d,26990,33491,automatic
+ca,los angeles,2018,buick,regal sportback essence,21990,9279,other
+ca,los angeles,1986,chevrolet,corvette,18980,35224,automatic
+ca,los angeles,2015,toyota,4runner,23599,100630,automatic
+ca,los angeles,1990,jeep,comanche mj,6000,,automatic
+ca,los angeles,2018,toyota,prius,15595,70369,automatic
+ca,los angeles,2017,audi,s3 premium plus sedan 4d,32990,26588,automatic
+ca,los angeles,2018,toyota,prius prime,21495,33386,automatic
+ca,los angeles,2019,toyota,tacoma double cab sr5,32990,10683,other
+ca,los angeles,2017,chevrolet,camaro,19995,75078,automatic
+ca,los angeles,2019,ford,ranger supercrew xlt pickup,33990,14630,other
+ca,los angeles,2015,kia,optima,8995,90971,automatic
+ca,los angeles,2018,mercedes-benz,cla,22995,50152,automatic
+ca,los angeles,2013,ford,explorer,17508,65422,automatic
+ca,los angeles,2014,ram,pickup 1500,23495,94568,automatic
+ca,los angeles,2014,volkswagen,tiguan 2.0t se sport,13990,49764,automatic
+ca,los angeles,2017,jeep,wrangler unlimited sport s,33590,31548,other
+ca,los angeles,2014,hyundai,sonata gls sedan 4d,10590,83849,automatic
+ca,los angeles,2017,nissan,murano s sport utility 4d,20590,50682,automatic
+ca,los angeles,2015,hyundai,sonata,12350,63328,automatic
+ca,los angeles,2016,kia,sorento,14895,70804,automatic
+ca,los angeles,2018,lexus,is 300,26500,28778,automatic
+ca,los angeles,1987,mercedes-benz,560-class,29980,75678,automatic
+ca,los angeles,1973,chevrolet,monte carlo s coupe,9995,103354,automatic
+ca,los angeles,2020,ford,escape,21950,,automatic
+ca,los angeles,2018,chevrolet,equinox,17950,,automatic
+ca,los angeles,2018,chevrolet,equinox,17950,,automatic
+ca,los angeles,2020,ford,escape,21950,,automatic
+ca,los angeles,2018,nissan,altima,18950,,other
+ca,los angeles,2017,nissan,rogue,14950,,other
+ca,los angeles,2017,honda,civic,16998,33436,automatic
+ca,los angeles,1967,chevrolet,camaro restomod,69980,969,manual
+ca,los angeles,2015,bmw,x5 xdrive50i sport utility,29990,67121,automatic
+ca,los angeles,2020,gmc,yukon xl slt sport utility,52990,23979,automatic
+ca,los angeles,2020,ram,1500 classic crew cab slt,34990,9296,automatic
+ca,los angeles,2015,nissan,versa note sv hatchback,10990,45466,automatic
+ca,los angeles,2016,ram,1500 crew cab rebel pickup,35590,57268,other
+ca,los angeles,2017,kia,cadenza premium sedan 4d,19990,15323,other
+ca,los angeles,2017,cadillac,xt5 luxury sport,30590,15153,other
+ca,los angeles,2015,hyundai,genesis 3.8 sedan 4d,20990,34487,automatic
+ca,los angeles,2013,,Scion FR-S Coupe 2D,18590,37689,other
+ca,los angeles,2019,lexus,gx 460 sport utility 4d,47990,8618,automatic
+ca,los angeles,2020,nissan,370z coupe 2d,31990,1927,automatic
+ca,los angeles,2015,ford,focus se hatchback 4d,10990,49829,automatic
+ca,los angeles,2014,mercedes-benz,c-class c 250,17990,24753,automatic
+ca,los angeles,2020,toyota,rav4 hybrid limited sport,36990,10563,automatic
+ca,los angeles,2013,hyundai,sonata,8499,79035,automatic
+ca,los angeles,1932,ford,all steel body by rod bods,59800,4691,automatic
+ca,los angeles,2018,toyota,highlander,32992,30830,automatic
+ca,los angeles,1967,volkswagen,beetle,26980,28326,manual
+ca,los angeles,1965,,Oldsmobile Cutlass F85 Sports Co,24980,13001,automatic
+ca,los angeles,2005,chevrolet,silverado,12500,130000,automatic
+ca,los angeles,2012,honda,civic lx,5995,93101,automatic
+ca,los angeles,2012,mazda,3,5995,79850,manual
+ca,los angeles,1991,ford,bronco silver edition,24500,89650,automatic
+ca,los angeles,2014,chevrolet,silverado 1500 lt z71,24000,160000,automatic
+ca,los angeles,2003,ford,f-150 lightning,20000,135000,automatic
+ca,los angeles,1967,,DUNE BUGGY CUSTOM,19980,1,manual
+ca,los angeles,2001,chevrolet,s10,4000,140,manual
+ca,los angeles,2017,,Maserati levante,45000,,automatic
+ca,los angeles,2011,audi,a8,12999,113974,automatic
+ca,los angeles,2012,,Mustang rs3,30000,,manual
+ca,los angeles,1967,buick,gs 400 coupe,39980,1747,automatic
+ca,los angeles,2008,honda,cr-v lx,6900,92094,automatic
+ca,los angeles,2017,toyota,camry xle,12900,47276,automatic
+ca,los angeles,1959,,plymouth sport fury,35500,,automatic
+ca,los angeles,1974,chevrolet,k5 blazer,17000,,automatic
+ca,los angeles,2009,honda,civic ex,5700,114000,automatic
+ca,los angeles,1960,chevrolet,impala,28500,,manual
+ca,los angeles,1992,chevrolet,s10 blazer 4x4,2900,190000,automatic
+ca,los angeles,2019,ford,f150,23999,,automatic
+ca,los angeles,2000,honda,accord lx,1900,208300,automatic
+ca,los angeles,2017,toyota,tundra 4wd truck,27500,55000,automatic
+ca,los angeles,2007,,2007 HUYNDAI VERACRUZ,4200,,automatic
+ca,los angeles,2009,,civic lx,1000,,automatic
+ca,los angeles,2010,,peterbilt 389,39900,,manual
+ca,los angeles,2008,lexus,is 250,8500,130123,automatic
+ca,los angeles,2005,nissan,350z convertible,9000,160000,automatic
+ca,los angeles,2019,ram,promaster,115000,10500,automatic
+ca,los angeles,2014,nissan,altima,5895,63000,automatic
+ca,los angeles,2015,chevrolet,silverado,42000,115000,automatic
+ca,los angeles,2017,hyundai,sonata,10995,120723,automatic
+ca,los angeles,2015,honda,civic,20000,17000,manual
+ca,los angeles,2008,audi,a4,800,101000,automatic
+ca,los angeles,2007,infiniti,g35,6000,160000,automatic
+ca,los angeles,2017,ford,focus titanium,8500,14500,automatic
+ca,los angeles,2017,ford,fusion se,9500,37800,automatic
+ca,los angeles,2004,honda,accord,1500,239715,automatic
+ca,los angeles,2006,bmw,z4 m roadster,19500,90000,manual
+ca,los angeles,2011,toyota,corolla sport,6990,131,automatic
+ca,los angeles,2001,chevrolet,corvette,26980,37102,manual
+ca,los angeles,2004,bmw,m3,23500,,manual
+ca,los angeles,2006,,scion tc,5500,,automatic
+ca,los angeles,2008,ford,f350 king ranch,23995,100698,automatic
+ca,los angeles,2012,rover,range sport hse,17899,96548,automatic
+ca,los angeles,1976,ford,torino,11000,,automatic
+ca,los angeles,1978,cadillac,seville,23500,12500,automatic
+ca,los angeles,2012,audi,a3 2.0t,10250,79500,automatic
+ca,los angeles,2008,mitsubishi,fuso,15500,,automatic
+ca,los angeles,2012,toyota,scion iq,5900,,automatic
+ca,los angeles,2013,rover,sport,17999,116589,automatic
+ca,los angeles,1985,chevrolet,corvette,9950,135000,manual
+ca,los angeles,2007,mercedes-benz,benz clk 350,5400,,automatic
+ca,los angeles,1979,volkswagen,beetle bug,3500,,manual
+ca,los angeles,1999,toyota,camry,3900,125800,automatic
+ca,los angeles,2005,subaru,outback,3200,,automatic
+ca,los angeles,2004,bmw,m3,17700,170000,manual
+ca,los angeles,2003,chrysler,pt cruiser,3000,89000,automatic
+ca,los angeles,2015,ford,expedition,17995,106478,automatic
+ca,los angeles,2011,rover,hse,16999,111948,automatic
+ca,los angeles,1986,chevrolet,c/k 10 series,26980,46245,other
+ca,los angeles,2005,toyota,camry,5800,150000,automatic
+ca,los angeles,2000,gmc,truck,12000,98000,manual
+ca,los angeles,2011,volvo,670,22000,,manual
+ca,los angeles,2004,jaguar,xjr supercharged,9900,157500,automatic
+ca,los angeles,2018,gmc,terrain,15800,10000,automatic
+ca,los angeles,2012,chrysler,300 3.6l,1200,,automatic
+ca,los angeles,2014,volkswagen,jetta,8500,46000,automatic
+ca,los angeles,2014,mazda,cx-5,7900,71062,automatic
+ca,los angeles,2004,chevrolet,impala ls,3900,160000,automatic
+ca,los angeles,2017,nissan,sentra sv,8700,66000,automatic
+ca,los angeles,2012,chrysler,300,5999,114218,automatic
+ca,los angeles,1928,,Gazelle,5500,,automatic
+ca,los angeles,2014,toyota,prius,11200,54000,automatic
+ca,los angeles,2013,nissan,altima 3.5 sv,9500,90000,automatic
+ca,los angeles,2019,chevrolet,bolt ev,23500,22000,automatic
+ca,los angeles,1995,lexus,es 300,1600,,automatic
+ca,los angeles,2015,toyota,corolla,0,114804,automatic
+ca,los angeles,2010,toyota,venza,0,135669,automatic
+ca,los angeles,2011,toyota,sienna,0,136526,automatic
+ca,los angeles,2014,toyota,camry,0,161291,automatic
+ca,los angeles,2013,subaru,xv crosstrek,0,77914,automatic
+ca,los angeles,2018,nissan,sentra,0,35066,automatic
+ca,los angeles,2007,mercedes-benz,e-class,0,100560,automatic
+ca,los angeles,2006,lexus,gs,0,130469,automatic
+ca,los angeles,2011,infiniti,g sedan,0,103261,automatic
+ca,los angeles,2012,hyundai,veloster,0,119353,automatic
+ca,los angeles,2014,honda,civic,0,79919,manual
+ca,los angeles,2017,honda,civic,0,77966,automatic
+ca,los angeles,2013,ford,flex,0,96153,automatic
+ca,los angeles,2016,ford,mustang,0,40094,automatic
+ca,los angeles,2012,dodge,challenger,0,78921,automatic
+ca,los angeles,2012,bmw,3-series,0,68897,automatic
+ca,los angeles,2009,bmw,1-series,0,80867,automatic
+ca,los angeles,2012,audi,a6,0,144391,automatic
+ca,los angeles,2008,acura,rdx,0,97902,automatic
+ca,los angeles,2009,acura,tsx,0,157030,automatic
+ca,los angeles,2007,,accord EX-L,4950,157000,automatic
+ca,los angeles,2004,chevrolet,ssr,29980,26721,automatic
+ca,los angeles,1938,ford,sedan,35500,6500,automatic
+ca,los angeles,1990,toyota,fj62 land cruiser,24000,181960,automatic
+ca,los angeles,2003,honda,element ex,13900,108543,manual
+ca,los angeles,2012,cadillac,cts 3.6l premium,15900,66083,automatic
+ca,los angeles,2015,lexus,ct 200h,13900,119412,automatic
+ca,los angeles,2009,volkswagen,tiguan,5900,124500,automatic
+ca,los angeles,2012,lexus,es 350,19999,10800,automatic
+ca,los angeles,2010,ford,mustang convertible,8200,,automatic
+ca,los angeles,2014,chevrolet,volt premier,9500,101000,automatic
+ca,los angeles,2002,buick,century limited,2350,90000,automatic
+ca,los angeles,2013,bmw,328i,15999,90600,automatic
+ca,los angeles,1996,chevrolet,silverado 1500,7900,89000,automatic
+ca,los angeles,1939,ford,tudor,20000,82000,manual
+ca,los angeles,2011,toyota,prius,3950,,automatic
+ca,los angeles,2015,toyota,camry,10000,64770,automatic
+ca,los angeles,2020,porsche,cayenne s,71000,3122,automatic
+ca,los angeles,2005,toyota,highlander,6499,123800,automatic
+ca,los angeles,2014,nissan,sentra sv,5900,92100,automatic
+ca,los angeles,2011,nissan,leaf sl,6100,61834,other
+ca,los angeles,1998,toyota,truck tacoma extracap,5300,,manual
+ca,los angeles,2009,mercedes-benz,g-class,54995,96556,automatic
+ca,los angeles,2004,,2004 mustang mach 1,8500,130000,manual
+ca,los angeles,1971,chevrolet,,5000,,automatic
+ca,los angeles,2008,toyota,sienna le,6700,,automatic
+ca,los angeles,2013,bmw,328i,15999,95600,automatic
+ca,los angeles,2001,ram,1500 st,10982,50867,automatic
+ca,los angeles,1988,chevrolet,corvette,12980,81371,automatic
+ca,los angeles,2014,lexus,rx350,19900,,automatic
+ca,los angeles,2008,toyota,prius hybrid,5300,124000,automatic
+ca,los angeles,2014,bmw,320i,10800,95100,automatic
+ca,los angeles,2002,gmc,safari cargo sl,9982,86867,automatic
+ca,los angeles,2018,bmw,430i,17995,,automatic
+ca,los angeles,2007,mercury,montego premier,3999,99000,automatic
+ca,los angeles,2017,mazda,3,13500,,automatic
+ca,los angeles,2015,audi,a3 1.8t premium,19000,54000,automatic
+ca,los angeles,2002,honda,civic,3400,226000,manual
+ca,los angeles,2007,nissan,pathfinder se,5900,,automatic
+ca,los angeles,2003,mini,cooper,4000,,automatic
+ca,los angeles,2008,honda,accord ex,8482,115181,automatic
+ca,los angeles,2005,toyota,highlander,6499,123800,automatic
+ca,los angeles,2014,nissan,sentra sv,5900,92100,automatic
+ca,los angeles,2011,nissan,leaf sl,6100,61834,other
+ca,los angeles,1998,toyota,truck tacoma extracap,5300,,manual
+ca,los angeles,2009,mercedes-benz,g-class,54995,96556,automatic
+ca,los angeles,2004,,2004 mustang mach 1,8500,130000,manual
+ca,los angeles,1971,chevrolet,,5000,,automatic
+ca,los angeles,2008,toyota,sienna le,6700,,automatic
+ca,los angeles,2013,bmw,328i,15999,95600,automatic
+ca,los angeles,2001,ram,1500 st,10982,50867,automatic
+ca,los angeles,1988,chevrolet,corvette,12980,81371,automatic
+ca,los angeles,2014,lexus,rx350,19900,,automatic
+ca,los angeles,2008,toyota,prius hybrid,5300,124000,automatic
+ca,los angeles,2014,bmw,320i,10800,95100,automatic
+ca,los angeles,2002,gmc,safari cargo sl,9982,86867,automatic
+ca,los angeles,2018,bmw,430i,17995,,automatic
+ca,los angeles,2007,mercury,montego premier,3999,99000,automatic
+ca,los angeles,2017,mazda,3,13500,,automatic
+ca,los angeles,2015,audi,a3 1.8t premium,19000,54000,automatic
+ca,los angeles,2002,honda,civic,3400,226000,manual
+ca,los angeles,2007,nissan,pathfinder se,5900,,automatic
+ca,los angeles,2003,mini,cooper,4000,,automatic
+ca,los angeles,2008,honda,accord ex,8482,115181,automatic
+ca,los angeles,2008,toyota,prius,5500,120000,automatic
+ca,los angeles,1999,lexus,es 300,2799,159000,automatic
+ca,los angeles,2012,ford,f-250,29500,,automatic
+ca,los angeles,2020,bmw,x5,49995,,automatic
+ca,los angeles,2011,toyota,camry le,8482,107434,automatic
+ca,los angeles,2006,gmc,yukon denali,6300,128000,automatic
+ca,los angeles,2014,rover,evoque,19499,69200,automatic
+ca,los angeles,2016,honda,accord,0,81307,automatic
+ca,los angeles,1950,,1950 Studebaker truck,32500,,automatic
+ca,los angeles,2017,,Hino Trucks 268A,49500,202078,automatic
+ca,los angeles,2014,toyota,prius,13000,62000,automatic
+ca,los angeles,2002,,Kenworth T300,12500,,automatic
+ca,los angeles,2015,ford,f-250 super duty,14995,143224,automatic
+ca,los angeles,2019,fiat,500,7995,,automatic
+ca,los angeles,2003,mazda,6,2300,180000,automatic
+ca,los angeles,2017,hyundai,elantra se,10990,28000,automatic
+ca,los angeles,2010,mini,cooper s,5950,,automatic
+ca,los angeles,2009,hyundai,santa fe,5900,134000,automatic
+ca,los angeles,2015,infiniti,qx60,15491,97820,automatic
+ca,los angeles,2017,toyota,yaris ia,10491,45748,automatic
+ca,los angeles,2016,chevrolet,suburban,500,,automatic
+ca,los angeles,2014,dodge,challenger,13991,119187,automatic
+ca,los angeles,2016,volkswagen,tiguan,12491,63402,automatic
+ca,los angeles,2019,chevrolet,blazer,23995,,automatic
+ca,los angeles,2014,audi,a4 2.0t premium,9500,,automatic
+ca,los angeles,2013,tesla,s 85,36900,97000,automatic
+ca,los angeles,1990,ford,mustang gt,19500,17000,automatic
+ca,los angeles,2005,toyota,highlander,4900,179000,automatic
+ca,los angeles,2000,lincoln,navigator,1775,184000,automatic
+ca,los angeles,1969,chevrolet,c10 restomod,69980,2126,automatic
+ca,los angeles,1998,saturn,sl1,3000,65154,automatic
+ca,los angeles,2018,mercedes-benz,e63s amg,84500,10400,automatic
+ca,los angeles,1978,porsche,924,6500,51000,manual
+ca,los angeles,1987,nissan,pickup truck,3500,,automatic
+ca,los angeles,2008,ford,escape,3900,,automatic
+ca,los angeles,2019,jaguar,f-type,25995,,automatic
+ca,los angeles,2018,toyota,rav4 le,19500,38252,automatic
+ca,los angeles,2009,audi,a4 2.0t quattro,5500,132000,automatic
+ca,los angeles,2012,toyota,fj cruiser 4x4,28000,125000,automatic
+ca,los angeles,1980,toyota,pickup,9500,,manual
+ca,los angeles,2012,mini,cooper s,8600,75,automatic
+ca,los angeles,2006,honda,ofyssey,5995,105288,automatic
+ca,los angeles,2014,kia,optima,7500,,automatic
+ca,los angeles,1992,toyota,previa,3000,263000,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2016,nissan,sentra,8800,79000,automatic
+ca,los angeles,2018,honda,civic,18500,17300,automatic
+ca,los angeles,2013,chevrolet,express 2500 cargo van,15500,60000,automatic
+ca,los angeles,2007,gmc,4500 studio truck,29750,39650,automatic
+ca,los angeles,2018,mercedes-benz,gle350,35000,31000,automatic
+ca,los angeles,2015,hyundai,elantra gt,7900,79200,automatic
+ca,los angeles,1946,ford,super deluxe,31001,,automatic
+ca,los angeles,2020,gmc,terrain,17995,,automatic
+ca,los angeles,1998,toyota,4runner limited,4450,190000,automatic
+ca,los angeles,2017,fiat,124 spider classica,10995,,automatic
+ca,los angeles,2019,gmc,yukon xl,27995,,automatic
+ca,los angeles,2019,honda,civic si,13995,,manual
+ca,los angeles,2019,honda,clarity plug-in hybrid,15995,,automatic
+ca,los angeles,2000,jeep,cherokee,2500,177000,automatic
+ca,los angeles,2011,honda,pilot ex-l,12500,83000,automatic
+ca,los angeles,2014,,freightliner m2,39000,183000,automatic
+ca,los angeles,2011,mercedes-benz,benz c300,13500,56050,automatic
+ca,los angeles,2005,chevrolet,tahoe lt,3995,,automatic
+ca,los angeles,1971,ford,capri,33000,,manual
+ca,los angeles,2012,mazda,6,4200,,automatic
+ca,los angeles,2008,honda,cr-v,6995,130252,automatic
+ca,los angeles,2009,toyota,prius,3800,,automatic
+ca,los angeles,2010,lexus,hs 250h,5777,,automatic
+ca,los angeles,2017,ford,f-150,15950,73983,automatic
+ca,los angeles,2011,acura,tl,0,,automatic
+ca,los angeles,1995,ford,ranger xlt,1800,260000,manual
+ca,los angeles,1998,ford,f150,3500,190000,automatic
+ca,los angeles,2012,chevrolet,traverse ls,7000,106000,automatic
+ca,los angeles,2015,nissan,altima 2.5 sv,8500,107000,automatic
+ca,los angeles,2005,dodge,magnum,2800,107000,automatic
+ca,los angeles,2006,volvo,xc90 2.5t,4700,,automatic
+ca,los angeles,1999,ford,e350,2500,170000,automatic
+ca,los angeles,2002,honda,accord,2700,240000,automatic
+ca,los angeles,2008,honda,civic lx,4900,141000,manual
+ca,los angeles,2014,ferrari,458 italia,199900,4300,automatic
+ca,los angeles,2011,mini,cooper s hardtop,6995,105222,automatic
+ca,los angeles,2004,ford,focus,2900,145000,automatic
+ca,los angeles,2003,honda,crv,3200,,manual
+ca,los angeles,2002,honda,odyssey,3900,120000,automatic
+ca,los angeles,2020,toyota,tacoma,15950,16344,automatic
+ca,los angeles,2013,ram,2500 slt,18600,170000,automatic
+ca,los angeles,2004,chevrolet,trailblazer,3500,190000,automatic
+ca,los angeles,2012,nissan,versa 1.6sl,5500,66000,automatic
+ca,los angeles,2006,bmw,525i,4950,225000,automatic
+ca,los angeles,2018,toyota,rav4,0,24180,automatic
+ca,los angeles,2000,ram,1500,2900,130000,manual
+ca,los angeles,2007,audi,a3 2.0t premium,3800,200000,automatic
+ca,los angeles,2000,volkswagen,beetle,2000,180000,manual
+ca,los angeles,2008,toyota,prius,5800,140000,automatic
+ca,los angeles,2002,saturn,vue,2500,180000,automatic
+ca,los angeles,2013,audi,s7 4.0t quattro prestige,32995,65480,automatic
+ca,los angeles,2011,audi,a6 3.0t quattro premium plus,10995,94960,automatic
+ca,los angeles,2004,toyota,echo - only 31k miles - one owner,4995,31476,automatic
+ca,los angeles,2008,ford,taurus,3900,,automatic
+ca,los angeles,2011,lexus,gx 460,21995,122114,automatic
+ca,los angeles,2014,,Linconln Navigator,18000,86000,automatic
+ca,los angeles,2016,ford,fiesta se,7500,23364,automatic
+ca,los angeles,2004,bmw,330ci,3000,133000,manual
+ca,los angeles,2018,chevrolet,cruze lt,12750,21000,automatic
+ca,los angeles,2005,mercedes-benz,benz,6900,112000,automatic
+ca,los angeles,2010,volkswagen,tiguan,7300,120000,automatic
+ca,los angeles,2007,gmc,sierra 1500,11900,,automatic
+ca,los angeles,2006,,2006 Quattroporte Executive GT,17495,32600,automatic
+ca,los angeles,2008,,Mustang GT,14000,72168,automatic
+ca,los angeles,2015,ford,fusion,12485,,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2005,honda,accord 2-door coupe,5750,99900,automatic
+ca,los angeles,1998,toyota,camry,3500,132000,automatic
+ca,los angeles,2011,volvo,s40 2.5 turbo,6995,118000,automatic
+ca,los angeles,2014,nissan,altima,0,100320,automatic
+ca,los angeles,1975,chevrolet,step van,20000,,automatic
+ca,los angeles,2006,toyota,camry,3300,170893,automatic
+ca,los angeles,1965,jeep,cj5,15000,6000,manual
+ca,los angeles,1996,,1996 GT Mustang,3000,140012,manual
+ca,los angeles,2008,chevrolet,tohoe lt,6000,,automatic
+ca,los angeles,2013,,Isuzu NPR HD V8 Gas,25000,,automatic
+ca,los angeles,2006,honda,civic,6299,141346,automatic
+ca,los angeles,2011,bmw,335d,7100,90013,automatic
+ca,los angeles,2007,mercedes-benz,benz s550,13900,134000,automatic
+ca,los angeles,2002,lincoln,ls,5500,76000,automatic
+ca,los angeles,2005,gmc,yukon,5500,160000,automatic
+ca,los angeles,1998,ford,e250 econoline,3000,154000,automatic
+ca,los angeles,2004,chevrolet,tahoe 4x4,6700,,automatic
+ca,los angeles,2015,jeep,renegade latitude 4x4 gas,13100,82300,automatic
+ca,los angeles,2010,volkswagen,jetta,5500,,automatic
+ca,los angeles,2012,bmw,135i,16999,51000,automatic
+ca,los angeles,2006,toyota,tacoma,17999,94000,automatic
+ca,los angeles,2012,jaguar,xj,19999,77000,automatic
+ca,los angeles,1968,chevrolet,chevelle malibu,59980,29958,automatic
+ca,los angeles,2013,subaru,outback,18999,11000,automatic
+ca,los angeles,2007,toyota,tundra,19999,131000,automatic
+ca,los angeles,2017,hyundai,sonata 2.4l se,13500,24000,automatic
+ca,los angeles,2007,chevrolet,silverado 1500 classic,14999,61000,automatic
+ca,los angeles,2017,toyota,camry,13550,29000,automatic
+ca,los angeles,1999,chevrolet,express,7995,183729,automatic
+ca,los angeles,2019,dodge,charger,31499,12326,automatic
+ca,los angeles,2013,gmc,yukon,11500,107000,automatic
+ca,los angeles,2010,honda,accord,9750,75000,automatic
+ca,los angeles,2006,toyota,tacoma trd,9400,,automatic
+ca,los angeles,2004,jeep,grand cherokee,4400,122000,automatic
+ca,los angeles,2020,porsche,cayenne s,71000,3122,automatic
+ca,los angeles,2014,toyota,yarius,5500,187000,automatic
+ca,los angeles,2018,ford,f150,39500,,automatic
+ca,los angeles,2012,,INTERNATIONAL 4300,25500,172009,automatic
+ca,los angeles,2008,subaru,impreza,0,,automatic
+ca,los angeles,2000,ford,,9000,,automatic
+ca,los angeles,2018,toyota,tacoma,3000,,automatic
+ca,los angeles,2011,toyota,sienna,6000,264797,automatic
+ca,los angeles,2013,toyota,prius 2,9700,121000,automatic
+ca,los angeles,2017,ford,f150 supercrew cab,2700,,automatic
+ca,los angeles,2016,honda,accord,16988,44222,automatic
+ca,los angeles,2014,nissan,rogue,6900,,automatic
+ca,los angeles,2016,hyundai,accent,7900,80429,automatic
+ca,los angeles,2020,chevrolet,silverado 1500,26800,18000,automatic
+ca,los angeles,2007,kia,sorento lx,4000,86252,automatic
+ca,los angeles,2008,honda,crv,10991,75812,automatic
+ca,los angeles,2020,nissan,altima 2.5 s,2000,,automatic
+ca,los angeles,2019,,mercdedes- Banz GLC,19900,15000,automatic
+ca,los angeles,2017,fiat,500e electric hatchback,8495,24500,automatic
+ca,los angeles,2011,kia,optima,0,,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,1972,volkswagen,vanagon,13000,,manual
+ca,los angeles,2017,bmw,330i,2500,,automatic
+ca,los angeles,2012,toyota,prius v,9300,107407,automatic
+ca,los angeles,2015,kia,optima sxl,0,,automatic
+ca,los angeles,2013,ford,f550,0,0000,automatic
+ca,los angeles,2013,ford,flex sel,7900,144771,automatic
+ca,los angeles,2017,subaru,outback,1700,,automatic
+ca,los angeles,2017,mini,cooper s,19995,41265,automatic
+ca,los angeles,2005,toyota,prius,1900,239640,automatic
+ca,los angeles,1999,chevrolet,express,7995,183729,automatic
+ca,los angeles,2011,toyota,sienna ce,0,,automatic
+ca,los angeles,2008,lexus,is250,8750,141350,automatic
+ca,los angeles,2014,nissan,quest,0,78884,automatic
+ca,los angeles,2006,chevrolet,express 1500,5500,226000,automatic
+ca,los angeles,2017,volkswagen,golf,1700,,automatic
+ca,los angeles,2011,chevrolet,hhr,3500,201000,automatic
+ca,los angeles,1958,ford,thunderbird,14995,68748,automatic
+ca,los angeles,2017,mini,cooper s,17995,35730,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2014,chevrolet,malibu,9450,109300,automatic
+ca,los angeles,2008,nissan,rogue sl,4950,160,automatic
+ca,los angeles,2017,mini,cooper s,19995,24230,automatic
+ca,los angeles,2016,kia,forte,7000,101000,automatic
+ca,los angeles,2007,lexus,es350,10980,48366,automatic
+ca,los angeles,2007,toyota,4runner sr5,12000,143000,automatic
+ca,los angeles,2017,mini,cooper s 4-door,19995,35480,automatic
+ca,los angeles,2003,jeep,wrangler rubicon,14995,101166,manual
+ca,los angeles,2017,toyota,camry,0,37152,automatic
+ca,los angeles,2018,ford,f crew cab stx . .l,0,41152,automatic
+ca,los angeles,2009,ford,fusion,0,,automatic
+ca,los angeles,2017,mini,countryman s,20995,43750,automatic
+ca,los angeles,1979,alfa-romeo,romeo spider,16000,91246,manual
+ca,los angeles,2015,mini,cooper,11995,60080,automatic
+ca,los angeles,2007,lexus,rx 350,0,,automatic
+ca,los angeles,2017,nissan,altima,0,39011,automatic
+ca,los angeles,2017,chevrolet,colorado lt,26995,14000,automatic
+ca,los angeles,2016,kia,soul,9997,,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2009,ford,fusion se,950,,automatic
+ca,los angeles,2011,bmw,3 series 328i,0,,automatic
+ca,los angeles,2013,fiat,500 pop,4995,89750,manual
+ca,los angeles,2012,toyota,prius c,10495,55563,automatic
+ca,los angeles,2005,chevrolet,cavalier,1550,,automatic
+ca,los angeles,2006,jeep,wrangler unlimited unlimite,18495,103982,automatic
+ca,los angeles,2015,mercedes-benz,glk 350,19000,51549,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2020,kia,optima,19700,18000,automatic
+ca,los angeles,2011,ford,f450 passenger mobility,12500,167675,automatic
+ca,los angeles,2018,jeep,compass,14900,22831,automatic
+ca,los angeles,1994,gmc,1500 sierra,3599,144000,automatic
+ca,los angeles,2018,hyundai,ioniq electric,13900,34976,automatic
+ca,los angeles,2019,chevrolet,express passenger,18900,26804,automatic
+ca,los angeles,2018,nissan,versa sedan,8900,50363,automatic
+ca,los angeles,2010,honda,cr-v,6400,145326,automatic
+ca,los angeles,2008,subaru,outback,6800,,manual
+ca,los angeles,2013,hyundai,elantra gt hatchback 4d,6800,80000,automatic
+ca,los angeles,2014,mini,cooper hardtop s,11495,84850,automatic
+ca,los angeles,2013,mini,cooper s,10995,76530,automatic
+ca,los angeles,2013,mini,cooper hardtop,8495,85835,automatic
+ca,los angeles,2015,ford,e450 amitrans,38000,67000,automatic
+ca,los angeles,2007,toyota,4runner limited 4x4,13995,201869,automatic
+ca,los angeles,2012,mini,countryman s,9995,71515,manual
+ca,los angeles,2000,bmw,z3,3700,155000,manual
+ca,los angeles,2019,hyundai,tuscon,18500,41000,automatic
+ca,los angeles,2016,ford,f-150 lariat supercrew 4x4 5.0 v8,40995,27369,automatic
+ca,los angeles,2013,fiat,500,7998,85322,automatic
+ca,los angeles,2004,rover,discovery,22998,96773,automatic
+ca,los angeles,2006,,M35,5499,169000,automatic
+ca,los angeles,2011,ford,flex limited,8490,129000,automatic
+ca,los angeles,2006,mini,cooper s,6795,84770,manual
+ca,los angeles,2006,toyota,prius,3400,,automatic
+ca,los angeles,2019,honda,ridgeline,28950,30000,automatic
+ca,los angeles,2002,acura,mdx,1400,241579,automatic
+ca,los angeles,2010,rover,hse,12500,45000,automatic
+ca,los angeles,2014,volkswagen,tiguan,8900,65690,automatic
+ca,los angeles,2014,nissan,armada platinum,19500,85000,automatic
+ca,los angeles,2015,,freightliner cascadia,29500,697000,manual
+ca,los angeles,2015,hyundai,veloster,11995,72353,automatic
+ca,los angeles,2013,fiat,500,6998,121189,automatic
+ca,los angeles,2007,cadillac,srx v6,10450,30000,automatic
+ca,los angeles,2017,mazda,mazda3 4-door,17988,12022,automatic
+ca,los angeles,2016,jeep,renegade,18288,49304,automatic
+ca,los angeles,2018,mazda,mazda3 5-door,16788,23114,automatic
+ca,los angeles,2017,chevrolet,express passenger,15900,47322,automatic
+ca,los angeles,2012,honda,fit,7900,69000,automatic
+ca,los angeles,2017,mercedes-benz,gls,58900,14894,automatic
+ca,los angeles,2016,fiat,500x trekking plus,12995,47610,automatic
+ca,los angeles,2018,subaru,wrx,19900,67985,manual
+ca,los angeles,2018,chevrolet,equinox,14900,27489,automatic
+ca,los angeles,1964,chevrolet,c10,4900,,manual
+ca,los angeles,2018,lexus,es,25900,50110,automatic
+ca,los angeles,2019,dodge,grand caravan,15900,42475,automatic
+ca,los angeles,2017,ford,expedition el platinum x,0,87499,automatic
+ca,los angeles,2014,fiat,500 pop,7495,59535,automatic
+ca,los angeles,2015,nissan,altima,0,39268,automatic
+ca,los angeles,2013,fiat,500 pop hatchback,5995,86900,automatic
+ca,los angeles,2012,fiat,500,6498,68336,automatic
+ca,los angeles,1986,chevrolet,el camino,39980,7214,automatic
+ca,los angeles,2007,,chysler 300,4999,121524,automatic
+ca,los angeles,2011,audi,a4,8000,60000,automatic
+ca,los angeles,2014,mercedes-benz,cla 250,15999,95000,automatic
+ca,los angeles,2012,ford,f-150,27999,80000,automatic
+ca,los angeles,2014,lexus,es 300h sedan 4d,20999,30500,automatic
+ca,los angeles,2012,mercedes-benz,c 250,11999,76000,automatic
+ca,los angeles,2003,cadillac,cts,3200,,automatic
+ca,los angeles,2010,ford,f-150,15999,128000,automatic
+ca,los angeles,2009,infiniti,g37,10999,91000,automatic
+ca,los angeles,2013,fiat,500,6998,65203,automatic
+ca,los angeles,2016,toyota,corolla,11999,59000,other
+ca,los angeles,2007,jeep,wrangler x,13995,151853,automatic
+ca,los angeles,1992,,xj 4x4,4350,200000,automatic
+ca,los angeles,2016,bmw,m4 coupe,42000,46000,automatic
+ca,los angeles,2014,fiat,500l,7495,73372,automatic
+ca,los angeles,2007,volkswagen,new beetle,7300,,automatic
+ca,los angeles,2016,bmw,7 series 740i,40000,81000,automatic
+ca,los angeles,2009,honda,accord ex-l sedan,8900,67000,automatic
+ca,los angeles,2009,subaru,outback 2.5i special edit,6995,126670,automatic
+ca,los angeles,2007,,crysler town & country,3900,,automatic
+ca,los angeles,2008,toyota,rav4,8500,,automatic
+ca,los angeles,2017,jeep,wrangler,0,49773,automatic
+ca,los angeles,2014,bmw,3-series,0,87862,automatic
+ca,los angeles,2009,toyota,camry,4000,,automatic
+ca,los angeles,2016,chevrolet,silverado 1500,0,85455,automatic
+ca,los angeles,2014,bmw,3-series,0,61082,automatic
+ca,los angeles,2015,jeep,grand cherokee,0,86490,automatic
+ca,los angeles,2006,toyota,sienna,3900,,automatic
+ca,los angeles,2015,mercedes-benz,c-class,0,58494,automatic
+ca,los angeles,2016,cadillac,ats sedan,0,36985,automatic
+ca,los angeles,2015,lexus,ct 200h,0,67330,automatic
+ca,los angeles,2010,toyota,tundra grade,19995,167660,automatic
+ca,los angeles,2012,fiat,500 2dr hb sport,4995,70844,manual
+ca,los angeles,2011,,freightliner,23500,290123,automatic
+ca,los angeles,2017,infiniti,q50 premium,0,30800,automatic
+ca,los angeles,1994,honda,civic lx,3000,,manual
+ca,los angeles,2017,fiat,500e,0,23950,automatic
+ca,los angeles,2016,hyundai,veloster turbo,0,53645,automatic
+ca,los angeles,2017,subaru,impreza,0,40601,automatic
+ca,los angeles,1985,bmw,,2500,,automatic
+ca,los angeles,2007,toyota,tundra sr5,14995,104596,automatic
+ca,los angeles,2006,mercedes-benz,e350,6800,126000,automatic
+ca,los angeles,2017,ford,fusion se ecoboost,9955,102112,automatic
+ca,los angeles,2008,jeep,wrangler unlimited x,17995,134000,automatic
+ca,los angeles,2020,bmw,330i,35995,9289,automatic
+ca,los angeles,2001,honda,civic,2200,,manual
+ca,los angeles,2006,jeep,wrangler unlimited rubicon,22995,144307,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,1936,ford,coupe model 68,35,,automatic
+ca,los angeles,2004,toyota,rav4,3400,223000,automatic
+ca,los angeles,2015,,freightliner cascadia,33000,726000,manual
+ca,los angeles,2006,lexus,is250,7300,145300,automatic
+ca,los angeles,2012,fiat,500 pop,6995,70711,automatic
+ca,los angeles,2013,toyota,prius,8500,,automatic
+ca,los angeles,2012,fiat,500 pop,6295,75811,automatic
+ca,los angeles,2012,fiat,500 sport,5495,101735,manual
+ca,los angeles,2004,jeep,wrangler unlimited lj,16500,120000,automatic
+ca,los angeles,2014,mercedes-benz,,2000,,automatic
+ca,los angeles,2014,bmw,x5 sdrive35i,18995,113559,automatic
+ca,los angeles,,,,5500,,
+ca,los angeles,2017,chevrolet,volt lt,14995,35797,automatic
+ca,los angeles,2009,chevrolet,impala ls,4995,156160,automatic
+ca,los angeles,2012,bmw,535i,14995,90020,automatic
+ca,los angeles,2010,toyota,corolla,5995,132411,automatic
+ca,los angeles,2009,toyota,prius hybrid,5995,137695,automatic
+ca,los angeles,2009,chevrolet,impala ls,4995,156160,automatic
+ca,los angeles,2012,bmw,535i,14995,90020,automatic
+ca,los angeles,2010,toyota,corolla,5995,132411,automatic
+ca,los angeles,2009,toyota,prius hybrid,5995,137695,automatic
+ca,los angeles,2012,chevrolet,silverado,22998,187462,automatic
+ca,los angeles,2017,dodge,charger,33500,29346,automatic
+ca,los angeles,2010,nissan,rogue sl,4000,87000,other
+ca,los angeles,2008,toyota,sienna xle,4000,110000,automatic
+ca,los angeles,2012,volkswagen,jetta,5000,175000,automatic
+ca,los angeles,2005,lexus,gx 470 bad credit,25997,54000,automatic
+ca,los angeles,2011,bmw,328i sedan,0,,automatic
+ca,los angeles,2011,honda,odyssey ex,0,,automatic
+ca,los angeles,1971,,triumph tr6,5500,,manual
+ca,los angeles,2008,gmc,yukon xl 1500,7700,185573,automatic
+ca,los angeles,2012,mazda,mazda3,0,91133,automatic
+ca,los angeles,2014,ford,focus,0,60982,automatic
+ca,los angeles,1940,chrysler,windsor coupe restomod,49980,7724,automatic
+ca,los angeles,2002,toyota,prius,4995,141308,automatic
+ca,los angeles,2011,mini,cooper s hardtop,6995,105222,automatic
+ca,los angeles,2008,toyota,highlander base,11995,,automatic
+ca,los angeles,2014,chevrolet,,2000,,automatic
+ca,los angeles,2009,bmw,3 series 328i sedan,6500,115000,automatic
+ca,los angeles,2015,mercedes-benz,c-class,0,76319,automatic
+ca,los angeles,2017,ford,explorer,0,38587,automatic
+ca,los angeles,2006,,isuzu npr,13500,176500,automatic
+ca,los angeles,2010,lexus,is,10995,148458,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2010,toyota,corolla,5995,132411,automatic
+ca,los angeles,2017,volkswagen,jetta,0,44989,automatic
+ca,los angeles,2016,kia,optima,0,33962,automatic
+ca,los angeles,2003,mercedes-benz,benz s430 4matic,3950,221699,automatic
+ca,los angeles,2014,ford,flex dr se fwd,0,99339,automatic
+ca,los angeles,2016,subaru,forester,0,42839,automatic
+ca,los angeles,1998,lexus,es 300,2500,,automatic
+ca,los angeles,2014,ford,transit connect xlt,14000,66666,automatic
+ca,los angeles,1966,ford,mustang convertible,23000,65200,automatic
+ca,los angeles,1990,,Any,1,,manual
+ca,los angeles,1977,jeep,cj7,6500,,manual
+ca,los angeles,2004,toyota,matrix,3000,170000,automatic
+ca,los angeles,2009,honda,civic ex-l sedan,5000,174830,automatic
+ca,los angeles,2013,,scion tc coupe,6950,,automatic
+ca,los angeles,2011,audi,a8,12999,113974,automatic
+ca,los angeles,2009,kia,borrego,4200,130000,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2010,chevrolet,traverse lt,5500,120000,automatic
+ca,los angeles,2005,chevrolet,avalanche ltz,6200,170000,automatic
+ca,los angeles,2013,chrysler,200 touring 4dr sedan,4600,,automatic
+ca,los angeles,2010,toyota,sienna xle limited,8500,150000,automatic
+ca,los angeles,2011,bmw,535i,12995,108083,automatic
+ca,los angeles,2012,bmw,535i,14995,90020,automatic
+ca,los angeles,2019,toyota,tacoma trd sport,0,9978,automatic
+ca,los angeles,2006,bmw,525i,7000,135000,automatic
+ca,los angeles,2005,,Hummer H2,16000,174448,automatic
+ca,los angeles,2003,honda,civic,875,,automatic
+ca,los angeles,2007,honda,element,3900,113000,automatic
+ca,los angeles,2010,toyota,rav4,10991,98053,automatic
+ca,los angeles,2001,toyota,corolla,6991,92501,automatic
+ca,los angeles,2014,chevrolet,,2000,,automatic
+ca,los angeles,2008,rover,sport,9400,130000,automatic
+ca,los angeles,2018,porsche,macan,50991,25529,automatic
+ca,los angeles,2015,lincoln,mkc,12990,76000,automatic
+ca,los angeles,2016,cadillac,ats,0,36985,automatic
+ca,los angeles,2011,mercedes-benz,benz ml350 4matic,7450,,automatic
+ca,los angeles,2016,lexus,is 200t,25000,85000,automatic
+ca,los angeles,2007,mini,cooper,4650,,automatic
+ca,los angeles,2018,hyundai,elantra se,13900,,automatic
+ca,los angeles,2017,lexus,rc,53991,27794,automatic
+ca,los angeles,2004,nissan,frontier,8495,151749,automatic
+ca,los angeles,2016,,BENZ,26500,,automatic
+ca,los angeles,2014,jeep,cherokee limited 4x4 gas,10500,142199,automatic
+ca,los angeles,2000,toyota,tacoma prerunner v6,3800,,automatic
+ca,los angeles,2014,nissan,juke s,9500,105264,automatic
+ca,los angeles,2010,lexus,gx,19991,164530,automatic
+ca,los angeles,2011,toyota,prius,9895,109017,automatic
+ca,los angeles,2013,subaru,legacy,7998,146543,automatic
+ca,los angeles,2003,toyota,tacoma,15500,,automatic
+ca,los angeles,2011,bmw,x6,18000,96000,automatic
+ca,los angeles,2001,ram,,6500,,automatic
+ca,los angeles,2000,ford,e-150,1950,,automatic
+ca,los angeles,2003,toyota,tacoma sr5,15500,120096,automatic
+ca,los angeles,2014,lexus,ct200h,13980,80400,automatic
+ca,los angeles,2007,honda,odyssey exl,4900,,automatic
+ca,los angeles,2002,buick,century,3995,84495,automatic
+ca,los angeles,2018,,peterbilt 579,0,,automatic
+ca,los angeles,1999,bmw,323i,4995,81274,automatic
+ca,los angeles,2005,toyota,camry,4200,150000,automatic
+ca,los angeles,2017,bmw,m4,52000,15000,automatic
+ca,los angeles,2010,cadillac,srx,0,,automatic
+ca,los angeles,2010,ford,e250 econoline,1950,,automatic
+ca,los angeles,2011,ford,e-250,2495,,automatic
+ca,los angeles,2008,,scion xb,0,,automatic
+ca,los angeles,2007,gmc,,0,113520,automatic
+ca,los angeles,1997,bmw,540i,3995,82730,automatic
+ca,los angeles,2009,mercedes-benz,,0,42000,automatic
+ca,los angeles,2013,kia,,0,111587,automatic
+ca,los angeles,2004,ford,,1100,,automatic
+ca,los angeles,2018,nissan,,0,23459,other
+ca,los angeles,2019,nissan,,0,38760,other
+ca,los angeles,2019,nissan,,0,38019,other
+ca,los angeles,2019,nissan,,0,37464,other
+ca,los angeles,2019,nissan,,0,39244,other
+ca,los angeles,2017,nissan,,0,32636,other
+ca,los angeles,2018,tesla,3,36500,23500,automatic
+ca,los angeles,2010,honda,accord,6500,,automatic
+ca,los angeles,2015,hyundai,veloster,11995,72353,automatic
+ca,los angeles,2017,ford,edge,0,73940,automatic
+ca,los angeles,1999,bmw,528i,3995,90547,automatic
+ca,los angeles,2016,toyota,rav4,18500,,automatic
+ca,los angeles,1984,mercedes-benz,500-class,12980,144180,automatic
+ca,los angeles,2010,toyota,corolla s,3950,,automatic
+ca,los angeles,2008,,mazda6,800,138900,automatic
+ca,los angeles,2010,hyundai,genesis coupe,10995,80909,automatic
+ca,los angeles,2014,bmw,3 series gran turismo,13995,115790,automatic
+ca,los angeles,2007,mercedes-benz,sl-class,0,74254,automatic
+ca,los angeles,2012,mazda,mazda3,0,101367,automatic
+ca,los angeles,1993,cadillac,sedan deville,1400,128600,automatic
+ca,los angeles,2000,toyota,avalon,4200,238720,automatic
+ca,los angeles,2011,toyota,prius,9895,109017,automatic
+ca,los angeles,2013,subaru,legacy,7998,146543,automatic
+ca,los angeles,2003,toyota,tacoma,15500,,automatic
+ca,los angeles,2011,bmw,x6,18000,96000,automatic
+ca,los angeles,2001,ram,,6500,,automatic
+ca,los angeles,2000,ford,e-150,1950,,automatic
+ca,los angeles,2003,toyota,tacoma sr5,15500,120096,automatic
+ca,los angeles,2014,lexus,ct200h,13980,80400,automatic
+ca,los angeles,2007,honda,odyssey exl,4900,,automatic
+ca,los angeles,2002,buick,century,3995,84495,automatic
+ca,los angeles,2018,,peterbilt 579,0,,automatic
+ca,los angeles,1999,bmw,323i,4995,81274,automatic
+ca,los angeles,2005,toyota,camry,4200,150000,automatic
+ca,los angeles,2017,bmw,m4,52000,15000,automatic
+ca,los angeles,2010,cadillac,srx,0,,automatic
+ca,los angeles,2010,ford,e250 econoline,1950,,automatic
+ca,los angeles,2011,ford,e-250,2495,,automatic
+ca,los angeles,2008,,scion xb,0,,automatic
+ca,los angeles,2007,gmc,,0,113520,automatic
+ca,los angeles,1997,bmw,540i,3995,82730,automatic
+ca,los angeles,2009,mercedes-benz,,0,42000,automatic
+ca,los angeles,2013,kia,,0,111587,automatic
+ca,los angeles,2004,ford,,1100,,automatic
+ca,los angeles,2018,nissan,,0,23459,other
+ca,los angeles,2019,nissan,,0,38760,other
+ca,los angeles,2019,nissan,,0,38019,other
+ca,los angeles,2019,nissan,,0,37464,other
+ca,los angeles,2019,nissan,,0,39244,other
+ca,los angeles,2017,nissan,,0,32636,other
+ca,los angeles,2018,tesla,3,36500,23500,automatic
+ca,los angeles,2010,honda,accord,6500,,automatic
+ca,los angeles,2015,hyundai,veloster,11995,72353,automatic
+ca,los angeles,2017,ford,edge,0,73940,automatic
+ca,los angeles,1999,bmw,528i,3995,90547,automatic
+ca,los angeles,2016,toyota,rav4,18500,,automatic
+ca,los angeles,1984,mercedes-benz,500-class,12980,144180,automatic
+ca,los angeles,2010,toyota,corolla s,3950,,automatic
+ca,los angeles,2008,,mazda6,800,138900,automatic
+ca,los angeles,2010,hyundai,genesis coupe,10995,80909,automatic
+ca,los angeles,2014,bmw,3 series gran turismo,13995,115790,automatic
+ca,los angeles,2007,mercedes-benz,sl-class,0,74254,automatic
+ca,los angeles,2012,mazda,mazda3,0,101367,automatic
+ca,los angeles,1993,cadillac,sedan deville,1400,128600,automatic
+ca,los angeles,2000,toyota,avalon,4200,238720,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2008,lexus,rx,10495,144998,automatic
+ca,los angeles,2008,lexus,rx,10495,144998,automatic
+ca,los angeles,2004,toyota,corolla matrix,4495,189594,automatic
+ca,los angeles,2008,lexus,rx,10495,144998,automatic
+ca,los angeles,2013,bmw,5 series,15995,74711,automatic
+ca,los angeles,2018,chevrolet,malibu,11450,88600,automatic
+ca,los angeles,2010,toyota,prius,6900,133000,automatic
+ca,los angeles,1999,lexus,rx 300,4100,,automatic
+ca,los angeles,2007,lexus,es 350,8000,123017,automatic
+ca,los angeles,2018,ford,fusion,0,47075,automatic
+ca,los angeles,2017,honda,civic sedan,0,47588,automatic
+ca,los angeles,1970,,Chevelle,35000,,automatic
+ca,los angeles,2016,kia,optima,0,37090,automatic
+ca,los angeles,2016,kia,sorento,0,103935,automatic
+ca,los angeles,2017,subaru,outback,0,75078,manual
+ca,los angeles,2012,porsche,911,77000,89000,automatic
+ca,los angeles,2016,lexus,rx 350,26995,79775,automatic
+ca,los angeles,2017,volkswagen,jetta,0,29258,automatic
+ca,los angeles,2019,nissan,altima,0,31400,automatic
+ca,los angeles,2014,jeep,wrangler wd dr sport,0,80592,automatic
+ca,los angeles,2012,mazda,mazda3,1495,43599,automatic
+ca,los angeles,2013,audi,s5 prestige,22000,72000,manual
+ca,los angeles,2013,audi,s5,28000,92000,automatic
+ca,los angeles,2017,hyundai,sonata,0,28124,automatic
+ca,los angeles,2004,volvo,xc70 awd,3800,147000,automatic
+ca,los angeles,2013,audi,s5,29000,86000,automatic
+ca,los angeles,1976,toyota,land cruiser,16000,79000,manual
+ca,los angeles,2013,ford,fiesta hatchback,4800,,automatic
+ca,los angeles,2013,,hino 338 refrigerated,24000,,automatic
+ca,los angeles,2011,chevrolet,silverado,18998,301830,automatic
+ca,los angeles,2017,honda,accord sport,0,81545,automatic
+ca,los angeles,2008,saturn,vue,2950,,automatic
+ca,los angeles,2006,ford,e150 van,3750,,automatic
+ca,los angeles,1996,honda,accord lx sedan,3950,83000,automatic
+ca,los angeles,2017,mercedes-benz,c-class,28895,39258,automatic
+ca,los angeles,1978,jeep,cherokee,15500,,manual
+ca,los angeles,2013,,international prostar,12500,,manual
+ca,los angeles,2015,ford,explorer limited,14900,102700,automatic
+ca,los angeles,1985,ford,f-250 lariat super duty,3300,101390,automatic
+ca,los angeles,2018,chevrolet,malibu,8950,141500,automatic
+ca,los angeles,2018,ford,fusion,19495,20064,automatic
+ca,los angeles,2011,toyota,sienna,11995,110292,automatic
+ca,los angeles,2017,hyundai,elantra,13995,18699,automatic
+ca,los angeles,2018,hyundai,elantra,14995,26074,automatic
+ca,los angeles,2012,mini,cooper hardtop,7995,106558,automatic
+ca,los angeles,2016,honda,cr-v,17995,94085,automatic
+ca,los angeles,2004,toyota,corolla matrix,4495,189594,automatic
+ca,los angeles,2018,hyundai,santa fe sport,18995,26913,automatic
+ca,los angeles,2019,chevrolet,spark,11495,1718,automatic
+ca,los angeles,2016,audi,a3,15895,52570,automatic
+ca,los angeles,2019,volkswagen,tiguan,24995,19419,automatic
+ca,los angeles,2015,toyota,highlander,20995,72127,automatic
+ca,los angeles,2001,jaguar,xj8l,4500,80000,automatic
+ca,los angeles,2019,ford,mustang,0,27747,automatic
+ca,los angeles,2015,nissan,altima 2.5 s,10997,59000,automatic
+ca,los angeles,2008,ford,f150 triton,9500,111745,automatic
+ca,los angeles,2009,audi,a5 quattro,8750,114372,automatic
+ca,los angeles,2003,volkswagen,jetta,2500,235000,automatic
+ca,los angeles,2015,ford,cmax hybrid,11997,39000,automatic
+ca,los angeles,2012,honda,crv lx,9500,,automatic
+ca,los angeles,2001,jeep,grand cherokee laredo,4500,142860,automatic
+ca,los angeles,2010,subaru,forester,7499,124596,automatic
+ca,los angeles,2012,bmw,535i,14995,90020,automatic
+ca,los angeles,2010,bmw,x5,13995,71553,automatic
+ca,los angeles,2011,bmw,535i,12995,108083,automatic
+ca,los angeles,2011,mazda,cx-7,7999,138159,automatic
+ca,los angeles,2012,cadillac,escalade esv,27999,67000,automatic
+ca,los angeles,2009,subaru,forester,6999,148000,automatic
+ca,los angeles,2007,bmw,335i,11999,74000,automatic
+ca,los angeles,2014,mercedes-benz,cla-class,0,87414,automatic
+ca,los angeles,2013,volkswagen,tiguan s,1950,,automatic
+ca,los angeles,2007,lexus,ls 460,16999,50000,automatic
+ca,los angeles,2017,ford,f-150,26999,35000,automatic
+ca,los angeles,2013,jeep,patriot,1950,121821,automatic
+ca,los angeles,2015,mercedes-benz,c 300,14999,109000,automatic
+ca,los angeles,2014,ford,mustang,24999,36000,manual
+ca,los angeles,2014,bmw,x5 xdrive35i,22999,77000,automatic
+ca,los angeles,2014,bmw,x5 sdrive35i,27999,61000,automatic
+ca,los angeles,2013,chevrolet,impala,1950,115988,automatic
+ca,los angeles,2012,mercedes-benz,e 350,13999,80000,automatic
+ca,los angeles,2014,chevrolet,,2000,,automatic
+ca,los angeles,2011,jaguar,xj,19999,49000,automatic
+ca,los angeles,2013,ford,fusion se,1750,,automatic
+ca,los angeles,2008,toyota,fj cruiser,19999,148000,automatic
+ca,los angeles,2008,toyota,4runner,17999,113000,automatic
+ca,los angeles,2008,cadillac,escalade,26999,46000,automatic
+ca,los angeles,2015,hyundai,sonata,7500,114000,automatic
+ca,los angeles,2005,ford,super duty f-250,23999,70000,automatic
+ca,los angeles,2004,ford,super duty f-250,24999,46000,automatic
+ca,los angeles,2012,bmw,535i,15999,81000,automatic
+ca,los angeles,2016,kia,soul,9997,,automatic
+ca,los angeles,2007,nissan,frontier,1950,127009,automatic
+ca,los angeles,2018,subaru,wrx,22999,45000,manual
+ca,los angeles,2008,nissan,maxima,11495,124159,automatic
+ca,los angeles,2013,jeep,patriot,1950,121821,automatic
+ca,los angeles,2017,toyota,corolla,16499,6500,automatic
+ca,los angeles,2014,toyota,fj cruiser,48999,13302,automatic
+ca,los angeles,2013,chevrolet,malibu,1950,128559,automatic
+ca,los angeles,2015,porsche,911 gt3,119800,15985,automatic
+ca,los angeles,2013,volkswagen,tiguan s,1950,,automatic
+ca,los angeles,2012,lexus,rx 350,12499,137226,automatic
+ca,los angeles,2015,ford,taurus sel,1950,,automatic
+ca,los angeles,2012,,freightliner cascadia,29500,,manual
+ca,los angeles,2016,cadillac,ats,18900,45000,automatic
+ca,los angeles,2019,subaru,crosstrek premium awd gas,18300,,automatic
+ca,los angeles,2016,kia,optima,0,146005,automatic
+ca,los angeles,1964,,1964 plymouth valiant 2 dr ht,6500,28000,automatic
+ca,los angeles,2006,toyota,camry le,4200,150000,automatic
+ca,los angeles,2016,ford,mustang v6 convertible 2d,17995,55000,automatic
+ca,los angeles,2017,nissan,pathfinder,15990,55000,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2017,chevrolet,equinox,13995,59873,automatic
+ca,los angeles,2009,volvo,s40 2.4i,4800,,automatic
+ca,los angeles,1973,,AMC Hornet,10980,36000,automatic
+ca,los angeles,2013,toyota,corolla,10995,40951,automatic
+ca,los angeles,2008,ram,,10998,146275,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2006,honda,pilot exl,4900,114000,automatic
+ca,los angeles,2016,chevrolet,express 2500 cargo van,0,,automatic
+ca,los angeles,2001,honda,accord,1400,,automatic
+ca,los angeles,2009,ford,escape,0,162255,automatic
+ca,los angeles,2019,ford,f-450,46850,30530,automatic
+ca,los angeles,2017,ford,fusion se,8999,132217,automatic
+ca,los angeles,2019,ford,fusion hybrid,0,39535,automatic
+ca,los angeles,2018,volkswagen,gti,18400,29400,manual
+ca,los angeles,2015,jeep,wrangler,0,35000,automatic
+ca,los angeles,2016,kia,sorento,0,22773,automatic
+ca,los angeles,2010,,touota corolla s,7499,113774,automatic
+ca,los angeles,2005,infiniti,g35,9995,59000,automatic
+ca,los angeles,2014,chevrolet,suburban,16999,123900,automatic
+ca,los angeles,2017,fiat,500e electric,0,23950,automatic
+ca,los angeles,2014,chevrolet,corvette,37998,57897,manual
+ca,los angeles,2011,chevrolet,camaro 2ss,0,92180,automatic
+ca,los angeles,2010,honda,accord,5700,115000,automatic
+ca,los angeles,2019,volkswagen,jetta,0,7827,automatic
+ca,los angeles,2017,lincoln,mkz l,0,31320,automatic
+ca,los angeles,2017,lincoln,mkz l,0,31320,automatic
+ca,los angeles,2017,toyota,corolla im cvt,0,57664,automatic
+ca,los angeles,2018,nissan,sentra,0,11956,automatic
+ca,los angeles,2016,hyundai,accent se,7590,80907,automatic
+ca,los angeles,2008,lexus,rx350,7200,191972,automatic
+ca,los angeles,2008,ford,mustang v6 coupe deluxe,5800,,automatic
+ca,los angeles,2007,mercedes-benz,benz ml350,8000,129000,automatic
+ca,los angeles,2016,chevrolet,silverado 1500 lt,0,85455,automatic
+ca,los angeles,2005,toyota,4runner,7250,270627,automatic
+ca,los angeles,2017,hyundai,elantra,14499,18509,automatic
+ca,los angeles,2015,bmw,320i,16499,51390,automatic
+ca,los angeles,1983,chevrolet,winnebago,8500,73000,automatic
+ca,los angeles,2013,toyota,corolla,10995,40951,automatic
+ca,los angeles,2018,mitsubishi,outlander le,0,42383,automatic
+ca,los angeles,1998,honda,prelude sh,13750,2000,manual
+ca,los angeles,2004,lexus,rx330,5900,128000,automatic
+ca,los angeles,1956,,Rolls Royce Silver,29999,,automatic
+ca,los angeles,2014,chevrolet,corvette,37998,57897,manual
+ca,los angeles,2014,subaru,forester xt,13800,74500,automatic
+ca,los angeles,2015,ford,focus se hatchback,10800,31000,automatic
+ca,los angeles,2013,ford,fusion,0,93018,automatic
+ca,los angeles,2005,gmc,c5500,8000,,automatic
+ca,los angeles,2015,honda,accord sport,14999,83571,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2012,nissan,versa,5995,118345,automatic
+ca,los angeles,2011,bmw,535i,12995,108083,automatic
+ca,los angeles,2010,bmw,x5,13995,71553,automatic
+ca,los angeles,2017,chevrolet,malibu ls,16997,22000,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,2012,honda,crz,7900,95100,automatic
+ca,los angeles,2008,subaru,wrx,9000,118124,manual
+ca,los angeles,2007,toyota,corolla le,6997,,automatic
+ca,los angeles,1979,pontiac,trans am,2600,1,automatic
+ca,los angeles,2014,hyundai,elantra,9997,,automatic
+ca,los angeles,2017,lexus,nx 200t,22999,41748,automatic
+ca,los angeles,2015,nissan,altima 2.5 s,10997,59000,automatic
+ca,los angeles,2018,nissan,sentra,13390,38311,automatic
+ca,los angeles,2018,mercedes-benz,cla,25995,32278,automatic
+ca,los angeles,2011,toyota,corolla le,7900,121000,automatic
+ca,los angeles,2010,lexus,es 350,0,103579,automatic
+ca,los angeles,2016,toyota,corolla le 4door,10500,60000,automatic
+ca,los angeles,2014,chevrolet,,2000,,automatic
+ca,los angeles,2004,jeep,grand cherokee limited,4000,175000,automatic
+ca,los angeles,2019,hyundai,elantra,13688,43136,automatic
+ca,los angeles,2018,tesla,model s,50688,26562,automatic
+ca,los angeles,2015,kia,soul,8000,104000,automatic
+ca,los angeles,2000,volkswagen,westfalia,25000,287495,automatic
+ca,los angeles,2012,ford,mustang,23980,26061,automatic
+ca,los angeles,2007,mini,cooper s,6895,81448,manual
+ca,los angeles,1999,mercedes-benz,benz e320,2500,139000,automatic
+ca,los angeles,2014,toyota,avalon hybrid,16900,67377,automatic
+ca,los angeles,2002,ford,explorer,2900,,automatic
+ca,los angeles,2015,lexus,rx 350,18795,99518,automatic
+ca,los angeles,2014,nissan,versa,5000,,manual
+ca,los angeles,2014,toyota,avalon hybrid,16900,67377,automatic
+ca,los angeles,2002,ford,explorer,2900,,automatic
+ca,los angeles,2015,lexus,rx 350,18795,99518,automatic
+ca,los angeles,2014,nissan,versa,5000,,manual
+ca,los angeles,2005,chevrolet,silverado,10998,112521,automatic
+ca,los angeles,2018,nissan,sentra,13390,38311,automatic
+ca,los angeles,2011,volkswagen,routan se,7999,99987,automatic
+ca,los angeles,2011,toyota,sienna,8999,190000,automatic
+ca,los angeles,2018,mercedes-benz,cla,26295,30616,automatic
+ca,los angeles,2015,chevrolet,suburban,22848,135152,automatic
+ca,los angeles,2016,mazda,cx-5,18995,67011,automatic
+ca,los angeles,2004,nissan,xterra,5350,129823,automatic
+ca,los angeles,2018,honda,accord,23985,14970,automatic
+ca,los angeles,2016,hyundai,elantra,0,89000,automatic
+ca,los angeles,2016,hyundai,elantra gt,0,101000,automatic
+ca,los angeles,2009,honda,odyssey,0,129000,automatic
+ca,los angeles,2012,nissan,quest,0,118000,automatic
+ca,los angeles,2012,lexus,ct 200h,0,119000,automatic
+ca,los angeles,2016,toyota,prius,16986,66439,automatic
+ca,los angeles,2018,infiniti,q50,27987,39230,automatic
+ca,los angeles,2015,honda,accord,14499,68891,automatic
+ca,los angeles,2012,lexus,is,12999,128103,automatic
+ca,los angeles,2017,toyota,camry,12995,123223,automatic
+ca,los angeles,2014,honda,pilot,14499,104560,automatic
+ca,los angeles,2012,toyota,camry,11995,122034,automatic
+ca,los angeles,2007,toyota,tacoma,15799,157394,automatic
+ca,los angeles,2015,dodge,dart,9999,112507,manual
+ca,los angeles,2018,toyota,c-hr,19599,29183,automatic
+ca,los angeles,2017,honda,cr-v,19464,25337,automatic
+ca,los angeles,2019,jeep,grand cherokee limited 4x4,38000,18300,automatic
+ca,los angeles,2004,honda,civic,1000,179209,automatic
+ca,los angeles,2018,honda,clarity plug-in hybrid,19586,20213,automatic
+ca,los angeles,2017,audi,q7,34500,56101,automatic
+ca,los angeles,2019,porsche,cayenne s,79950,,automatic
+ca,los angeles,2008,toyota,tacoma,7700,220325,automatic
+ca,los angeles,2018,subaru,impreza,18795,19213,automatic
+ca,los angeles,2010,lexus,rx,14995,81289,automatic
+ca,los angeles,2010,lexus,rx,14995,81289,automatic
+ca,los angeles,2017,subaru,impreza,14900,24298,manual
+ca,los angeles,2017,bmw,3 series,31751,42833,automatic
+ca,los angeles,2014,bmw,3-series,0,87862,automatic
+ca,los angeles,2014,bmw,3-series,0,61082,automatic
+ca,los angeles,2000,ford,f-350 super duty srw,32800,57428,automatic
+ca,los angeles,2017,bmw,x1,0,44260,automatic
+ca,los angeles,2016,cadillac,ats sedan,0,36985,automatic
+ca,los angeles,2018,nissan,sentra,13586,13047,automatic
+ca,los angeles,2015,nissan,sentra limited,8977,89081,automatic
+ca,los angeles,2017,toyota,corolla,14925,39780,automatic
+ca,los angeles,2017,honda,accord,11900,102722,automatic
+ca,los angeles,2018,lexus,es 350,27485,23632,automatic
+ca,los angeles,2017,lexus,rx 350,26900,45572,automatic
+ca,los angeles,2004,mercedes-benz,benz e55 amg,14000,,automatic
+ca,los angeles,2011,chevrolet,camaro,0,92180,automatic
+ca,los angeles,2018,lexus,es 350,28900,13373,automatic
+ca,los angeles,2017,bmw,x3,0,56041,automatic
+ca,los angeles,2017,toyota,rav4,23900,26085,automatic
+ca,los angeles,2017,volkswagen,jetta,0,28361,automatic
+ca,los angeles,2017,toyota,tacoma,31591,47607,automatic
+ca,los angeles,2019,ford,flex,0,26010,automatic
+ca,los angeles,1992,rover,defender 4wd 110 4 d,145000,48029,manual
+ca,los angeles,2014,toyota,corolla s plus,8500,66120,manual
+ca,los angeles,2017,volkswagen,passat,13900,27298,automatic
+ca,los angeles,2019,nissan,altima,0,27937,automatic
+ca,los angeles,2019,hyundai,sonata sel .l,0,24412,automatic
+ca,los angeles,2019,hyundai,sonata sel .l,0,24412,automatic
+ca,los angeles,2016,ford,transit connect swb xl,0,16519,automatic
+ca,los angeles,2008,nissan,sentra,5495,177819,manual
+ca,los angeles,2018,hyundai,elantra gt,13485,28496,automatic
+ca,los angeles,2015,lexus,is 250,26500,31000,automatic
+ca,los angeles,2014,bmw,3 - series 328i,0,61082,automatic
+ca,los angeles,2017,toyota,highlander,27985,37545,automatic
+ca,los angeles,1998,aston-martin,martin db7 volante conver,34500,45001,automatic
+ca,los angeles,2018,infiniti,qx60,26986,37899,automatic
+ca,los angeles,2020,nissan,altima 2.5 sr,0,9000,automatic
+ca,los angeles,2017,jeep,renegade,13888,59435,automatic
+ca,los angeles,2017,toyota,tacoma,30887,37784,automatic
+ca,los angeles,2006,audi,a4,3300,,automatic
+ca,los angeles,2014,bmw,3 - series 328i,0,61082,automatic
+ca,los angeles,2018,kia,optima,15874,12976,automatic
+ca,los angeles,2018,honda,accord,21385,31828,automatic
+ca,los angeles,2018,mercedes-benz,cla,24995,37688,automatic
+ca,los angeles,2017,ford,fusion,0,66493,automatic
+ca,los angeles,2017,lexus,rx350 fwd,26900,45572,automatic
+ca,los angeles,2017,toyota,prius prime,19648,35563,automatic
+ca,los angeles,2017,infiniti,q50,25987,14507,automatic
+ca,los angeles,2017,,Isuzu NRR,0,54491,automatic
+ca,los angeles,2018,porsche,macan,0,23659,automatic
+ca,los angeles,2019,mercedes-benz,sprinter,0,51,automatic
+ca,los angeles,2019,ford,transit passenger wagon,0,56395,automatic
+ca,los angeles,2020,chevrolet,express cargo van,0,15637,automatic
+ca,los angeles,2016,rover,evoque,0,55922,automatic
+ca,los angeles,2017,honda,accord lx,11900,102722,automatic
+ca,los angeles,2017,infiniti,q50,22987,34353,automatic
+ca,los angeles,2015,rover,evoque,0,65095,automatic
+ca,los angeles,2017,infiniti,q50,24478,32488,automatic
+ca,los angeles,2010,toyota,prius,8900,80000,automatic
+ca,los angeles,2004,honda,civic lx sedan 4d,2200,143711,automatic
+ca,los angeles,2017,infiniti,qx60,27487,35974,automatic
+ca,los angeles,1929,mercedes-benz,benz,13299,56,manual
+ca,los angeles,2012,bmw,650xi,20990,74000,automatic
+ca,los angeles,2017,toyota,corolla,13987,19981,automatic
+ca,los angeles,2003,mercedes-benz,benz s430,4800,185000,automatic
+ca,los angeles,2013,mazda,cx-9,11900,69500,automatic
+ca,los angeles,2017,bmw,x5,30987,36706,automatic
+ca,los angeles,2017,,Freightliner M2,57500,31242,automatic
+ca,los angeles,2017,infiniti,q50,30985,35140,automatic
+ca,los angeles,2013,toyota,venza,11998,112211,automatic
+ca,los angeles,2017,honda,civic ex-l,0,61000,automatic
+ca,los angeles,2008,bmw,,5999,200000,automatic
+ca,los angeles,2017,infiniti,q60,28987,36713,automatic
+ca,los angeles,2001,bmw,528i,1400,120494,automatic
+ca,los angeles,2007,gmc,sierra 1500,12500,,automatic
+ca,los angeles,2017,infiniti,qx60,26475,34427,automatic
+ca,los angeles,2012,bmw,650xi,20990,74000,automatic
+ca,los angeles,2016,honda,cr-v,19987,34658,automatic
+ca,los angeles,2010,lexus,hs250 hybrid,4000,,automatic
+ca,los angeles,1973,ford,bronco,89000,,automatic
+ca,los angeles,2010,lexus,hs250 hybrid,4000,,automatic
+ca,los angeles,1973,ford,bronco,89000,,automatic
+ca,los angeles,2005,mercedes-benz,benz e500,12500,,automatic
+ca,los angeles,2013,bmw,335is,24500,54600,manual
+ca,los angeles,2015,audi,q5 premium,19800,40000,automatic
+ca,los angeles,2012,volkswagen,tiguan 4 motion,6800,100000,automatic
+ca,los angeles,2012,toyota,prius,5900,149801,automatic
+ca,los angeles,2014,mercedes-benz,sprinter,85000,130000,automatic
+ca,los angeles,2001,,MBZ ML320,3000,173,automatic
+ca,los angeles,2018,,joyner renegade,0,21,automatic
+ca,los angeles,2007,mini,cooper s,6895,81448,manual
+ca,los angeles,2015,bmw,5 series,18598,62057,automatic
+ca,los angeles,2000,lexus,gs 300,3000,,automatic
+ca,los angeles,2015,lexus,is 250,22900,75645,automatic
+ca,los angeles,2014,volkswagen,jetta sedan,0,88367,automatic
+ca,los angeles,2017,toyota,avalon xle,16495,88530,automatic
+ca,los angeles,2017,infiniti,qx70,24900,53903,automatic
+ca,los angeles,1989,ford,f super duty,3900,45419,manual
+ca,los angeles,2016,honda,pilot,21850,69867,automatic
+ca,los angeles,2000,ford,crown victoria police,3000,115500,automatic
+ca,los angeles,2004,ford,escape xls,2900,144000,automatic
+ca,los angeles,2017,ford,focus,0,24436,automatic
+ca,los angeles,2016,honda,cr-v,17450,31966,automatic
+ca,los angeles,2017,jeep,cherokee,0,61080,automatic
+ca,los angeles,2016,hyundai,sonata,0,84586,automatic
+ca,los angeles,2016,chevrolet,colorado,16000,100553,automatic
+ca,los angeles,2006,cadillac,cts,4000,141000,automatic
+ca,los angeles,2013,bmw,x3 xdrive28i,12999,93580,automatic
+ca,los angeles,2016,toyota,camry,13985,43535,automatic
+ca,los angeles,2015,chevrolet,camaro rs convertible,18000,22055,automatic
+ca,los angeles,2007,mini,cooper s,6895,81448,manual
+ca,los angeles,2016,volkswagen,jetta,0,20709,automatic
+ca,los angeles,2017,ram,promaster cargo van,0,55896,automatic
+ca,los angeles,2020,nissan,altima,0,1501,automatic
+ca,los angeles,2020,kia,forte,0,36312,automatic
+ca,los angeles,2017,ford,transit connect cargo,0,,automatic
+ca,los angeles,2017,lexus,es,23900,38954,automatic
+ca,los angeles,2014,ram,1500 crew cab,0,,automatic
+ca,los angeles,2017,ford,f- xl wd supercrew .' box,0,34922,automatic
+ca,los angeles,2017,ford,f- xl wd supercrew .' box,0,34922,automatic
+ca,los angeles,2017,ford,explorer,0,72937,automatic
+ca,los angeles,2015,ford,fusion dr sdn se fwd,0,77163,automatic
+ca,los angeles,1996,,plymouth voyager,1400,200795,automatic
+ca,los angeles,2015,hyundai,tucson,10850,89863,automatic
+ca,los angeles,2017,toyota,sienna xle,24200,35000,automatic
+ca,los angeles,2009,honda,accord lx,7999,126000,automatic
+ca,los angeles,2013,bmw,1 series 128i convertible 2d,19990,20355,other
+ca,los angeles,2015,honda,accord,11250,104503,automatic
+ca,los angeles,2017,gmc,acadia limited sport utility,27990,29418,other
+ca,los angeles,2015,nissan,versa,6200,78900,automatic
+ca,los angeles,2015,nissan,altima,9429,98509,automatic
+ca,los angeles,2013,mini,cooper s hardtop,8999,96886,automatic
+ca,los angeles,2005,toyota,camry,3850,,automatic
+ca,los angeles,2012,hyundai,sonata gls pzev,2000,122083,automatic
+ca,los angeles,2016,hyundai,sonata 2.4l,2000,76763,automatic
+ca,los angeles,2007,chrysler,300,1488,126150,automatic
+ca,los angeles,2018,toyota,c-hr,17181,47855,automatic
+ca,los angeles,2016,hyundai,accent se,2000,85514,automatic
+ca,los angeles,2016,hyundai,elantra se,2000,116487,automatic
+ca,los angeles,2012,toyota,prius v five,2000,149019,automatic
+ca,los angeles,2013,ford,escape se,2000,85364,automatic
+ca,los angeles,2013,nissan,altima,10500,60683,automatic
+ca,los angeles,2012,honda,civic lx,2000,100666,automatic
+ca,los angeles,2014,ford,escape se,2000,92160,automatic
+ca,los angeles,2016,cadillac,ats,0,62291,manual
+ca,los angeles,2017,nissan,sentra sv,2000,90338,automatic
+ca,los angeles,2019,toyota,prius,18900,6040,automatic
+ca,los angeles,2013,ford,f-150,12498,175471,automatic
+ca,los angeles,2015,kia,optima hybrid sedan 4d,12990,80028,automatic
+ca,los angeles,2012,chevrolet,volt sedan 4d,12590,18159,other
+ca,los angeles,2018,nissan,altima 2.5 s,2000,103254,automatic
+ca,los angeles,2015,chevrolet,suburban,0,146718,automatic
+ca,los angeles,2005,chevrolet,avalanche,7998,147499,automatic
+ca,los angeles,2013,honda,pilot ex-l,2000,125762,automatic
+ca,los angeles,2018,nissan,altima 2.5 s,2000,83485,automatic
+ca,los angeles,2013,porsche,boxster convertible 2d,34590,55846,automatic
+ca,los angeles,2019,honda,clarity plug-in hybrid,22590,11662,automatic
+ca,los angeles,2011,jeep,grand cherokee,0,103705,automatic
+ca,los angeles,2013,honda,accord,13450,80731,automatic
+ca,los angeles,2015,jeep,renegade,0,101299,automatic
+ca,los angeles,2014,ford,mustang,0,42819,automatic
+ca,los angeles,2013,dodge,durango,13995,111418,automatic
+ca,los angeles,2015,toyota,sienna,15995,122708,automatic
+ca,los angeles,2015,chevrolet,camaro,17995,80067,automatic
+ca,los angeles,2019,chevrolet,colorado extended cab,19995,42542,manual
+ca,los angeles,2013,ford,mustang,14995,91227,automatic
+ca,los angeles,2014,ford,mustang,13995,80723,automatic
+ca,los angeles,2011,volkswagen,jetta,5850,138015,automatic
+ca,los angeles,2015,jeep,renegade,14995,54718,automatic
+ca,los angeles,2018,hyundai,ioniq hybrid limited,20990,23823,automatic
+ca,los angeles,2018,mini,convertible cooper s 2d,28990,13948,other
+ca,los angeles,2012,ford,explorer,13995,93432,automatic
+ca,los angeles,2017,mazda,mazda6,15995,44518,manual
+ca,los angeles,2013,cadillac,cts 3.6 performance,18590,36575,other
+ca,los angeles,2012,,Maserati GranTurismo S Coupe 2D,37990,35918,automatic
+ca,los angeles,2014,chrysler,300,13995,88890,automatic
+ca,los angeles,2019,dodge,charger sxt,21995,35241,automatic
+ca,los angeles,2013,audi,a3 2.0 tdi premium plus,15590,61481,automatic
+ca,los angeles,2015,dodge,challenger,17995,80459,automatic
+ca,los angeles,2020,hyundai,tucson se,20887,4593,automatic
+ca,los angeles,2013,toyota,sienna,12495,118627,automatic
+ca,los angeles,2014,subaru,xv crosstrek premium,16990,47370,automatic
+ca,los angeles,2014,ford,explorer,15995,101146,automatic
+ca,los angeles,2007,toyota,sienna le,3700,233557,automatic
+ca,los angeles,1998,honda,civic,2400,,automatic
+ca,los angeles,2001,jeep,xj,11000,164000,automatic
+ca,los angeles,2012,toyota,tacoma,8725,78000,automatic
+ca,los angeles,2009,nissan,maximum,4000,140000,manual
+ca,los angeles,2015,chevrolet,tahoe lt sport utility,35990,38918,automatic
+ca,los angeles,2009,volkswagen,new beetle,11990,63551,automatic
+ca,los angeles,2013,volkswagen,cc r-line sedan 4d,12990,55998,automatic
+ca,los angeles,2017,honda,civic,17884,30195,automatic
+ca,los angeles,2018,subaru,crosstrek 2.0i premium,22590,19804,automatic
+ca,los angeles,2013,chevrolet,cruze,6244,137000,automatic
+ca,los angeles,2019,ford,expedition max xlt sport,41990,32734,automatic
+ca,los angeles,2006,acura,tl,1900,,automatic
+ca,los angeles,2012,buick,verano sedan 4d,11990,63031,automatic
+ca,los angeles,2018,mitsubishi,outlander phev gt,24990,14217,other
+ca,los angeles,2017,bmw,i3,18500,25123,automatic
+ca,los angeles,2017,toyota,sienna le,21995,28500,automatic
+ca,los angeles,2017,bmw,5 series,29500,26272,automatic
+ca,los angeles,2010,toyota,corolla 4dr sedan automa,8995,81619,automatic
+ca,los angeles,1968,,912 Targa,26995,71245,manual
+ca,los angeles,2017,bmw,3 series,23450,44983,automatic
+ca,los angeles,1938,buick,century limited,36500,,manual
+ca,los angeles,2018,audi,q5,32500,19572,automatic
+ca,los angeles,2007,bmw,328i,7400,93000,automatic
+ca,los angeles,2017,honda,accord,15850,35531,automatic
+ca,los angeles,2012,mercedes-benz,m-class ml 350,21990,35275,automatic
+ca,los angeles,2020,,Genesis G70 2.0T Sedan 4D,36990,1832,automatic
+ca,los angeles,2020,infiniti,q60 red sport 400 coupe,35990,11990,automatic
+ca,los angeles,2018,ram,5500,42000,99500,automatic
+ca,los angeles,2006,nissan,frontier,5900,280000,automatic
+ca,los angeles,2017,honda,cr-v,17850,44812,automatic
+ca,los angeles,2008,hyundai,elantra,2800,,automatic
+ca,los angeles,2012,cadillac,cts,8900,97477,
+ca,los angeles,2003,chevrolet,tahoe,5500,179771,
+ca,los angeles,2011,ford,f-350 super duty,27980,52589,automatic
+ca,los angeles,2007,lexus,es 350,5999,166358,
+ca,los angeles,2009,bmw,328i,6999,116058,
+ca,los angeles,2005,,chysler pt cruiser,4999,84531,automatic
+ca,los angeles,2009,volkswagen,jetta,3999,137800,
+ca,los angeles,2001,,2001 mustang gt,4300,125000,automatic
+ca,los angeles,2013,honda,accord,11200,107,automatic
+ca,los angeles,2018,honda,civic,18839,14215,automatic
+ca,los angeles,2017,acura,ilx,15850,43517,automatic
+ca,los angeles,2008,honda,civic lx sedan,4900,164028,automatic
+ca,los angeles,2017,chevrolet,bolt,20600,29,automatic
+ca,los angeles,2012,ford,fusion sel,6899,49717,automatic
+ca,los angeles,2017,mercedes-benz,gla,22345,20438,automatic
+ca,los angeles,1983,cadillac,seville,3500,68463,automatic
+ca,los angeles,2017,bmw,3 series,22500,30415,automatic
+ca,los angeles,1999,infiniti,q45,1700,,automatic
+ca,los angeles,2012,mercedes-benz,s-class s 550,25990,65929,automatic
+ca,los angeles,2019,toyota,4runner trd off-road,41590,1968,automatic
+ca,los angeles,2015,nissan,sentra sv sedan 4d,10990,55372,automatic
+ca,los angeles,2017,jeep,cherokee,19250,28813,automatic
+ca,los angeles,2014,jeep,cherokee sport suv 4d,14590,55518,other
+ca,los angeles,2011,audi,a8,12999,113974,automatic
+ca,los angeles,2016,mini,hardtop 4 door cooper,14990,45139,automatic
+ca,los angeles,2017,nissan,rogue sport,0,,automatic
+ca,los angeles,2013,nissan,juke s sport utility 4d,13990,48812,automatic
+ca,los angeles,2016,audi,s3 premium plus sedan 4d,29990,22874,automatic
+ca,los angeles,2015,gmc,yukon sle sport utility 4d,31990,60566,automatic
+ca,los angeles,2001,toyota,avalon xls,1800,200236,automatic
+ca,los angeles,2017,chevrolet,malibu,13950,41274,automatic
+ca,los angeles,2012,jeep,wrangler unlimited,0,178786,automatic
+ca,los angeles,2018,mercedes-benz,glc,29995,31068,automatic
+ca,los angeles,2017,nissan,murano platinum (2017.5),26990,40751,automatic
+ca,los angeles,2011,ford,fusion sel sedan 4d,10990,53705,other
+ca,los angeles,2008,toyota,sienna xle,4000,110000,automatic
+ca,los angeles,2017,honda,cr-v,19950,34725,automatic
+ca,los angeles,2015,tesla,model s 4dr sedan rwd 60,38995,61189,automatic
+ca,los angeles,2016,kia,soul,14821,15133,automatic
+ca,los angeles,2016,honda,cr-v,17895,64995,automatic
+ca,los angeles,2014,hyundai,equus signature sedan 4d,20990,52189,automatic
+ca,los angeles,2007,dodge,caliber sxt,3250,177772,automatic
+ca,los angeles,2014,toyota,camry se,11300,77600,automatic
+ca,los angeles,2018,bmw,x1,21395,66642,automatic
+ca,los angeles,2018,volkswagen,jetta,15400,26699,automatic
+ca,los angeles,2016,honda,accord,16850,117424,automatic
+ca,los angeles,2013,volkswagen,jetta sedan,0,123125,automatic
+ca,los angeles,2015,mitsubishi,lancer se sedan 4d,12990,67273,automatic
+ca,los angeles,2013,ford,mustang,19599,80890,manual
+ca,los angeles,2015,nissan,altima 2.5 s,10997,59000,automatic
+ca,los angeles,2010,toyota,prius,5950,,automatic
+ca,los angeles,2012,mazda,6,7000,,automatic
+ca,los angeles,2018,volvo,xc60 t6 momentum,513,42210,automatic
+ca,los angeles,2014,ford,edge,0,75605,automatic
+ca,los angeles,2013,ford,mustang,19599,80890,manual
+ca,los angeles,2015,jeep,grand cherokee,0,50764,automatic
+ca,los angeles,2016,hyundai,sonata,0,81354,automatic
+ca,los angeles,2016,chevrolet,express 2500 cargo van,0,,automatic
+ca,los angeles,2017,nissan,rogue,0,42439,automatic
+ca,los angeles,2018,dodge,challenger,0,,automatic
+ca,los angeles,2019,subaru,forester sport suv 4d,28590,23052,automatic
+ca,los angeles,2008,infiniti,fx35 fx 35,9997,,automatic
+ca,los angeles,2016,chevrolet,"silverado 1500 20"" ha",30995,118613,automatic
+ca,los angeles,2016,chevrolet,suburban ltz sport,42590,44374,other
+ca,los angeles,2012,mercedes-benz,r-class,12850,128705,automatic
+ca,los angeles,2015,nissan,altima,9950,,automatic
+ca,los angeles,2019,nissan,frontier crew cab sv,27990,4462,other
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2011,jeep,liberty sport suv 4d,12990,58133,other
+ca,los angeles,2017,lexus,gs 350 sedan 4d,34990,10339,other
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2015,gmc,sierra 1500,0,132259,automatic
+ca,los angeles,1973,toyota,fj40,20000,77700,manual
+ca,los angeles,2009,honda,civic,7997,,automatic
+ca,los angeles,2020,chevrolet,malibu ls,19995,5233,automatic
+ca,los angeles,2017,ford,fusion energi titanium fwd,0,21087,automatic
+ca,los angeles,2017,ford,fusion energi titanium fwd,0,21087,automatic
+ca,los angeles,2017,ford,escape s fwd,0,52486,automatic
+ca,los angeles,2019,toyota,tacoma trd off road,33900,18681,automatic
+ca,los angeles,2017,hyundai,tucson se,16899,45040,automatic
+ca,los angeles,2018,chevrolet,cruze ls,15995,20973,automatic
+ca,los angeles,2019,tesla,model 3 long range sedan,38590,6084,other
+ca,los angeles,2018,chevrolet,tahoe lt,0,27369,automatic
+ca,los angeles,2001,ford,ranger 4x4,6500,191000,automatic
+ca,los angeles,2015,lexus,ct 200h hybrid,0,67330,automatic
+ca,los angeles,1999,toyota,rav4 l,2300,208875,automatic
+ca,los angeles,2017,porsche,cayenne platinum edition,0,46406,automatic
+ca,los angeles,2005,mini,cooper convertible,3600,199999,manual
+ca,los angeles,2014,mercedes-benz,e-class e350,0,52444,automatic
+ca,los angeles,2015,toyota,prius ii,9995,119100,automatic
+ca,los angeles,2016,ram,1500 slt,0,57968,automatic
+ca,los angeles,1998,ram,1500 4x4,4100,166000,automatic
+ca,los angeles,2015,ford,flex,17388,52965,automatic
+ca,los angeles,2012,lexus,is 250,16988,72612,automatic
+ca,los angeles,2004,chevrolet,corvette,28975,7349,automatic
+ca,los angeles,2016,ford,mustang 2dr convertible ec,20995,57746,automatic
+ca,los angeles,2016,nissan,altima,11488,88333,automatic
+ca,los angeles,2015,toyota,prius 2,0,63218,automatic
+ca,los angeles,2015,mercedes-benz,c 300,20388,75270,automatic
+ca,los angeles,2017,bmw,x5 sdrive35i,0,60739,automatic
+ca,los angeles,2018,mazda,cx-9,29295,24881,automatic
+ca,los angeles,2018,chevrolet,colorado 2wd crew cab,28995,53674,automatic
+ca,los angeles,1962,chevrolet,corvette,73750,67341,manual
+ca,los angeles,2018,toyota,c-hr xle,235,59189,automatic
+ca,los angeles,2018,toyota,c-hr xle,235,59189,automatic
+ca,los angeles,2010,lexus,es 350,7200,180000,automatic
+ca,los angeles,2019,dodge,grand caravan,14900,49156,automatic
+ca,los angeles,2013,chevrolet,malibu s,9339,102951,automatic
+ca,los angeles,2016,porsche,macan s sport utility 4d,37990,39802,automatic
+ca,los angeles,2017,audi,q7 3.0t premium plus sport,37990,32256,automatic
+ca,los angeles,2016,volkswagen,e-golf se hatchback,11990,42635,other
+ca,los angeles,2019,ford,ranger supercab lariat,32990,15217,automatic
+ca,los angeles,2007,bmw,335i,7000,,automatic
+ca,los angeles,2014,honda,accord hybrid touring,17590,54690,automatic
+ca,los angeles,2013,dodge,grand caravan passenger se,12990,49829,other
+ca,los angeles,2017,toyota,tundra crewmax 1794,41990,40570,automatic
+ca,los angeles,2011,cadillac,cts sedan 4d,13990,70636,other
+ca,los angeles,2013,infiniti,jx jx35 sport utility,17590,88941,automatic
+ca,los angeles,2019,chevrolet,camaro rs,19900,29000,automatic
+ca,los angeles,2006,hyundai,sonata gls,3700,,automatic
+ca,los angeles,2018,subaru,crosstrek 2.0i premium,16499,19788,automatic
+ca,los angeles,2013,chevrolet,corvette,32885,55595,manual
+ca,los angeles,2008,saturn,sky,14875,26955,manual
+ca,los angeles,2010,chevrolet,corvette,35986,33717,automatic
+ca,los angeles,2018,nissan,sentra sv,10500,,automatic
+ca,los angeles,2008,saturn,sky,14875,26955,manual
+ca,los angeles,2010,mercedes-benz,benz glk 350,8900,129000,automatic
+ca,los angeles,1962,chevrolet,corvette,73750,67341,manual
+ca,los angeles,2017,toyota,yaris ia sedan 4d,14990,8638,other
+ca,los angeles,2013,chevrolet,corvette,32885,55595,manual
+ca,los angeles,2004,chevrolet,corvette,28975,7349,automatic
+ca,los angeles,2009,jeep,liberty limited 4x4,7000,,automatic
+ca,los angeles,2012,mini,hardtop cooper hatchback 2d,10990,58202,other
+ca,los angeles,2010,chevrolet,corvette,35986,33717,automatic
+ca,los angeles,2012,honda,civic lx coupe 2d,11990,85440,other
+ca,los angeles,2012,chevrolet,colorado crew cab lt,18990,39411,other
+ca,los angeles,2015,ram,pickup 1500,21697,100438,automatic
+ca,los angeles,2018,gmc,acadia sle-1 sport utility,21990,19802,other
+ca,los angeles,2016,subaru,impreza 2.0i sport,18590,31815,automatic
+ca,los angeles,2012,bmw,5 series 535i xdrive sedan,17990,80564,automatic
+ca,los angeles,2011,nissan,leaf sl hatchback 4d,8990,10697,other
+ca,los angeles,1997,jeep,cherokee xj sport,12000,,automatic
+ca,los angeles,2016,volkswagen,golf gti s hatchback,19990,25659,automatic
+ca,los angeles,2001,ford,f-150,6000,,automatic
+ca,los angeles,2010,lexus,is 250c,18125,80528,automatic
+ca,los angeles,2008,dodge,magnum r/t,6900,85,automatic
+ca,los angeles,2010,lexus,es 350,7100,180000,automatic
+ca,los angeles,2018,jeep,compass latitude,0,20959,automatic
+ca,los angeles,2005,chevrolet,colorado ls,6900,123,automatic
+ca,los angeles,2001,toyota,4runner,5500,,automatic
+ca,los angeles,2003,,hummer h1,94888,60000,automatic
+ca,los angeles,2018,ford,focus se,11000,49000,automatic
+ca,los angeles,1967,chevrolet,c10,16000,,automatic
+ca,los angeles,2017,fiat,500,9250,13000,automatic
+ca,los angeles,2008,ford,f450,9900,200000,automatic
+ca,los angeles,2001,ford,mustang svt cobra,10000,,manual
+ca,los angeles,2017,rover,discovery sport hse,28990,36756,other
+ca,los angeles,2014,rover,range sport,35590,71237,automatic
+ca,los angeles,2014,mazda,cx-5,13500,79000,automatic
+ca,los angeles,2013,lincoln,navigator sport utility,22990,73242,other
+ca,los angeles,2009,pontiac,g8 gt sedan 4d,19990,85009,other
+ca,los angeles,2014,toyota,prius plug-in hybrid,14590,67726,automatic
+ca,los angeles,2016,hyundai,sonata hybrid se sedan,15590,30968,automatic
+ca,los angeles,2016,buick,cascada premium,21590,33368,other
+ca,los angeles,2015,ford,f150 super cab xlt pickup,28990,37572,other
+ca,los angeles,2013,bmw,3 series 335i sedan 4d,22990,48024,automatic
+ca,los angeles,2014,mazda,mazda5 sport minivan 4d,10590,52978,automatic
+ca,los angeles,2009,chevrolet,cobalt lt coupe 2d,8590,80541,other
+ca,los angeles,2007,toyota,prius,5400,136000,automatic
+ca,los angeles,2013,,smart fortwo Passion Cabriolet,8590,100304,automatic
+ca,los angeles,2017,toyota,mirai,9999,,automatic
+ca,los angeles,2013,lexus,ls 460 sedan 4d,28990,68362,automatic
+ca,los angeles,2011,audi,tt quattro premium plus,20590,54364,automatic
+ca,los angeles,2017,mercedes-benz,slc 300 roadster,37990,13198,automatic
+ca,los angeles,2019,toyota,tacoma,36995,14660,automatic
+ca,los angeles,2014,honda,odyssey ex-l minivan 4d,21590,45009,other
+ca,los angeles,2017,ford,focus se hatchback,7500,95000,automatic
+ca,los angeles,2019,jaguar,e-pace p250 s sport,35990,11442,automatic
+ca,los angeles,2011,infiniti,fx fx35 sport utility,17990,95938,manual
+ca,los angeles,2006,porsche,cayenne,6900,148000,automatic
+ca,los angeles,2013,lexus,ct 200h,12599,97767,automatic
+ca,los angeles,2017,chevrolet,sonic lt sedan 4d,13590,13929,other
+ca,los angeles,2010,,Scion tC Hatchback Coupe 2D,8990,102866,other
+ca,los angeles,2014,audi,rs 5 coupe 2d,42990,33124,automatic
+ca,los angeles,2016,hyundai,veloster turbo coupe 3d,16990,29980,automatic
+ca,los angeles,2011,mercedes-benz,c300,9900,94000,automatic
+ca,los angeles,2020,jaguar,xe,44999,3000,other
+ca,los angeles,2018,audi,s4 premium plus sedan 4d,40990,14879,automatic
+ca,los angeles,2018,acura,tlx,24200,40674,automatic
+ca,los angeles,2017,cadillac,escalade,48995,28984,automatic
+ca,los angeles,2014,hyundai,elantra,9951,82822,automatic
+ca,los angeles,2006,mini,cooper s,6500,49200,automatic
+ca,los angeles,1967,,Sunbeam Imp,10000,,manual
+ca,los angeles,2004,bmw,530i,3500,,automatic
+ca,los angeles,2007,ford,focus,850,223100,automatic
+ca,los angeles,2017,mercedes-benz,b-class b 250e,18590,10185,other
+ca,los angeles,2015,kia,soul,10995,71752,automatic
+ca,los angeles,2005,nissan,murano sl,3000,,automatic
+ca,los angeles,2018,mercedes-benz,gla,25695,25002,automatic
+ca,los angeles,1947,,PLYMOUTH COUPE,11500,99999,manual
+ca,los angeles,1983,porsche,928s,52500,,manual
+ca,los angeles,2008,ford,escape hybrid limited,5500,128000,automatic
+ca,los angeles,2013,volvo,c30 t5 hatchback 2d,14990,67784,other
+ca,los angeles,2019,ford,f250 super duty crew cab,39990,44127,other
+ca,los angeles,2006,porsche,911,24997,122961,automatic
+ca,los angeles,2014,audi,s5 premium plus convertible,28990,34692,automatic
+ca,los angeles,2013,toyota,tacoma access cab pickup,23990,58814,other
+ca,los angeles,2011,bmw,5 series,19950,16349,automatic
+ca,los angeles,2020,jeep,grand cherokee limited,29995,9900,automatic
+ca,los angeles,2015,volkswagen,jetta tsi,8800,59500,automatic
+ca,los angeles,2019,volvo,s60 t5 r-design,556,30,automatic
+ca,los angeles,2018,chevrolet,silverado 1500,35995,58221,automatic
+ca,los angeles,2015,toyota,yaris l hatchback sedan,11590,89372,other
+ca,los angeles,2017,toyota,sienna,26700,22528,automatic
+ca,los angeles,2018,bmw,3 series,24895,24585,automatic
+ca,los angeles,2017,,2017 Mirai Hydrogen Fuel Cell!,10341,20625,automatic
+ca,los angeles,2017,lexus,es 350,26000,27612,automatic
+ca,los angeles,2015,nissan,rouge,10900,54500,automatic
+ca,los angeles,2017,nissan,murano,15900,73068,automatic
+ca,los angeles,2004,toyota,tacoma,12995,79000,automatic
+ca,los angeles,2018,toyota,rav4,22684,25528,automatic
+ca,los angeles,2014,dodge,caravan,6900,120000,automatic
+ca,los angeles,2019,mazda,mx-5 miata rf grand,30990,3684,other
+ca,los angeles,2011,mini,cooper countryman,9980,75869,automatic
+ca,los angeles,2017,dodge,durango r/t sport utility,30990,21055,other
+ca,los angeles,2008,ford,focus ses,2800,237000,automatic
+ca,los angeles,2017,nissan,rogue sport s utility 4d,17590,10339,automatic
+ca,los angeles,2017,jaguar,xf 20d premium sedan 4d,25990,24902,automatic
+ca,los angeles,2013,nissan,rogue,7700,109000,automatic
+ca,los angeles,2009,lexus,is 250 sport sedan 4d,15590,18553,other
+ca,los angeles,2009,kia,rio,4990,78000,automatic
+ca,los angeles,2015,toyota,camry,0,,automatic
+ca,los angeles,2016,dodge,charger,0,,other
+ca,los angeles,2014,chevrolet,volt,0,,other
+ca,los angeles,2017,mazda,mazda6,20988,25219,automatic
+ca,los angeles,2019,mazda,cx-5,34488,3845,automatic
+ca,los angeles,2018,ford,escape,14500,49413,automatic
+ca,los angeles,2017,ford,expedition el,33900,56908,automatic
+ca,los angeles,2018,toyota,camry,24295,20035,automatic
+ca,los angeles,2019,chevrolet,camaro lt convertible,23990,25228,other
+ca,los angeles,2013,hyundai,sonata gls sedan 4d,10590,78005,automatic
+ca,los angeles,2013,subaru,brz limited coupe 2d,20990,6654,other
+ca,los angeles,1988,cadillac,coupe deville,5000,110000,automatic
+ca,los angeles,2016,toyota,prius c,9480,122870,automatic
+ca,los angeles,2020,volkswagen,,224,,automatic
+ca,los angeles,2019,toyota,tacoma double cab sr5,28590,4686,other
+ca,los angeles,2012,lexus,gx 460 premium sport,25990,92161,automatic
+ca,los angeles,2019,toyota,rav4 hybrid xle sport,29990,10708,automatic
+ca,los angeles,2016,,Scion iA Sedan 4D,12590,44536,other
+ca,los angeles,2010,mercedes-benz,m-class ml 350,14990,81480,automatic
+ca,los angeles,2020,,Jetta,224,,automatic
+ca,los angeles,2011,honda,cr-v,9986,145502,automatic
+ca,los angeles,2015,chevrolet,corvette stingray,42590,18434,other
+ca,los angeles,2017,nissan,frontier king cab sv,19590,29304,other
+ca,los angeles,2018,fiat,500 abarth hatchback 2d,19590,14626,other
+ca,los angeles,2019,chevrolet,silverado 1500 crew,42990,7010,automatic
+ca,los angeles,2016,toyota,avalon,18995,63434,automatic
+ca,los angeles,2017,chevrolet,colorado,28995,37941,automatic
+ca,los angeles,2017,chevrolet,volt,13995,33137,automatic
+ca,los angeles,2018,jeep,wrangler jk unlimited,29800,26457,automatic
+ca,los angeles,1966,gmc,,1995,,manual
+ca,los angeles,2018,alfa-romeo,romeo stelvio ti sport,30990,8985,other
+ca,los angeles,2015,buick,verano convenience sedan,12990,73158,automatic
+ca,los angeles,2013,chevrolet,cruze lt sedan 4d,11590,24808,other
+ca,los angeles,2010,infiniti,ex ex35 sport utility,14590,68048,manual
+ca,los angeles,2018,volvo,xc90,46523,13710,automatic
+ca,los angeles,2015,porsche,cayman coupe 2d,42990,15494,automatic
+ca,los angeles,2019,ford,f250 super duty crew cab,49990,43785,other
+ca,los angeles,2018,jeep,compass,20495,23392,automatic
+ca,los angeles,2018,porsche,gt3 911,475,,manual
+ca,los angeles,2012,ford,e150,11900,,automatic
+ca,los angeles,2018,chevrolet,silverado 1500,29900,31247,automatic
+ca,los angeles,2015,toyota,camry,12455,75735,automatic
+ca,los angeles,2018,toyota,camry,19495,20021,automatic
+ca,los angeles,2018,gmc,sierra 1500 crew cab slt,41990,12489,other
+ca,los angeles,2015,chevrolet,spark ev 2lt hatchback,8990,47157,other
+ca,los angeles,2016,hyundai,accent se hatchback 4d,10590,72509,automatic
+ca,los angeles,2019,toyota,86 coupe 2d,24990,6764,other
+ca,los angeles,2020,bmw,x2 sdrive28i sport utility,33990,5629,automatic
+ca,los angeles,2011,nissan,370z coupe 2d,19990,61888,automatic
+ca,los angeles,2015,toyota,camry hybrid,14669,83135,automatic
+ca,los angeles,2018,mercedes-benz,c-class,26795,23932,automatic
+ca,los angeles,2018,toyota,camry,20900,21070,automatic
+ca,los angeles,2017,jeep,wrangler unlimited sport,30990,19862,other
+ca,los angeles,2017,jaguar,xf,21999,46406,automatic
+ca,los angeles,2018,mercedes-benz,glc,29995,26701,automatic
+ca,los angeles,2012,honda,odyssey,12890,110810,automatic
+ca,los angeles,2016,toyota,camry,12480,121379,automatic
+ca,los angeles,2017,lexus,is 200t,25000,41133,automatic
+ca,los angeles,2016,hyundai,sonata,14985,32078,automatic
+ca,los angeles,2017,mazda,cx-5,19950,,automatic
+ca,los angeles,2020,ford,escape,21950,,automatic
+ca,los angeles,2020,ford,escape,21950,,automatic
+ca,los angeles,2017,nissan,sentra,13450,,other
+ca,los angeles,2017,lexus,es 350,24500,44730,automatic
+ca,los angeles,2020,ford,escape,22950,,automatic
+ca,los angeles,2017,infiniti,q50,23950,,automatic
+ca,los angeles,2015,jeep,patriot,10595,86243,automatic
+ca,los angeles,2018,mazda,cx-5,19900,20932,automatic
+ca,los angeles,2013,honda,accord,10580,119223,automatic
+ca,los angeles,2018,jeep,wrangler jk unlimited,29700,70798,automatic
+ca,los angeles,2016,bmw,2 series m235i coupe 2d,27590,47865,automatic
+ca,los angeles,2018,jeep,grand cherokee high,38990,12718,other
+ca,los angeles,2012,bmw,m3 convertible 2d,27990,61881,other
+ca,los angeles,2012,mercedes-benz,gl-class gl 450,23990,40032,automatic
+ca,los angeles,2018,chevrolet,colorado extended cab,30990,17308,other
+ca,los angeles,2019,volkswagen,beetle 2.0t se,30990,9731,automatic
+ca,los angeles,2010,gmc,sierra 1500 extended cab sle,16990,98610,other
+ca,los angeles,2019,honda,ridgeline rtl pickup 4d 5,35590,5014,other
+ca,los angeles,2015,chevrolet,silverado 1500 regular,19590,58645,automatic
+ca,los angeles,2012,mercedes-benz,e-class e 350,20990,60271,automatic
+ca,los angeles,2015,rover,range evoque pure,27990,33449,automatic
+ca,los angeles,2012,rover,range hse sport,23990,57925,automatic
+ca,los angeles,2013,volkswagen,golf tdi hatchback 4d,13990,61674,automatic
+ca,los angeles,2014,mercedes-benz,cls-class cls 550,27990,64640,other
+ca,los angeles,2011,bmw,335i convertible m-sport,16000,89600,automatic
+ca,los angeles,2016,toyota,corolla,12991,80624,automatic
+ca,los angeles,2010,chevrolet,equinox,5800,,automatic
+ca,los angeles,1999,mercedes-benz,benz ml320,4200,,automatic
+ca,los angeles,2015,chevrolet,express 2500,10900,145000,automatic
+ca,los angeles,2016,rover,discovery sport,19741,44982,automatic
+ca,los angeles,2004,infiniti,g35,2750,159235,automatic
+ca,los angeles,1963,chevrolet,impala,9500,,automatic
+ca,los angeles,2013,volkswagen,jetta,6999,113000,automatic
+ca,los angeles,2010,toyota,highlander hybrid limited,12000,99987,automatic
+ca,los angeles,2006,honda,civic sedan,2900,,automatic
+ca,los angeles,1964,pontiac,lemans conv,16500,56777,automatic
+ca,los angeles,2008,bmw,m3,19990,92000,manual
+ca,los angeles,1972,chevrolet,blazer,23000,,automatic
+ca,los angeles,1987,ford,e350 cabriolet,11500,,automatic
+ca,los angeles,2016,chevrolet,silverado 1500 lt 4x4,28000,,automatic
+ca,los angeles,1950,chrysler,new yorker,800,,automatic
+ca,los angeles,1991,mazda,truck,2500,,manual
+ca,los angeles,2011,toyota,prius,225,57932,automatic
+ca,los angeles,1973,ford,bronco 4x4,109000,33000,automatic
+ca,los angeles,2010,audi,a5 2.0t premium plus,9800,113714,automatic
+ca,los angeles,2015,nissan,,5499,115000,automatic
+ca,los angeles,2006,honda,ridgeline,12000,,automatic
+ca,los angeles,2009,toyota,camry,7000,55850,automatic
+ca,los angeles,2005,toyota,sienna,3300,,automatic
+ca,los angeles,2015,nissan,,5499,115000,automatic
+ca,los angeles,2006,honda,ridgeline,12000,,automatic
+ca,los angeles,2009,toyota,camry,7000,55850,automatic
+ca,los angeles,2005,toyota,sienna,3300,,automatic
+ca,los angeles,2001,ford,excursion limited,13900,275500,automatic
+ca,los angeles,2001,acura,cl type s,3950,175000,automatic
+ca,los angeles,2002,chevrolet,trailblazer,1600,,automatic
+ca,los angeles,2020,porsche,cayenne s,71000,3122,automatic
+ca,los angeles,1988,bmw,528e 528i,3800,,automatic
+ca,los angeles,2017,cadillac,escalade premium,46900,22127,automatic
+ca,los angeles,2018,honda,civic lx,14440,,automatic
+ca,los angeles,2019,toyota,tundra sr5,32000,8000,automatic
+ca,los angeles,2006,toyota,tundra,13350,100000,automatic
+ca,los angeles,2007,mercedes-benz,benz e63 amg,14800,133000,automatic
+ca,los angeles,2012,honda,civic ex,9000,67200,automatic
+ca,los angeles,2020,mazda,cx-5 grand touring awd,31995,13600,automatic
+ca,los angeles,2000,jeep,cherokee,6000,236000,automatic
+ca,los angeles,2010,nissan,murano,7650,85000,automatic
+ca,los angeles,2001,toyota,tacoma prerunner,7500,150000,automatic
+ca,los angeles,2004,gmc,sierra,17000,139214,automatic
+ca,los angeles,1999,mazda,miata,7800,132,manual
+ca,los angeles,2015,toyota,tacoma,27500,68835,automatic
+ca,los angeles,2010,bmw,135i m sport,19500,59221,manual
+ca,los angeles,2008,hyundai,accent se,3950,84000,automatic
+ca,los angeles,2011,honda,civic sedan,7900,50000,automatic
+ca,los angeles,2017,chevrolet,volt lt,13925,26252,automatic
+ca,los angeles,2010,lincoln,mkx awd premium,6599,,automatic
+ca,los angeles,2011,bmw,328i,10995,87650,automatic
+ca,los angeles,1976,gmc,jimmy,8000,,automatic
+ca,los angeles,2010,chevrolet,2500hd,13500,,automatic
+ca,los angeles,1999,toyota,truck tacoma,12700,141000,automatic
+ca,los angeles,2010,toyota,tacoma,9800,,automatic
+ca,los angeles,2015,,FREIGHTLINER CASCADIA,38000,,manual
+ca,los angeles,1997,cadillac,seville,6980,137229,automatic
+ca,los angeles,2017,hyundai,sonata,8900,67000,automatic
+ca,los angeles,2010,toyota,prius hybrid,6500,84500,automatic
+ca,los angeles,2016,,freightliner m2,41500,199964,automatic
+ca,los angeles,1997,chevrolet,s10,1900,,automatic
+ca,los angeles,2006,chevrolet,avalanche,6990,191079,automatic
+ca,los angeles,2016,audi,s3,25950,56000,automatic
+ca,los angeles,2004,honda,pilot,1600,160000,automatic
+ca,los angeles,2019,dodge,charger rt srt custom,29995,4000,automatic
+ca,los angeles,2014,toyota,camry se,12700,98000,automatic
+ca,los angeles,2013,toyota,venza,11998,112211,automatic
+ca,los angeles,2008,chrysler,convertible,3850,102800,automatic
+ca,los angeles,2010,mini,cooper,6500,75000,automatic
+ca,los angeles,2006,subaru,impreza,5990,160683,manual
+ca,los angeles,1999,jeep,cherokee,3500,148000,automatic
+ca,los angeles,2010,ford,mustang,16000,88001,automatic
+ca,los angeles,2012,mercedes-benz,e350 coupe,16995,,automatic
+ca,los angeles,2008,jeep,patriot limited 4x4,5000,117521,automatic
+ca,los angeles,1973,,Rolls Royce,15500,,automatic
+ca,los angeles,2009,toyota,matrix,4900,195000,automatic
+ca,los angeles,2007,ford,escape hybrid,3800,86000,automatic
+ca,los angeles,2007,bmw,335i,6000,,automatic
+ca,los angeles,2019,dodge,challenger 392 hemi shaker,36500,28000,automatic
+ca,los angeles,1974,pontiac,grand prix,24980,25597,automatic
+ca,los angeles,2011,rover,lr4 hse,14000,108021,automatic
+ca,los angeles,2014,gmc,yukon,17995,129912,automatic
+ca,los angeles,2008,lexus,es350,7400,98000,automatic
+ca,los angeles,2012,hyundai,accent gls,4850,96000,automatic
+ca,los angeles,2002,toyota,4-runner,5790,285229,automatic
+ca,los angeles,1997,toyota,4runner,3500,130000,automatic
+ca,los angeles,2000,gmc,box truck,4500,,automatic
+ca,los angeles,2013,nissan,,8500,,automatic
+ca,los angeles,2009,ford,,5700,,automatic
+ca,los angeles,1976,ford,bronco,68000,,automatic
+ca,los angeles,2013,nissan,sentra sr,6500,98000,automatic
+ca,los angeles,2005,lexus,rx330,7500,173854,automatic
+ca,los angeles,2008,ford,e-450,7500,,automatic
+ca,los angeles,2009,mazda,3,7250,101000,automatic
+ca,los angeles,2016,ram,1500 ecodiesel,25800,,automatic
+ca,los angeles,1997,toyota,camry le,2500,201000,automatic
+ca,los angeles,2008,chevrolet,malibu,3700,155000,automatic
+ca,los angeles,2015,,ISUZU NQR,16995,160258,automatic
+ca,los angeles,1985,,Cheverolet Corvette,5500,188000,automatic
+ca,los angeles,2008,chevrolet,colorado,2600,,manual
+ca,los angeles,2008,volkswagen,beetle,3990,168569,manual
+ca,los angeles,2019,dodge,challenger,18500,,automatic
+ca,los angeles,2019,honda,accord lx,19000,20795,automatic
+ca,los angeles,2019,honda,accord lx,19000,20795,automatic
+ca,los angeles,2012,lexus,ct 200h,8975,,automatic
+ca,los angeles,2012,lexus,ct 200h,8975,,automatic
+ca,los angeles,2012,lexus,ct 200h,8975,,automatic
+ca,los angeles,2019,honda,accord lx,19000,20795,automatic
+ca,los angeles,2018,mercedes-benz,benz s 560 sedan 10/10,74990,18000,automatic
+ca,los angeles,2014,nissan,altima 2.5 s,8895,112698,automatic
+ca,los angeles,1987,ford,f150 4x4,1,100000,manual
+ca,los angeles,2012,chevrolet,silverado 3500hd lt,22998,187462,automatic
+ca,los angeles,2015,ford,transit 150,12300,264952,automatic
+ca,los angeles,2002,gmc,w3500,14999,17980,automatic
+ca,los angeles,2009,ford,f350 super duty,23875,,automatic
+ca,los angeles,2003,gmc,savana 1500,5600,223674,automatic
+ca,los angeles,1978,mercedes-benz,450sl,24980,66862,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,2019,honda,accord lx,19000,20795,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,1993,cadillac,sedan deville,1400,128600,automatic
+ca,los angeles,1969,chevrolet,el camino,5500,,manual
+ca,los angeles,2008,dodge,grand caravan,1700,,automatic
+ca,los angeles,2011,mazda,mazda3,5490,136987,automatic
+ca,los angeles,2019,honda,accord lx,21000,6522,automatic
+ca,los angeles,2001,toyota,corolla ce,2995,113,automatic
+ca,los angeles,1965,chevrolet,nova,11000,,automatic
+ca,los angeles,2006,toyota,tundra sr5,9600,,automatic
+ca,los angeles,2013,ford,f250 super duty,19900,190000,automatic
+ca,los angeles,2000,nissan,frontier crew cab se,6500,185000,automatic
+ca,los angeles,2002,toyota,4runner,4995,211500,automatic
+ca,los angeles,1998,toyota,camry,2995,145,automatic
+ca,los angeles,2015,porsche,macan s,37999,27000,automatic
+ca,los angeles,2019,honda,accord lx,21000,6522,automatic
+ca,los angeles,2019,honda,accord lx,21000,6522,automatic
+ca,los angeles,2019,honda,accord lx,21000,6522,automatic
+ca,los angeles,1998,chevrolet,cheyenne,6500,,automatic
+ca,los angeles,2019,honda,accord lx,21000,6522,automatic
+ca,los angeles,2017,volkswagen,golf gti,16998,95008,automatic
+ca,los angeles,2006,ford,f250,1000,,automatic
+ca,los angeles,2006,mercedes-benz,c-class,300,11,other
+ca,los angeles,2006,honda,civic,300,12,other
+ca,los angeles,2008,ford,fusion,300,9,other
+ca,los angeles,2006,mercedes-benz,c-class,300,11,other
+ca,los angeles,2006,honda,civic,300,12,other
+ca,los angeles,2008,ford,fusion,300,9,other
+ca,los angeles,2008,nissan,altima,300,8,other
+ca,los angeles,2002,toyota,sequoia,300,1,automatic
+ca,los angeles,1993,toyota,previa le,2250,,automatic
+ca,los angeles,2012,toyota,highlander se,15999,75000,automatic
+ca,los angeles,2007,toyota,corolla le,1500,142000,automatic
+ca,los angeles,2012,kia,soul,300,1,other
+ca,los angeles,2005,kia,sorento,300,1,automatic
+ca,los angeles,2008,lexus,es 350,6800,138000,automatic
+ca,los angeles,1990,toyota,camry le v6,5900,110000,automatic
+ca,los angeles,1993,subaru,legacy 2.2 turbo,6500,63000,automatic
+ca,los angeles,2016,toyota,camry hybrid,11500,80221,automatic
+ca,los angeles,2016,mercedes-benz,benz e63,39900,67128,automatic
+ca,los angeles,2018,ford,f250 super duty crew cab,37995,93089,automatic
+ca,los angeles,2004,toyota,sienna,2200,200000,automatic
+ca,los angeles,1984,cadillac,eldorado,49980,18877,automatic
+ca,los angeles,2007,toyota,camry,300,1,automatic
+ca,los angeles,,,R H3,300,1,other
+ca,los angeles,2009,chevrolet,silverado 2500,27850,97579,automatic
+ca,los angeles,2006,chevrolet,express,7300,133000,automatic
+ca,los angeles,2005,toyota,prius,3800,122455,automatic
+ca,los angeles,2005,bmw,5 series,300,1,automatic
+ca,los angeles,2011,volkswagen,gti,7900,109000,automatic
+ca,los angeles,1995,jeep,wrangler,9000,252000,manual
+ca,los angeles,2001,ford,e350 van,22500,174000,automatic
+ca,los angeles,2014,jeep,compass,8200,,automatic
+ca,los angeles,2005,ford,taurus,2500,185000,automatic
+ca,los angeles,2014,toyota,tundra,18950,90227,automatic
+ca,los angeles,2013,toyota,corolla,10995,40951,automatic
+ca,los angeles,2015,toyota,prius loaded,9500,52221,automatic
+ca,los angeles,2003,ford,econoline,4900,103000,automatic
+ca,los angeles,2007,ford,f350,15300,133202,automatic
+ca,los angeles,1969,chevrolet,corvette 2dr convertib,26000,103000,manual
+ca,los angeles,1999,lexus,rx300,4900,,automatic
+ca,los angeles,2015,mercedes-benz,bens smart car,4300,,automatic
+ca,los angeles,1993,cadillac,fleetwood brougham,23000,64000,automatic
+ca,los angeles,2015,bmw,,22500,38000,automatic
+ca,los angeles,2006,ford,f550,13900,138386,automatic
+ca,los angeles,2007,jeep,ranger sahara,17000,71000,automatic
+ca,los angeles,2006,,2006 CLS 500,11300,,automatic
+ca,los angeles,2001,volkswagen,jetta,1700,,automatic
+ca,los angeles,2015,honda,fit ex-l,14500,32000,automatic
+ca,los angeles,2005,chevrolet,uplander ls,6500,93304,automatic
+ca,los angeles,2003,nissan,altima,3300,67558,automatic
+ca,los angeles,2000,mercedes-benz,benz sl500 convertible,14400,116224,automatic
+ca,los angeles,2010,infiniti,qx56,13400,105936,automatic
+ca,los angeles,2002,honda,civic ex,3600,188716,automatic
+ca,los angeles,2014,toyota,prius hybrid,12000,122032,automatic
+ca,los angeles,2005,toyota,camry,5300,117800,automatic
+ca,los angeles,2016,dodge,challenger,24995,49218,automatic
+ca,los angeles,2014,toyota,sienna,11400,149511,automatic
+ca,los angeles,2012,ford,mustang,7500,111302,automatic
+ca,los angeles,1992,toyota,pick-up,9500,134000,manual
+ca,los angeles,2014,nissan,sentra sr,6850,94740,automatic
+ca,los angeles,2018,,freightliner cascadia,64900,440000,automatic
+ca,los angeles,2016,mercedes-benz,c-class c300,19498,84915,automatic
+ca,los angeles,2011,cadillac,escalade esv,19800,109824,automatic
+ca,los angeles,2016,ram,promaster city,12497,115565,automatic
+ca,los angeles,1985,porsche,944,8000,82992,manual
+ca,los angeles,2016,ford,transit connect,15747,49218,automatic
+ca,los angeles,2015,toyota,corolla,9500,,automatic
+ca,los angeles,1968,,oldsmobile cutlass,35000,,automatic
+ca,los angeles,2007,ford,f250,13200,193687,automatic
+ca,los angeles,2016,honda,civic,0,50637,automatic
+ca,los angeles,2004,nissan,armada sl,3999,184000,automatic
+ca,los angeles,2005,,2005,3550,210000,automatic
+ca,los angeles,1998,toyota,camry,2995,145,automatic
+ca,los angeles,2014,toyota,tacoma double cab,17900,,automatic
+ca,los angeles,1989,ford,econoline e350,7500,48500,automatic
+ca,los angeles,2016,acura,rdx,14700,108373,automatic
+ca,los angeles,1997,toyota,4runner,4995,231,automatic
+ca,los angeles,2005,,2005,3100,103000,automatic
+ca,los angeles,2018,mercedes-benz,gle,19950,63739,automatic
+ca,los angeles,2010,ford,f250 king ranch,29785,,automatic
+ca,los angeles,1999,toyota,4runner,3995,276,automatic
+ca,los angeles,1999,toyota,4runner,4995,218,automatic
+ca,los angeles,2017,infiniti,q50 3.0t signature edition,21995,52878,automatic
+ca,los angeles,2019,infiniti,q50 3.0t luxe,21995,11936,automatic
+ca,los angeles,2013,infiniti,g37 sedan journey,11995,63077,automatic
+ca,los angeles,2008,honda,civic,4250,138000,automatic
+ca,los angeles,2010,nissan,xterra,11400,66145,automatic
+ca,los angeles,2018,honda,odyssey ex,27995,6419,automatic
+ca,los angeles,2012,honda,cr-v lx,14295,49660,automatic
+ca,los angeles,2015,honda,civic si,16995,64493,manual
+ca,los angeles,2015,honda,civic lx,12495,65183,automatic
+ca,los angeles,2019,honda,civic lx,17995,19989,automatic
+ca,los angeles,2015,honda,civic ex-l,10995,47826,automatic
+ca,los angeles,2001,toyota,4runner,4995,260,automatic
+ca,los angeles,2017,audi,a4,0,37346,automatic
+ca,los angeles,2016,cadillac,ats,0,36985,automatic
+ca,los angeles,2015,volkswagen,passat,14888,40185,automatic
+ca,los angeles,2001,toyota,4runner,4995,204,automatic
+ca,los angeles,2015,gmc,sierra 1500,23400,116556,automatic
+ca,los angeles,2005,chrysler,pacifica,650,,automatic
+ca,los angeles,2014,chevrolet,express cargo van,9800,,automatic
+ca,los angeles,2008,toyota,scion xd,4500,162800,automatic
+ca,los angeles,2006,ford,f250,8300,131554,automatic
+ca,los angeles,2008,volkswagen,jetta wolfsburg edition,5900,95753,automatic
+ca,los angeles,2014,bmw,528i,14990,82000,automatic
+ca,los angeles,2011,honda,accord lx,1000,,automatic
+ca,los angeles,2005,dodge,dakota,4950,151000,automatic
+ca,los angeles,2007,toyota,yaris sedan,5900,177000,automatic
+ca,los angeles,2006,toyota,prius,5995,152630,automatic
+ca,los angeles,2006,mini,cooper,5999,89865,automatic
+ca,los angeles,2012,subaru,impreza,7995,120650,automatic
+ca,los angeles,2005,acura,tsx,4800,,automatic
+ca,los angeles,2007,subaru,impreza,5995,145586,automatic
+ca,los angeles,2008,,Scion XB,4990,183414,automatic
+ca,los angeles,2015,nissan,titan,26950,65869,automatic
+ca,los angeles,2006,chevrolet,malibu,4995,53114,automatic
+ca,los angeles,2004,toyota,sienna le,5995,111130,automatic
+ca,los angeles,2008,lexus,es 350,8995,128350,automatic
+ca,los angeles,2011,toyota,sienna,6000,264588,automatic
+ca,los angeles,2012,chevrolet,silverado 1500,21500,,automatic
+ca,los angeles,2012,ford,flex sel,10995,72018,automatic
+ca,los angeles,2009,,scion xb,6000,,automatic
+ca,los angeles,1995,nissan,standard xe,6990,63526,automatic
+ca,los angeles,2016,volkswagen,jetta,11500,58000,manual
+ca,los angeles,2015,ford,f150,20350,107763,automatic
+ca,los angeles,2010,lexus,rx,14995,81289,automatic
+ca,los angeles,2011,audi,a8,12999,113974,automatic
+ca,los angeles,2014,gmc,sierra,29998,101334,automatic
+ca,los angeles,2014,honda,odyssey,14900,88974,automatic
+ca,los angeles,2002,porsche,boxster,11990,81377,automatic
+ca,los angeles,2003,audi,allroad,8990,137920,automatic
+ca,los angeles,2004,porsche,911 carrera 4s,25990,85096,automatic
+ca,los angeles,2004,porsche,boxster,12990,79000,automatic
+ca,los angeles,2007,volvo,s80 i6,7990,69964,automatic
+ca,los angeles,2009,lexus,rx 350,10990,122031,automatic
+ca,los angeles,2009,volkswagen,jetta sel,5990,107109,automatic
+ca,los angeles,2009,mercedes-benz,e350 sport 3.5l,7990,162535,automatic
+ca,los angeles,2012,ford,f-150 svt raptor,39990,99814,automatic
+ca,los angeles,2012,audi,q5 3.2l prestige,16990,71495,automatic
+ca,los angeles,2012,mini,cooper clubman s,7990,100474,automatic
+ca,los angeles,2012,mercedes-benz,ml 350,14990,133796,automatic
+ca,los angeles,2012,audi,q5 2.0t premium plus,14990,97219,automatic
+ca,los angeles,2012,mercedes-benz,ml 350 bluetec,15990,118541,automatic
+ca,los angeles,2012,audi,a4 2.0t premium,10990,98269,automatic
+ca,los angeles,2013,mercedes-benz,ml 350,14990,125782,automatic
+ca,los angeles,2013,rover,lr4 hse,18990,114185,automatic
+ca,los angeles,2013,volkswagen,jetta tdi w/premium,7990,149356,automatic
+ca,los angeles,2014,nissan,altima 2.5 s,5990,146968,automatic
+ca,los angeles,2000,chevrolet,malibu,1595,,automatic
+ca,los angeles,2014,toyota,prius plug-in advanced,10990,109114,automatic
+ca,los angeles,2011,ford,f150 supercrew 4x4,26995,89594,automatic
+ca,los angeles,2003,toyota,solara convertible,3750,127000,automatic
+ca,los angeles,2014,jeep,grand cherokee overland,19990,89140,automatic
+ca,los angeles,2014,volkswagen,passat tdi sel,12490,54950,automatic
+ca,los angeles,2014,bmw,x3 xdrive35i xdrive35i,17990,86777,automatic
+ca,los angeles,2014,rover,lr4 lux,16990,157180,automatic
+ca,los angeles,2014,rover,,44990,50729,automatic
+ca,los angeles,2014,mercedes-benz,gl 450,21990,99736,automatic
+ca,los angeles,2014,mercedes-benz,gl 450,23990,76239,automatic
+ca,los angeles,2015,ford,c-max energi sel,8990,61097,automatic
+ca,los angeles,2015,jeep,grand cherokee limited,21490,48590,automatic
+ca,los angeles,2015,fiat,500 abarth,8990,95997,automatic
+ca,los angeles,2015,bmw,x5 xdrive50i xdrive50i,27990,61232,automatic
+ca,los angeles,2005,,Hummer H2,16000,174448,automatic
+ca,los angeles,2015,audi,q5 premium plus,19990,82439,automatic
+ca,los angeles,2016,ford,expedition,20950,104557,automatic
+ca,los angeles,2015,rover,sport,33990,77229,automatic
+ca,los angeles,2016,audi,a6 2.0t premium plus,20990,76524,automatic
+ca,los angeles,2007,ford,f350 diesels powerstroke,7300,,automatic
+ca,los angeles,2017,bmw,i3,16990,26953,automatic
+ca,los angeles,2017,volkswagen,golf alltrack sel,16990,78077,automatic
+ca,los angeles,2017,bmw,330e iperformance,21990,20284,automatic
+ca,los angeles,2011,ford,econoline e250,9000,50000,automatic
+ca,los angeles,2017,audi,q7 prestige,42990,36974,automatic
+ca,los angeles,2018,mercedes-benz,metris passenger,69990,14618,automatic
+ca,los angeles,2018,volkswagen,passat 2.0t sel,19990,13112,automatic
+ca,los angeles,2018,jaguar,f-pace 20d premium,31990,32157,automatic
+ca,los angeles,2018,mini,cooper clubman cooper s,22990,52094,automatic
+ca,los angeles,2015,bmw,435i,33000,44000,automatic
+ca,los angeles,2018,mercedes-benz,e 300,33990,41167,automatic
+ca,los angeles,1997,ford,ranger xlt,3300,178000,automatic
+ca,los angeles,2005,ford,f250,15300,158742,automatic
+ca,los angeles,2011,toyota,prius,3950,,automatic
+ca,los angeles,2016,honda,pilot,18450,97310,automatic
+ca,los angeles,2019,ram,,30000,6500,automatic
+ca,los angeles,1982,datsun,280zx,18900,,automatic
+ca,los angeles,2003,gmc,sierra,3350,,automatic
+ca,los angeles,2017,nissan,sentra,0,9968,automatic
+ca,los angeles,2015,ford,f crew cab lar sprt .leco .,0,70231,automatic
+ca,los angeles,1994,toyota,pickup,13995,122252,manual
+ca,los angeles,2010,buick,enclave cxl,6975,,automatic
+ca,los angeles,2010,buick,enclave cxl,6975,,automatic
+ca,los angeles,2010,buick,enclave cxl,6975,,automatic
+ca,los angeles,2007,toyota,scion tc,4000,120000,manual
+ca,los angeles,2020,bmw,330i,35995,9289,automatic
+ca,los angeles,2017,honda,accord,0,50281,automatic
+ca,los angeles,2013,bmw,335i,10000,63000,automatic
+ca,los angeles,2003,chevrolet,corvette,20850,25139,automatic
+ca,los angeles,2013,bmw,7 series,17495,114700,automatic
+ca,los angeles,2013,bmw,7 series,17495,114700,automatic
+ca,los angeles,2015,honda,cr-v,0,64662,automatic
+ca,los angeles,2016,ram,1500 slt,0,57968,automatic
+ca,los angeles,2006,nissan,altima 2.5 s,2500,,automatic
+ca,los angeles,2013,honda,accord,13500,101100,automatic
+ca,los angeles,2000,dodge,dakota quad cab,7999,81708,automatic
+ca,los angeles,2010,ford,expedition el,12400,132483,automatic
+ca,los angeles,2000,ram,1500,3850,,automatic
+ca,los angeles,1972,,P1800,8500,85000,automatic
+ca,los angeles,2017,porsche,911 carrera s,64500,8400,automatic
+ca,los angeles,2011,bmw,3 series 328i,8000,,automatic
+ca,los angeles,2015,toyota,tacoma prerunner,0,,automatic
+ca,los angeles,2010,ford,f150,12300,96831,automatic
+ca,los angeles,2012,toyota,tacoma,0,,automatic
+ca,los angeles,2015,toyota,tacoma v6,0,,automatic
+ca,los angeles,2017,toyota,corolla,10997,65380,manual
+ca,los angeles,2016,fiat,500e,5991,45950,automatic
+ca,los angeles,2012,toyota,prius v,0,,automatic
+ca,los angeles,2015,honda,accord lx,12500,62400,automatic
+ca,los angeles,2015,toyota,prius,0,,automatic
+ca,los angeles,2016,bmw,x6 sdrive35i,0,93005,automatic
+ca,los angeles,2011,ram,pickup 1500 st,0,,automatic
+ca,los angeles,2017,honda,accord,20500,29907,automatic
+ca,los angeles,2016,ram,1500,0,,automatic
+ca,los angeles,2017,ram,pickup 1500,0,,automatic
+ca,los angeles,2014,nissan,versa,4900,,manual
+ca,los angeles,2017,,isuzu npr hd boxtruck,36900,66280,automatic
+ca,los angeles,2017,ford,f150,26400,110694,automatic
+ca,los angeles,2013,jeep,wrangler sport,0,,automatic
+ca,los angeles,2016,ford,f-150 xlt,0,,automatic
+ca,los angeles,2012,ford,f150 lariat,0,,automatic
+ca,los angeles,1966,volkswagen,karmann ghia,8500,,manual
+ca,los angeles,2013,ford,f150 xlt,0,,automatic
+ca,los angeles,1950,chevrolet,3100,29500,,manual
+ca,los angeles,2017,ram,promaster city,32000,27600,automatic
+ca,los angeles,2017,,isuzu npr hd boxtruck,36900,66280,automatic
+ca,los angeles,2013,chevrolet,tahoe ls,0,,automatic
+ca,los angeles,2007,chrysler,town & country,2700,221750,automatic
+ca,los angeles,2014,dodge,dart sxt,6975,,automatic
+ca,los angeles,2014,dodge,dart sxt,6975,,automatic
+ca,los angeles,2015,chevrolet,silverado 1500,0,,automatic
+ca,los angeles,2014,dodge,dart sxt,6975,,automatic
+ca,los angeles,2010,toyota,tacoma,17300,112052,automatic
+ca,los angeles,2014,chevrolet,silverado 1500,0,,automatic
+ca,los angeles,2019,honda,civix ex,20950,20516,automatic
+ca,los angeles,2019,honda,civix ex,20950,20516,automatic
+ca,los angeles,2013,acura,tl,0,,automatic
+ca,los angeles,2017,,isuzu npr hd boxtruck,36900,66280,automatic
+ca,los angeles,2002,lexus,ls430 ultra package,6300,129000,automatic
+ca,los angeles,2013,kia,sorento lx,10500,74000,automatic
+ca,los angeles,2004,infiniti,i35,4500,98000,automatic
+ca,los angeles,2008,chrysler,300,5700,100900,automatic
+ca,los angeles,2013,subaru,legacy 2.5i premium,7998,146543,automatic
+ca,los angeles,2017,infiniti,qx30,18400,41848,automatic
+ca,los angeles,2016,,porshe cayenne,32000,,automatic
+ca,los angeles,2014,chevrolet,cruze lt,9200,82000,automatic
+ca,los angeles,2011,ford,f550 utility truck f450,31900,66983,automatic
+ca,los angeles,2017,ford,f150,27450,33976,automatic
+ca,los angeles,1950,ford,coupe,29500,5067,automatic
+ca,los angeles,2016,nissan,maxima,15999,90000,automatic
+ca,los angeles,2014,hyundai,elantra,9997,,automatic
+ca,los angeles,2003,toyota,camry xle,4000,125380,automatic
+ca,los angeles,2017,ford,f150,24950,116240,automatic
+ca,los angeles,2015,nissan,altima 2.5 s,10997,59000,automatic
+ca,los angeles,2009,chevrolet,silverado,14995,130021,automatic
+ca,los angeles,1971,chevrolet,c20,7000,,automatic
+ca,los angeles,2013,chevrolet,spark,4975,,automatic
+ca,los angeles,2013,chevrolet,spark,4975,,automatic
+ca,los angeles,2013,chevrolet,spark,4975,,automatic
+ca,los angeles,2017,toyota,corolla le,14997,28000,automatic
+ca,los angeles,2007,volkswagen,passat,2000,,automatic
+ca,los angeles,2014,honda,odyssey,14700,100026,automatic
+ca,los angeles,2001,toyota,4runner,5500,,automatic
+ca,los angeles,2013,nissan,quest,3450,,automatic
+ca,los angeles,1994,,am general m998 humvee,40000,30000,automatic
+ca,los angeles,2001,hyundai,accent,1200,129000,automatic
+ca,los angeles,2002,toyota,sienna le,3450,147000,automatic
+ca,los angeles,2007,nissan,xterra,6350,186161,automatic
+ca,los angeles,1998,toyota,truck tacoma extracap,5300,,manual
+ca,los angeles,2019,kia,optima,14550,31000,automatic
+ca,los angeles,2015,mercedes-benz,g 63,72999,76009,automatic
+ca,los angeles,2014,mercedes-benz,cla 250,19788,65464,automatic
+ca,los angeles,2016,ram,1500 slt,0,57968,automatic
+ca,los angeles,2017,dodge,charger,34388,49604,automatic
+ca,los angeles,1995,honda,civic si,12250,,manual
+ca,los angeles,1949,chevrolet,styleline,18500,35000,automatic
+ca,los angeles,2007,ford,f350,8600,105561,automatic
+ca,los angeles,2013,chevrolet,spark ls,1500,118000,manual
+ca,los angeles,2018,ford,escape,0,23262,automatic
+ca,los angeles,2019,nissan,versa note,0,35376,automatic
+ca,los angeles,2016,bmw,x6 sdrive35i,0,93005,automatic
+ca,los angeles,2016,jeep,renegade wd dr trailhawk,0,83502,automatic
+ca,los angeles,2013,honda,accord,0,98565,manual
+ca,los angeles,2014,jeep,grand cherokee,0,55417,automatic
+ca,los angeles,2003,bmw,m3 coupe,15500,207000,manual
+ca,los angeles,2019,honda,civic,13900,11000,automatic
+ca,los angeles,2015,toyota,camry xse,14200,84704,automatic
+ca,los angeles,2017,ford,f150,23800,121503,automatic
+ca,los angeles,2009,lexus,is 250,6800,,automatic
+ca,los angeles,1966,jaguar,xke,79999,,manual
+ca,los angeles,2011,toyota,prius,9895,109017,automatic
+ca,los angeles,2012,mini,cooper hardtop,7995,106558,automatic
+ca,los angeles,2017,chevrolet,volt,13900,46974,automatic
+ca,los angeles,2005,ford,f250,14800,133321,automatic
+ca,los angeles,2006,,Jetta,3500,161000,automatic
+ca,los angeles,2014,toyota,avalon xle,12900,104100,automatic
+ca,los angeles,2012,bmw,7-series,19900,60138,automatic
+ca,los angeles,2019,toyota,tacoma,29000,,manual
+ca,los angeles,2012,toyota,corolla,6250,72547,automatic
+ca,los angeles,2007,rover,hse,5195,,automatic
+ca,los angeles,1982,mercedes-benz,benz,9850,,automatic
+ca,los angeles,2012,ford,transit connect xlt,9250,84193,automatic
+ca,los angeles,2001,,143000,1450,,automatic
+ca,los angeles,2006,ford,mustang,9999,132525,manual
+ca,los angeles,1970,porsche,914,16500,159560,manual
+ca,los angeles,2017,ford,expedition el,22950,108110,automatic
+ca,los angeles,2015,mercedes-benz,cla 250,0,,automatic
+ca,los angeles,2015,dodge,,1000,75000,automatic
+ca,los angeles,2017,toyota,tacoma,39900,13871,automatic
+ca,los angeles,2012,ford,mustang,7000,,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2007,ford,explorer sport trac,9950,93661,automatic
+ca,los angeles,2008,nissan,versa hatchback,2800,123800,automatic
+ca,los angeles,2015,toyota,,1000,75000,automatic
+ca,los angeles,2013,porsche,boxster,31995,65969,automatic
+ca,los angeles,2014,,chysler 200,6900,119563,automatic
+ca,los angeles,2016,toyota,corolla,13900,64796,automatic
+ca,los angeles,2012,nissan,versa,5995,118345,automatic
+ca,los angeles,2012,nissan,370z touring,12000,98000,manual
+ca,los angeles,2007,toyota,sienna ce,5100,183000,automatic
+ca,los angeles,2015,toyota,,1000,75000,automatic
+ca,los angeles,2010,bmw,x5,13995,71553,automatic
+ca,los angeles,2008,mercedes-benz,benz c300,7500,124000,automatic
+ca,los angeles,2015,chevrolet,tahoe ltz 4x4,25400,114000,automatic
+ca,los angeles,2008,chevrolet,colorado,2600,,manual
+ca,los angeles,2004,dodge,,45000,,manual
+ca,los angeles,2014,toyota,corolla s plus,12980,31508,automatic
+ca,los angeles,2014,,freightliner m2,34900,223935,automatic
+ca,los angeles,2004,nissan,pathfinder se 4x4,3800,145000,automatic
+ca,los angeles,1956,mercury,monterey,9500,,automatic
+ca,los angeles,2016,mercedes-benz,g-class g550 4mati,0,28490,automatic
+ca,los angeles,1997,mazda,b4000 se,1500,248520,automatic
+ca,los angeles,2014,,freightliner m2,34900,223939,automatic
+ca,los angeles,1998,jaguar,xj8 vanden plas,6000,95000,automatic
+ca,los angeles,2014,,freightliner m2,34900,223939,automatic
+ca,los angeles,2016,honda,crv ex,13500,70000,automatic
+ca,los angeles,2014,nissan,juke,11995,,automatic
+ca,los angeles,2019,dodge,grand caravan,14900,30984,automatic
+ca,los angeles,2020,bmw,540i,55975,275,automatic
+ca,los angeles,1990,,Any,1,,manual
+ca,los angeles,1999,honda,accord lx,3499,170000,automatic
+ca,los angeles,1990,chevrolet,camaro,5,,automatic
+ca,los angeles,2009,chrysler,300 touring sedan 4d,4900,126932,automatic
+ca,los angeles,2011,lexus,is250,9850,90734,automatic
+ca,los angeles,2017,dodge,durango,0,54379,automatic
+ca,los angeles,2003,audi,a4,6495,106294,automatic
+ca,los angeles,2011,mini,cooper s hardtop,6995,105222,automatic
+ca,los angeles,1969,chevrolet,el camino,16500,30000,manual
+ca,los angeles,2018,bmw,x5 xdrive,39500,29500,automatic
+ca,los angeles,2011,lexus,es 350 basesedan,14998,87108,automatic
+ca,los angeles,2013,ford,explorer,0,113437,automatic
+ca,los angeles,2017,ford,explorer,0,38587,automatic
+ca,los angeles,2017,volkswagen,passat s,13811,33839,automatic
+ca,los angeles,2005,toyota,camry,4495,149572,automatic
+ca,los angeles,2017,volkswagen,passat s,13811,33839,automatic
+ca,los angeles,2005,toyota,camry,4495,149572,automatic
+ca,los angeles,1937,chrysler,imperial,24990,65600,manual
+ca,los angeles,2015,jeep,wrangler,0,50247,automatic
+ca,los angeles,2012,jeep,wrangler,24980,57000,automatic
+ca,los angeles,2007,toyota,corolla le,6997,,automatic
+ca,los angeles,2017,nissan,pathfinder,0,36728,automatic
+ca,los angeles,2010,cadillac,srx,10995,,automatic
+ca,los angeles,2016,ford,explorer wd dr limited,0,68067,automatic
+ca,los angeles,2018,toyota,tacoma trd offroad,27900,,automatic
+ca,los angeles,2001,chevrolet,express,4500,202000,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2020,toyota,corolla,232,,automatic
+ca,los angeles,2013,mercedes-benz,benz glk 350,0,,automatic
+ca,los angeles,2014,ford,fiesta s,6698,,automatic
+ca,los angeles,2014,mercedes-benz,benz e350,0,,automatic
+ca,los angeles,2007,toyota,corolla le,1500,142000,automatic
+ca,los angeles,2007,ford,expedition,4900,170000,automatic
+ca,los angeles,1975,ford,f-250,4000,,automatic
+ca,los angeles,2008,chevrolet,tahoe,6900,,automatic
+ca,los angeles,2012,honda,civic,8795,120208,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2013,porsche,boxster,31995,65969,automatic
+ca,los angeles,2008,,scion xb,8995,,automatic
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,1999,ford,expedition,2900,161000,automatic
+ca,los angeles,2011,bmw,550i,15400,66000,automatic
+ca,los angeles,2014,ford,focus,0,110000,automatic
+ca,los angeles,2007,ram,,16900,153000,automatic
+ca,los angeles,2013,nissan,rogue,0,67000,automatic
+ca,los angeles,2012,mini,cooper hardtop,7995,106558,automatic
+ca,los angeles,2012,toyota,camry,0,106000,automatic
+ca,los angeles,2006,lexus,es 330,9495,92983,automatic
+ca,los angeles,2005,gmc,sierra,4500,320000,automatic
+ca,los angeles,2015,hyundai,elantra,0,90000,automatic
+ca,los angeles,2014,ford,flex,10995,,automatic
+ca,los angeles,2014,cadillac,cts coupe,12495,118844,automatic
+ca,los angeles,2014,hyundai,accent,0,107000,automatic
+ca,los angeles,2016,nissan,sentra,0,77000,automatic
+ca,los angeles,2016,hyundai,sonata,0,97000,automatic
+ca,los angeles,1999,gmc,safari,4500,103000,automatic
+ca,los angeles,2014,ford,fiesta,4300,,automatic
+ca,los angeles,1933,cadillac,1933,39000,,automatic
+ca,los angeles,2017,volkswagen,tiguan limited 2.0t,16833,27346,automatic
+ca,los angeles,1998,ram,,3800,151000,automatic
+ca,los angeles,2020,bmw,440i coupe,45000,6197,automatic
+ca,los angeles,2015,ford,f 550 power stroke diesel,49500,170000,automatic
+ca,los angeles,2016,mercedes-benz,g-class g550 4mati,0,28490,automatic
+ca,los angeles,2008,infiniti,fx35 fx 35,9997,,automatic
+ca,los angeles,2016,mercedes-benz,g-class g550 4mati,0,28490,automatic
+ca,los angeles,2000,chevrolet,corvette,15900,92016,automatic
+ca,los angeles,2012,nissan,versa,5995,118345,automatic
+ca,los angeles,2014,mercedes-benz,sprinter 3500,38000,195000,automatic
+ca,los angeles,2013,dodge,journey,9995,,automatic
+ca,los angeles,2017,,freightliner m2,95000,105000,automatic
+ca,los angeles,2016,volkswagen,jetta,10000,28000,automatic
+ca,los angeles,2019,,Isuzu NRR,0,22012,automatic
+ca,los angeles,2015,ford,transit wagon,0,101031,automatic
+ca,los angeles,2007,ford,econoline commercial,0,219125,automatic
+ca,los angeles,1985,ram,d50,4000,93500,manual
+ca,los angeles,2018,,FREIGHTLINER M2 106,0,90043,automatic
+ca,los angeles,2017,ford,transit wagon,0,69993,automatic
+ca,los angeles,2017,volkswagen,tiguan limited,15991,19797,automatic
+ca,los angeles,2019,toyota,camry,17500,46013,automatic
+ca,los angeles,2012,gmc,sierra 1500,16000,165452,automatic
+ca,los angeles,2019,chevrolet,express cargo van,0,13209,automatic
+ca,los angeles,2017,nissan,rogue,13990,50000,automatic
+ca,los angeles,2013,ford,mustang,14000,94338,automatic
+ca,los angeles,1997,honda,cr-v,1000,252000,automatic
+ca,los angeles,2007,,isuzu npr diesel,10000,,automatic
+ca,los angeles,2017,lexus,es350,29000,27929,automatic
+ca,los angeles,2012,volvo,s60 2.5t,5999,,automatic
+ca,los angeles,2011,mini,cooper hardtop,7995,93374,automatic
+ca,los angeles,2016,bmw,x6 sdrive35i,0,93005,automatic
+ca,los angeles,2002,toyota,camry,2800,200000,manual
+ca,los angeles,2012,chrysler,200,0,131458,automatic
+ca,los angeles,2003,chrysler,town & country,12937,105000,automatic
+ca,los angeles,2012,jaguar,xf,13999,,automatic
+ca,los angeles,2015,mercedes-benz,glk-class,0,85089,automatic
+ca,los angeles,2016,mercedes-benz,gle,0,51617,automatic
+ca,los angeles,2017,bmw,x4,33500,52478,automatic
+ca,los angeles,2019,toyota,tacoma 2wd,0,9978,automatic
+ca,los angeles,2017,bmw,x5,0,60739,automatic
+ca,los angeles,2014,bmw,,9999,21312,automatic
+ca,los angeles,2012,nissan,altima s,6900,134738,automatic
+ca,los angeles,2012,volkswagen,jetta 2.5 se,8700,67519,automatic
+ca,los angeles,2017,mitsubishi,lancer,0,76327,automatic
+ca,los angeles,2014,mercedes-benz,e-class,0,52444,automatic
+ca,los angeles,2015,lexus,ct 200h,0,67330,automatic
+ca,los angeles,2009,honda,civic,7997,,automatic
+ca,los angeles,2016,bmw,i3,0,24814,automatic
+ca,los angeles,2008,lexus,is 250,5000,,automatic
+ca,los angeles,2018,volkswagen,atlas sel r line awd,32584,39846,automatic
+ca,los angeles,2019,chevrolet,silverado 1500,35000,11889,automatic
+ca,los angeles,2003,acura,3.2 tl,3700,134000,automatic
+ca,los angeles,2016,toyota,prius c,14780,21715,automatic
+ca,los angeles,2012,honda,civic,8795,120208,automatic
+ca,los angeles,2014,mini,cooper countryman,9495,85290,automatic
+ca,los angeles,2014,jeep,grand cherokee,0,115164,automatic
+ca,los angeles,1975,,Peugeot 604,8500,,manual
+ca,los angeles,2012,cadillac,escalade ext,22900,57900,automatic
+ca,los angeles,2018,gmc,terrain,0,22221,automatic
+ca,los angeles,2018,volkswagen,jetta se sport,16922,8220,automatic
+ca,los angeles,2008,hyundai,elantra,1500,,automatic
+ca,los angeles,2016,chevrolet,malibu,14995,56053,automatic
+ca,los angeles,2020,gmc,savana,0,8970,automatic
+ca,los angeles,2013,porsche,boxster,31995,65969,automatic
+ca,los angeles,2019,ford,fusion hybrid,0,39535,automatic
+ca,los angeles,2016,ford,f-150,20000,138526,automatic
+ca,los angeles,2014,toyota,prius c,0,140900,automatic
+ca,los angeles,2012,chevrolet,cruze lt,5000,78000,automatic
+ca,los angeles,2013,ford,explorer,0,119060,automatic
+ca,los angeles,2000,ford,f450 super duty,17000,,automatic
+ca,los angeles,2017,toyota,prius,18750,22300,automatic
+ca,los angeles,2018,nissan,frontier,0,39930,automatic
+ca,los angeles,2016,jeep,wrangler,0,60649,automatic
+ca,los angeles,2011,nissan,versa,0,62643,manual
+ca,los angeles,2017,ford,f- xlt wd supercrew .' box,0,87508,automatic
+ca,los angeles,2018,toyota,camry,18500,51468,automatic
+ca,los angeles,1995,mercedes-benz,e320 cabriolet,8800,240000,automatic
+ca,los angeles,1997,nissan,quest van,1250,99000,automatic
+ca,los angeles,2010,rover,,14995,136521,automatic
+ca,los angeles,2016,dodge,grand caravan,12250,80731,automatic
+ca,los angeles,2018,volkswagen,passat se,17995,14580,automatic
+ca,los angeles,2010,toyota,prius,5700,149000,automatic
+ca,los angeles,2005,,Hightop van,5900,,automatic
+ca,los angeles,1990,jeep,cherokee pioneer,3400,,automatic
+ca,los angeles,2016,audi,a7,35900,61265,automatic
+ca,los angeles,2010,audi,a4,7300,108000,automatic
+ca,los angeles,2008,infiniti,fx35 fx 35,9997,,automatic
+ca,los angeles,2015,ford,focus s,0,72863,automatic
+ca,los angeles,1998,toyota,tacoma sr5 xtra cab,6900,,automatic
+ca,los angeles,2008,ford,f250 super duty,12000,,automatic
+ca,los angeles,2014,lexus,ct200h,14500,78005,automatic
+ca,los angeles,2009,acura,tl,8300,121000,automatic
+ca,los angeles,2004,ford,expedition,3500,181000,automatic
+ca,los angeles,2008,bmw,328i,5999,,automatic
+ca,los angeles,2017,toyota,prius,17900,34232,automatic
+ca,los angeles,2003,audi,a4,6495,106294,automatic
+ca,los angeles,2003,audi,a4,6495,106294,automatic
+ca,los angeles,2015,gmc,sierra 1500,28374,33415,automatic
+ca,los angeles,2005,jeep,grand cherokee,4995,149768,automatic
+ca,los angeles,2006,volkswagen,touareg,4995,92565,automatic
+ca,los angeles,2010,jeep,patriot,4995,149857,automatic
+ca,los angeles,2001,chrysler,pt cruiser,2995,73316,automatic
+ca,los angeles,2006,bmw,x5,4995,126286,automatic
+ca,los angeles,2012,ford,focus,5995,72060,automatic
+ca,los angeles,2006,saturn,vue,3995,114117,automatic
+ca,los angeles,2011,chevrolet,equinox,6995,133724,automatic
+ca,los angeles,2018,ram,5500,55000,63134,automatic
+ca,los angeles,2002,honda,civic,2995,204066,automatic
+ca,los angeles,2008,dodge,charger,5995,143772,automatic
+ca,los angeles,2002,honda,cr-v,3995,207162,automatic
+ca,los angeles,2007,nissan,murano,4995,151184,automatic
+ca,los angeles,1999,toyota,camry solara,3400,205298,automatic
+ca,los angeles,2003,toyota,camry,3800,202382,automatic
+ca,los angeles,2005,gmc,envoy,4995,96392,automatic
+ca,los angeles,2015,nissan,sentra svsedan,6998,94839,automatic
+ca,los angeles,2005,acura,rsx,5995,161974,automatic
+ca,los angeles,2014,bmw,528i,14995,116698,automatic
+ca,los angeles,2008,infiniti,fx35,6995,153482,automatic
+ca,los angeles,2015,,Z71 Silverado,23300,,automatic
+ca,los angeles,2014,bmw,528i,14995,116698,automatic
+ca,los angeles,2013,honda,crosstour,0,63625,automatic
+ca,los angeles,2006,nissan,sentra,3300,115465,automatic
+ca,los angeles,2015,infiniti,q50s sport awd,23500,50000,automatic
+ca,los angeles,1998,mercedes-benz,c class,2995,342655,automatic
+ca,los angeles,2007,honda,civic hybrid,3685,181699,automatic
+ca,los angeles,2014,chevrolet,traverse,0,95520,automatic
+ca,los angeles,2004,nissan,sentra,2795,212010,automatic
+ca,los angeles,2004,dodge,durango,4995,116284,automatic
+ca,los angeles,2001,ford,crown victoria,3995,54740,automatic
+ca,los angeles,2000,,Plymouth Neon,1900,169230,automatic
+ca,los angeles,1991,jeep,wrangler,12995,174270,automatic
+ca,los angeles,2014,bmw,328i xdrive,21500,64000,automatic
+ca,los angeles,2003,hyundai,santa fe,3995,182846,automatic
+ca,los angeles,2010,honda,insight,3995,174709,automatic
+ca,los angeles,2004,volkswagen,new beetle coupe,4995,106877,manual
+ca,los angeles,2008,,MiniCooper S,6800,84524,automatic
+ca,los angeles,2011,mini,cooper countryman sport,6975,,automatic
+ca,los angeles,2011,mini,cooper countryman sport,6975,,automatic
+ca,los angeles,2011,mini,cooper countryman sport,6975,,automatic
+ca,los angeles,2017,volkswagen,golf alltrack,18900,30748,automatic
+ca,los angeles,2010,hyundai,elantra,4750,110305,automatic
+ca,los angeles,2014,chevrolet,spark,4800,116000,automatic
+ca,los angeles,2016,,Ss camaro,19000,,automatic
+ca,los angeles,2012,nissan,altima 2.5 s,5750,138794,automatic
+ca,los angeles,2012,jeep,grand cherokee,0,98995,automatic
+ca,los angeles,2006,lexus,rx400h,4300,180000,other
+ca,los angeles,2017,ford,expedition el,20000,107890,automatic
+ca,los angeles,2011,mazda,6,6600,93872,automatic
+ca,los angeles,1999,mercedes-benz,c230 kompressor,1500,,automatic
+ca,los angeles,2012,honda,civic,8795,120208,automatic
+ca,los angeles,2008,,scion tc,2600,,manual
+ca,los angeles,2003,honda,civic hybrid,3800,101607,automatic
+ca,los angeles,2007,mercedes-benz,c230,4500,181000,automatic
+ca,los angeles,2013,kia,rio sx,6400,113000,automatic
+ca,los angeles,2016,kia,forte,7797,75940,automatic
+ca,los angeles,2015,nissan,sentra s,6700,108715,automatic
+ca,los angeles,2009,hyundai,accent gls,3500,136913,automatic
+ca,los angeles,2005,mercedes-benz,sl500,9500,123800,automatic
+ca,los angeles,1994,ford,,2800,85000,automatic
+ca,los angeles,2015,toyota,camry,13600,66646,automatic
+ca,los angeles,2007,subaru,forester 2.5x,4900,,automatic
+ca,los angeles,2018,toyota,camry,19900,17565,automatic
+ca,los angeles,2004,toyota,camry,5999,184977,automatic
+ca,los angeles,2008,rover,supercharged,7900,174994,automatic
+ca,los angeles,2015,ford,cmax hybrid,11997,39000,automatic
+ca,los angeles,2016,toyota,camry,12900,80,automatic
+ca,los angeles,2018,volkswagen,tiguan se,20893,23891,automatic
+ca,los angeles,2017,mercedes-benz,e-class,29000,39685,automatic
+ca,los angeles,2019,chevrolet,silverado bad credit,0,13000,automatic
+ca,los angeles,2017,volkswagen,golf alltrack se,18995,30259,automatic
+ca,los angeles,2017,ford,explorer bad credit,0,31000,automatic
+ca,los angeles,2006,pontiac,gto,7900,,manual
+ca,los angeles,2008,infiniti,fx35 fx 35,9997,,automatic
+ca,los angeles,2017,volkswagen,tiguan s,17961,30893,automatic
+ca,los angeles,2005,acura,tsx,2500,105240,automatic
+ca,los angeles,2019,kia,stinger bad credit,26997,12000,automatic
+ca,los angeles,2012,toyota,corolla,0,94801,automatic
+ca,los angeles,2018,nissan,rogue,16191,54501,automatic
+ca,los angeles,2016,kia,optima,11550,75000,automatic
+ca,los angeles,2006,ford,f450 dually,3100,,automatic
+ca,los angeles,2014,ford,explorer,0,104540,automatic
+ca,los angeles,2006,toyota,4runner sr5,9997,,automatic
+ca,los angeles,2017,jeep,cherokee,0,37330,automatic
+ca,los angeles,2019,volkswagen,jetta s,14812,37864,automatic
+ca,los angeles,2019,nissan,altima,0,24785,automatic
+ca,los angeles,2010,toyota,prius,9991,109548,automatic
+ca,los angeles,2016,audi,q3,24990,43603,automatic
+ca,los angeles,2019,ford,flex,0,26010,automatic
+ca,los angeles,2015,bmw,428i w/sulev,23000,46700,automatic
+ca,los angeles,2015,bmw,428i w/sulev,23000,46700,automatic
+ca,los angeles,2017,ford,escape s fwd,0,43404,automatic
+ca,los angeles,2017,volkswagen,jetta se,13988,30636,automatic
+ca,los angeles,2017,ford,escape s fwd,0,43404,automatic
+ca,los angeles,2019,toyota,tacoma wd sr double cab ' bed i at,0,18312,automatic
+ca,los angeles,2017,toyota,corolla le,14997,28000,automatic
+ca,los angeles,2012,,maserati granturismo,35999,48014,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2007,toyota,sequoia,8200,170000,automatic
+ca,los angeles,2018,honda,accord touring 2.0t,26999,22242,automatic
+ca,los angeles,2016,toyota,prius three,14995,48261,automatic
+ca,los angeles,2016,kia,forte,9773,29574,automatic
+ca,los angeles,1985,cadillac,classic car,9500,,automatic
+ca,los angeles,2016,volkswagen,e-golf,13995,25945,other
+ca,los angeles,2018,bmw,3 series,30500,63127,automatic
+ca,los angeles,1996,saturn,,1500,65000,automatic
+ca,los angeles,2006,hyundai,elantra,3800,,automatic
+ca,los angeles,2017,volkswagen,jetta se,13784,33406,automatic
+ca,los angeles,2018,bmw,x6 sdrive35i,0,56089,automatic
+ca,los angeles,2015,jeep,grand cherokee overland,0,86490,automatic
+ca,los angeles,2010,rover,,14995,136521,automatic
+ca,los angeles,2017,cadillac,cts,21600,74776,automatic
+ca,los angeles,2015,ford,scape,6975,,automatic
+ca,los angeles,2017,volkswagen,jetta s,11995,29346,automatic
+ca,los angeles,2017,bmw,3 series,21890,42659,automatic
+ca,los angeles,2015,ford,scape,6975,,automatic
+ca,los angeles,2015,ford,scape,6975,,automatic
+ca,los angeles,2019,toyota,corolla se,17995,27648,automatic
+ca,los angeles,2015,,scion xb,9500,30300,automatic
+ca,los angeles,2008,acura,tl,7000,110000,automatic
+ca,los angeles,2002,buick,rendezvous,3800,168980,automatic
+ca,los angeles,2017,toyota,rav4 le,18742,22539,automatic
+ca,los angeles,2015,honda,civic,10774,50787,automatic
+ca,los angeles,2016,subaru,legacy,14000,93155,automatic
+ca,los angeles,1987,volkswagen,cabriolet,5700,148283,manual
+ca,los angeles,2017,toyota,camry se,14900,44868,automatic
+ca,los angeles,2017,bmw,330i sedan manual,23900,36296,manual
+ca,los angeles,2017,ford,edge,19999,34100,automatic
+ca,los angeles,2017,volkswagen,gli,18995,27464,automatic
+ca,los angeles,1989,gmc,jimmy 4x4,11500,,automatic
+ca,los angeles,2018,bmw,430i,23497,52382,automatic
+ca,los angeles,2016,bmw,m3,40998,59026,automatic
+ca,los angeles,2015,hyundai,veloster,7995,125966,automatic
+ca,los angeles,2017,bmw,m4,46998,28287,automatic
+ca,los angeles,2013,mini,cooper hardtop,8995,88580,automatic
+ca,los angeles,2011,audi,r8 coupe,88888,17000,manual
+ca,los angeles,2015,toyota,sienna le,16800,88195,automatic
+ca,los angeles,2017,bmw,3-series,23900,36296,manual
+ca,los angeles,2018,infiniti,q50,21900,28477,automatic
+ca,los angeles,2017,ford,explorer,26390,31210,automatic
+ca,los angeles,2017,bmw,m3 sedan,57888,9900,manual
+ca,los angeles,2018,lexus,gs 350,35900,12172,automatic
+ca,los angeles,2016,honda,crv,16500,,automatic
+ca,los angeles,1997,porsche,911,64500,100000,manual
+ca,los angeles,2019,toyota,tacoma 4x4,42888,17000,automatic
+ca,los angeles,2017,chevrolet,malibu,0,61920,automatic
+ca,los angeles,1979,,MG MGB,8995,21958,manual
+ca,los angeles,2015,bmw,328i,11999,92269,automatic
+ca,los angeles,2017,toyota,tacoma,25952,75706,automatic
+ca,los angeles,2010,mercedes-benz,gl-class,10995,155710,automatic
+ca,los angeles,2012,toyota,corolla le,3800,152219,automatic
+ca,los angeles,2001,ford,f-350 super duty,13000,221000,automatic
+ca,los angeles,1994,chevrolet,,9,16900,automatic
+ca,los angeles,2014,bmw,528i,14995,116698,automatic
+ca,los angeles,2017,toyota,rav4,0,16762,automatic
+ca,los angeles,2016,bmw,m4,39999,61586,automatic
+ca,los angeles,1965,ford,mustang,109888,8500,manual
+ca,los angeles,2016,,Scion iM,14950,16136,automatic
+ca,los angeles,2020,gmc,denali,84888,8300,automatic
+ca,los angeles,2017,chevrolet,silverado 1500,28600,96396,automatic
+ca,los angeles,2017,,bentley bentayga,142888,22000,automatic
+ca,los angeles,2012,chevrolet,equinox,7995,118222,automatic
+ca,los angeles,2014,bmw,,9999,21312,automatic
+ca,los angeles,1995,bmw,318ti,3995,176600,automatic
+ca,los angeles,2006,rover,lr3,12800,134900,automatic
+ca,los angeles,2017,hyundai,sonata hybrid,17995,20094,automatic
+ca,los angeles,2014,bmw,,9999,21312,automatic
+ca,los angeles,2017,hyundai,tucson,16995,24834,automatic
+ca,los angeles,2017,hyundai,sonata,14181,57615,automatic
+ca,los angeles,2014,infiniti,qx60,0,99772,automatic
+ca,los angeles,2005,,suzuki forenza S 4 door sedan,3950,205725,automatic
+ca,los angeles,2020,aston-martin,martin vantage,159888,1100,automatic
+ca,los angeles,2005,mitsubishi,lancer,2600,103936,automatic
+ca,los angeles,2007,jeep,grand cherokee,6200,,automatic
+ca,los angeles,2017,bmw,3 series,21975,42163,automatic
+ca,los angeles,2008,,smart fortwo passion Convertible,6450,47800,automatic
+ca,los angeles,2005,nissan,altima 2.5 s,5750,120004,automatic
+ca,los angeles,2006,,Maserati,12000,100000,automatic
+ca,los angeles,2016,bmw,i3 / rex / harmon cardon,16750,27000,automatic
+ca,los angeles,2017,bmw,4 series,23480,56145,automatic
+ca,los angeles,2006,honda,element,4300,130200,manual
+ca,los angeles,2017,jeep,grand cherokee,18800,88133,automatic
+ca,los angeles,2006,porsche,911 carrera s cabriolet,35000,58000,manual
+ca,los angeles,1935,ford,tudor sedan,34900,,manual
+ca,los angeles,2000,lexus,es300,5750,138503,automatic
+ca,los angeles,1959,chevrolet,el camino,18500,,automatic
+ca,los angeles,2013,chevrolet,captiva sport,7950,120002,automatic
+ca,los angeles,2017,lincoln,mkc,19499,35003,automatic
+ca,los angeles,2001,saturn,,2100,136000,automatic
+ca,los angeles,2010,rover,,14995,136521,automatic
+ca,los angeles,2016,hyundai,sonata,13400,59379,automatic
+ca,los angeles,2004,ford,f350 super duty,12500,,automatic
+ca,los angeles,2004,honda,civic ex,3295,,automatic
+ca,los angeles,2017,hyundai,sonata,11995,78399,automatic
+ca,los angeles,2012,honda,cr-v,12900,105306,automatic
+ca,los angeles,2014,nissan,altima,7500,,automatic
+ca,los angeles,2017,honda,pilot,22995,36649,automatic
+ca,los angeles,2012,infiniti,g37,14999,60876,automatic
+ca,los angeles,1966,,Chevelle Malibu Hardtop,11250,,automatic
+ca,los angeles,2017,chevrolet,camaro,28497,56589,automatic
+ca,los angeles,2007,lincoln,mkz,2000,,automatic
+ca,los angeles,2004,ford,taurus,2000,113000,automatic
+ca,los angeles,2017,ford,explorer,26998,20984,automatic
+ca,los angeles,2006,lexus,ls 430,11495,122362,automatic
+ca,los angeles,2003,lexus,is 300,4300,144000,automatic
+ca,los angeles,1942,mercury,saden,7800,,manual
+ca,los angeles,2017,ford,focus,10459,48461,automatic
+ca,los angeles,2003,gmc,sierra,12995,163307,automatic
+ca,los angeles,2017,ford,focus,10459,48461,automatic
+ca,los angeles,2003,gmc,sierra,12995,163307,automatic
+ca,los angeles,2015,honda,civic,15995,93950,manual
+ca,los angeles,2015,dodge,dart,5995,151625,automatic
+ca,los angeles,1989,buick,century,2500,53888,automatic
+ca,los angeles,2010,lexus,rx,13999,118788,automatic
+ca,los angeles,2011,dodge,charger,11995,121611,automatic
+ca,los angeles,2018,ford,explorer,22900,23871,automatic
+ca,los angeles,1993,,Rolls Royce,90000,40000,automatic
+ca,los angeles,2017,ford,f-150,33490,22598,automatic
+ca,los angeles,2017,mini,cooper s,1500,,automatic
+ca,los angeles,2009,,09Volkswagen Tiguan,5900,,automatic
+ca,los angeles,2006,honda,accord,3800,210000,automatic
+ca,los angeles,2017,ford,escape,15695,30359,automatic
+ca,los angeles,2015,hyundai,veloster,7995,125966,automatic
+ca,los angeles,2001,ford,f-250,19500,173000,automatic
+ca,los angeles,2014,toyota,prius,0,32647,automatic
+ca,los angeles,2016,nissan,rogue,10488,78380,automatic
+ca,los angeles,2015,jeep,cherokee t5 premier,13214,100327,automatic
+ca,los angeles,2013,ford,explorer,0,131472,automatic
+ca,los angeles,2017,infiniti,q50,0,47119,manual
+ca,los angeles,2004,chevrolet,silverado 2500,11998,127428,automatic
+ca,los angeles,2016,volkswagen,tiguan,12995,57428,automatic
+ca,los angeles,2019,nissan,versa note,0,31973,automatic
+ca,los angeles,2006,,fordF350 SuperDuty Diesel,19000,,automatic
+ca,los angeles,2004,toyota,rav4,4250,162019,automatic
+ca,los angeles,2017,ford,explorer,0,72937,automatic
+ca,los angeles,2013,nissan,altima dr sdn v . sv,0,43671,automatic
+ca,los angeles,2013,nissan,altima dr sdn v . sv,0,43671,automatic
+ca,los angeles,2013,jeep,wrangler unlimited wd dr sport,0,73911,automatic
+ca,los angeles,2015,ford,f-150,17992,111545,automatic
+ca,los angeles,2016,mercedes-benz,benz c300 4matic,18999,54300,automatic
+ca,los angeles,2013,porsche,boxster s,34000,30175,automatic
+ca,los angeles,2009,chrysler,pt cruiser,4895,,automatic
+ca,los angeles,2018,bmw,x6 sdrive35i,0,56089,automatic
+ca,los angeles,2017,hyundai,elantra se sedan 4d,9000,60000,automatic
+ca,los angeles,2015,ford,mustang,26995,48526,automatic
+ca,los angeles,2016,nissan,maxima,10200,,automatic
+ca,los angeles,2017,chevrolet,cruze,0,86955,automatic
+ca,los angeles,2015,ford,focus,6974,131175,automatic
+ca,los angeles,2001,toyota,camry,600,280000,automatic
+ca,los angeles,2016,jeep,cherokee,16995,36777,automatic
+ca,los angeles,2018,bmw,x6 sdrive35i,0,56089,automatic
+ca,los angeles,2013,lexus,es 300h,18780,70066,automatic
+ca,los angeles,2014,lexus,is 250,16995,92665,automatic
+ca,los angeles,2015,nissan,versa note sv,7495,72927,automatic
+ca,los angeles,2011,audi,a4 premium plus,8995,99793,automatic
+ca,los angeles,2013,chevrolet,spark,5995,94879,automatic
+ca,los angeles,2017,ram,1500 4x4,33995,45000,automatic
+ca,los angeles,2015,chevrolet,spark,6295,89061,manual
+ca,los angeles,2018,ford,escape,17495,41168,automatic
+ca,los angeles,2016,toyota,camry,17000,,automatic
+ca,los angeles,2018,toyota,corolla,15495,46574,automatic
+ca,los angeles,2016,toyota,camry,15550,71072,automatic
+ca,los angeles,2017,ford,fusion,14495,24086,automatic
+ca,los angeles,2016,hyundai,veloster,0,94195,automatic
+ca,los angeles,2017,honda,civic ex-t,18995,25647,automatic
+ca,los angeles,2000,,xj 4x4  cherokee,11500,108000,automatic
+ca,los angeles,2014,nissan,juke,8999,93125,manual
+ca,los angeles,2006,audi,a4,3500,,automatic
+ca,los angeles,2007,volkswagen,eos komfort,5500,165199,automatic
+ca,los angeles,2009,volkswagen,jetta,5795,91977,automatic
+ca,los angeles,2003,ford,ranger edge,7200,123800,automatic
+ca,los angeles,2012,chevrolet,sonic,5995,84548,automatic
+ca,los angeles,2005,nissan,altama,3500,153000,automatic
+ca,los angeles,2014,ford,fusion hybrid,7495,105084,automatic
+ca,los angeles,2017,bmw,3 series,25900,22274,automatic
+ca,los angeles,1995,,lmtv 1081,13500,30400,automatic
+ca,los angeles,2013,volkswagen,jetta,7794,102073,automatic
+ca,los angeles,2017,bmw,3 series,22898,36391,automatic
+ca,los angeles,2017,mercedes-benz,c-class,25995,31102,automatic
+ca,los angeles,1932,ford,5 window chopped coupe,29750,,automatic
+ca,los angeles,2008,volvo,s40 2.4i,3700,156000,automatic
+ca,los angeles,2009,toyota,yaris,5195,138571,automatic
+ca,los angeles,2003,mercedes-benz,benz e320,2000,194,automatic
+ca,los angeles,2015,mercedes-benz,glk,22991,53887,automatic
+ca,los angeles,2005,toyota,corolla ce,5795,102903,automatic
+ca,los angeles,2011,ford,fusion,10450,40733,automatic
+ca,los angeles,2015,nissan,sentra s,7995,79970,manual
+ca,los angeles,2013,honda,civic,11551,73893,automatic
+ca,los angeles,2010,toyota,prius two,6195,161509,automatic
+ca,los angeles,2013,toyota,prius three,7995,145642,automatic
+ca,los angeles,2017,bmw,3 series,23695,25930,automatic
+ca,los angeles,2015,acura,tlx,11900,,automatic
+ca,los angeles,2014,audi,a4 premium plus,15900,64870,automatic
+ca,los angeles,2015,hyundai,genesis,17888,65425,automatic
+ca,los angeles,2001,toyota,4runner,5500,,automatic
+ca,los angeles,2015,ford,e350 super duty,21900,77308,automatic
+ca,los angeles,2012,hyundai,tucson,5500,,automatic
+ca,los angeles,2015,ford,e350 super duty,21900,77308,automatic
+ca,los angeles,2007,toyota,camry le 4dr sedan,6950,62437,automatic
+ca,los angeles,2017,bmw,x3,23985,32405,automatic
+ca,los angeles,2017,bmw,x3,26900,52945,automatic
+ca,los angeles,2015,jeep,grand cherokee,23956,45512,automatic
+ca,los angeles,2015,ford,e350 cargo van,21900,77308,automatic
+ca,los angeles,2008,toyota,prius,5995,182188,automatic
+ca,los angeles,2001,mercedes-benz,benz ml320,2000,,automatic
+ca,los angeles,2017,nissan,rogue sport,13995,39343,automatic
+ca,los angeles,2013,ford,escape,9990,90000,automatic
+ca,los angeles,2019,toyota,highlander,19500,,automatic
+ca,los angeles,2017,toyota,tacoma trd off-road,29500,30000,automatic
+ca,los angeles,2001,chevrolet,3500,6000,94047,automatic
+ca,los angeles,2008,ford,f-150,12500,112457,automatic
+ca,los angeles,2017,gmc,yukon,34295,45230,automatic
+ca,los angeles,2006,,isuzu npr,8800,217000,automatic
+ca,los angeles,2016,honda,hr-v,16952,27383,automatic
+ca,los angeles,2017,mazda,cx-5,15985,49686,automatic
+ca,los angeles,2016,tesla,s 90d,39000,,automatic
+ca,los angeles,2014,chevrolet,sonic lt,4000,83538,automatic
+ca,los angeles,2007,toyota,yaris automatic,4999,,automatic
+ca,los angeles,2005,cadillac,deville,2050,120,automatic
+ca,los angeles,2017,rover,evoque,27595,58554,automatic
+ca,los angeles,2017,toyota,rav4,21485,40356,automatic
+ca,los angeles,1998,,1998 GEO METRO LS,1999,157214,manual
+ca,los angeles,1998,jaguar,xk8,4800,,automatic
+ca,los angeles,2015,ford,edge,16795,61571,automatic
+ca,los angeles,2007,mitsubishi,galant es 4door,3400,125000,automatic
+ca,los angeles,2010,toyota,prius,6995,154960,automatic
+ca,los angeles,2007,mitsubishi,galant es 4door,3400,125000,automatic
+ca,los angeles,2010,toyota,prius,6995,154960,automatic
+ca,los angeles,2017,rover,evoque,29459,19511,automatic
+ca,los angeles,1998,toyota,camry se-4dr sedan,3000,193390,automatic
+ca,los angeles,2009,bmw,x5,7900,,automatic
+ca,los angeles,2004,honda,civic hybrid,2999,143609,automatic
+ca,los angeles,2013,toyota,prius,4500,245000,automatic
+ca,los angeles,2017,toyota,sienna,19245,68824,automatic
+ca,los angeles,1998,jeep,wrangler,10950,135000,manual
+ca,los angeles,2017,toyota,prius prime,19748,39154,automatic
+ca,los angeles,2018,lexus,nx 300,27995,34076,automatic
+ca,los angeles,2000,chevrolet,tahoe,2000,230000,automatic
+ca,los angeles,2016,nissan,rogue sv suv,15900,16000,automatic
+ca,los angeles,2017,ram,1500,18000,31000,automatic
+ca,los angeles,2004,honda,odyssey,1500,176200,automatic
+ca,los angeles,2017,toyota,sienna,19985,49979,automatic
+ca,los angeles,2007,toyota,sienna le mvan,3680,230000,automatic
+ca,los angeles,2017,rover,discovery sport,27895,10292,automatic
+ca,los angeles,2018,ram,1500,19000,26000,automatic
+ca,los angeles,2005,honda,element,2000,,manual
+ca,los angeles,2018,toyota,sienna,26699,38171,automatic
+ca,los angeles,2017,cadillac,xt5,20597,54902,automatic
+ca,los angeles,2003,acura,tl,3200,,automatic
+ca,los angeles,2016,honda,accord lx,14900,47000,automatic
+ca,los angeles,2017,rover,discovery sport,29459,23203,automatic
+ca,los angeles,2013,mini,cooper hardtop,8995,88580,automatic
+ca,los angeles,2015,hyundai,veloster,7995,125966,automatic
+ca,los angeles,2013,mini,cooper hardtop,8995,88580,automatic
+ca,los angeles,2016,toyota,prius,17595,38150,automatic
+ca,los angeles,2017,lexus,rx 350,31495,27241,automatic
+ca,los angeles,2017,ford,fusion,14000,19630,automatic
+ca,los angeles,2005,toyota,4runner,8400,179000,automatic
+ca,los angeles,2016,bmw,3 series,16591,60117,automatic
+ca,los angeles,2013,toyota,prius,6000,222,automatic
+ca,los angeles,2016,toyota,rav4,20695,11339,automatic
+ca,los angeles,2016,lexus,rx 350,28592,29107,automatic
+ca,los angeles,2015,kia,optima hybrid,1000,,automatic
+ca,los angeles,2013,volkswagen,jetta se,1000,,automatic
+ca,los angeles,2012,ford,escape,1000,,automatic
+ca,los angeles,2015,chrysler,200,1000,,automatic
+ca,los angeles,2015,nissan,sentra sr,1000,,automatic
+ca,los angeles,2009,toyota,scion tc,1000,,automatic
+ca,los angeles,2015,dodge,dart,1000,,automatic
+ca,los angeles,2003,chevrolet,silverado 2500hd,1000,146384,automatic
+ca,los angeles,2012,dodge,challenger sxt,1000,,automatic
+ca,los angeles,2015,toyota,corolla,1000,,automatic
+ca,los angeles,2006,chevrolet,silverado 1500,1000,,automatic
+ca,los angeles,2011,honda,civic lx,1000,,automatic
+ca,los angeles,2014,ford,fusion,1000,,automatic
+ca,los angeles,2015,mini,hardtop 4 door,11987,55602,automatic
+ca,los angeles,2017,bmw,3 series,21985,25109,automatic
+ca,los angeles,2016,hyundai,veloster,9730,78662,automatic
+ca,los angeles,2014,bmw,740i,18499,88212,automatic
+ca,los angeles,2005,toyota,sienna,0,118716,automatic
+ca,los angeles,2015,acura,tlx,16999,51419,automatic
+ca,los angeles,2016,volkswagen,tiguan,13489,76259,automatic
+ca,los angeles,2012,rover,,19995,99443,automatic
+ca,los angeles,2019,nissan,,0,38346,other
+ca,los angeles,2019,nissan,,0,41583,other
+ca,los angeles,2012,audi,s5,0,80401,automatic
+ca,los angeles,2015,nissan,rogue sport,7900,68497,automatic
+ca,los angeles,2019,nissan,,0,37977,other
+ca,los angeles,2018,nissan,,0,37970,other
+ca,los angeles,2009,jeep,wrangler,17998,82663,automatic
+ca,los angeles,2017,ford,fusion,0,56521,automatic
+ca,los angeles,2013,infiniti,qx56,0,120256,automatic
+ca,los angeles,2017,kia,niro,15886,34095,automatic
+ca,los angeles,2017,nissan,,0,42733,other
+ca,los angeles,2018,nissan,,0,45772,other
+ca,los angeles,2011,ford,,0,130047,automatic
+ca,los angeles,2000,,Luxus GS 300,2800,281496,automatic
+ca,los angeles,2015,dodge,charger,14995,92914,automatic
+ca,los angeles,2015,mazda,,0,71970,automatic
+ca,los angeles,2019,nissan,,0,45709,other
+ca,los angeles,2019,nissan,,0,10974,other
+ca,los angeles,2013,infiniti,jx,0,,other
+ca,los angeles,2018,ford,fusion,0,47075,automatic
+ca,los angeles,2007,mitsubishi,outlander,3500,212000,automatic
+ca,los angeles,2017,kia,,0,40178,automatic
+ca,los angeles,2014,bmw,320i,13995,65300,automatic
+ca,los angeles,2018,nissan,,0,49267,other
+ca,los angeles,2016,lincoln,navigator l,21995,122508,automatic
+ca,los angeles,2018,subaru,crosstrek,24995,11409,automatic
+ca,los angeles,2016,ford,transit connect cargo,0,,automatic
+ca,los angeles,2018,hyundai,sonata,0,63769,automatic
+ca,los angeles,2018,honda,,0,81447,other
+ca,los angeles,2018,nissan,,0,23680,other
+ca,los angeles,2010,mazda,mazda3,0,114826,automatic
+ca,los angeles,2013,dodge,challenger,0,,manual
+ca,los angeles,2018,ford,,0,51552,automatic
+ca,los angeles,2019,ram,laramie x crew cab ' box,0,32340,automatic
+ca,los angeles,2015,mini,countryman,0,33914,automatic
+ca,los angeles,2019,ram,laramie x crew cab ' box,0,32340,automatic
+ca,los angeles,2019,ford,transit van t- low rf gvwr,0,11583,automatic
+ca,los angeles,2013,hyundai,,0,61073,automatic
+ca,los angeles,2014,ford,,0,0,automatic
+ca,los angeles,2015,jeep,,0,57090,automatic
+ca,los angeles,2015,,scion,0,88099,automatic
+ca,los angeles,2018,nissan,,0,19552,automatic
+ca,los angeles,2014,bmw,750li / alpina b7,22900,79782,automatic
+ca,los angeles,2015,bmw,3 series,16495,51125,automatic
+ca,los angeles,2018,honda,civic,14495,48051,automatic
+ca,los angeles,2017,ford,explorer,24995,33347,automatic
+ca,los angeles,2017,ford,f-250,70000,,automatic
+ca,los angeles,2016,nissan,370z 370z roadster,22495,71154,automatic
+ca,los angeles,2013,jeep,compass,7998,115928,automatic
+ca,los angeles,2018,nissan,,0,28371,other
+ca,los angeles,2017,toyota,tacoma trd offroad,30995,49010,automatic
+ca,los angeles,2011,bmw,5 series,13991,67259,automatic
+ca,los angeles,2018,honda,civic,18987,19888,automatic
+ca,los angeles,2008,jeep,wrangler rubicon,16950,139000,automatic
+ca,los angeles,2011,audi,a8,12999,113974,automatic
+ca,los angeles,2015,hyundai,elantra,9999,69438,automatic
+ca,los angeles,2016,mazda,cx-5,13985,81268,automatic
+ca,los angeles,2016,,ISUZU NPR BOX TRUCK,37900,99420,automatic
+ca,los angeles,2016,dodge,charger,19487,58430,automatic
+ca,los angeles,2016,,ISUZU NPR BOX TRUCK,37900,99420,automatic
+ca,los angeles,2012,nissan,rogue,10500,40000,automatic
+ca,los angeles,2015,chevrolet,sonic,9745,22555,automatic
+ca,los angeles,2012,nissan,rogue,10500,40000,automatic
+ca,los angeles,2015,chevrolet,sonic,9745,22555,automatic
+ca,los angeles,2016,audi,a3,15595,64551,automatic
+ca,los angeles,2016,jeep,renegade,15459,28379,automatic
+ca,los angeles,2017,acura,mdx,29395,37727,automatic
+ca,los angeles,2017,kia,niro,17480,24244,automatic
+ca,los angeles,2020,volvo,v60,623,2537,automatic
+ca,los angeles,2016,chevrolet,silverado 1500 4x4 ba,34995,85187,automatic
+ca,los angeles,2012,toyota,prius,7598,145059,automatic
+ca,los angeles,2014,infiniti,q50,17595,77112,automatic
+ca,los angeles,2003,mercedes-benz,sl-class,14985,58430,automatic
+ca,los angeles,2009,chevrolet,cobalt,3200,100826,automatic
+ca,los angeles,2015,bmw,3 series 328i,10999,99881,manual
+ca,los angeles,2017,toyota,prius prime,18898,34059,automatic
+ca,los angeles,2016,dodge,journey,11987,82639,automatic
+ca,los angeles,2007,mercedes-benz,gl450,10490,84772,automatic
+ca,los angeles,2016,,ISUZU NPR BOX TRUCK,37900,99420,automatic
+ca,los angeles,2014,bmw,x5 sdrive35i,21999,69912,automatic
+ca,los angeles,2019,mitsubishi,outlander sport sp,13999,31663,automatic
+ca,los angeles,2016,buick,verano,8995,116580,automatic
+ca,los angeles,2017,bmw,m240i,34990,24459,manual
+ca,los angeles,2016,,ISUZU NPR BOX TRUCK,37900,99420,automatic
+ca,los angeles,2014,honda,accord,12499,102360,automatic
+ca,los angeles,2013,mercedes-benz,s 550,26990,50879,automatic
+ca,los angeles,2016,lexus,rx 450h,27990,60091,automatic
+ca,los angeles,2015,toyota,highlander,18699,71058,automatic
+ca,los angeles,2014,fiat,500c,10990,42331,manual
+ca,los angeles,2013,tesla,model s,27990,71636,automatic
+ca,los angeles,2016,dodge,dart,11749,7463,automatic
+ca,los angeles,2016,ford,mustang,28490,18897,automatic
+ca,los angeles,2014,chevrolet,suburban,24490,68319,automatic
+ca,los angeles,2013,audi,allroad,16990,66694,automatic
+ca,los angeles,2005,pontiac,gto,20990,35578,automatic
+ca,los angeles,2013,ford,escape,8988,105209,automatic
+ca,los angeles,2015,lexus,nx 200t,23490,47277,automatic
+ca,los angeles,2013,,Scion FR-S,16990,37500,manual
+ca,los angeles,2005,audi,a4,2000,150000,automatic
+ca,los angeles,2017,dodge,charger,38990,45834,automatic
+ca,los angeles,2012,bmw,x5 xdrive35d,14990,81838,automatic
+ca,los angeles,2013,audi,a4,13490,58697,automatic
+ca,los angeles,2015,jeep,wrangler,26490,24557,automatic
+ca,los angeles,2018,bmw,x5 sdrive35i,36995,23500,automatic
+ca,los angeles,2014,honda,odyssey,16990,56776,automatic
+ca,los angeles,2004,lexus,gx 470,13490,127759,automatic
+ca,los angeles,2018,jeep,wrangler jk unlimited spor,39995,25509,automatic
+ca,los angeles,2010,jeep,wrangler unlimited,21990,91885,automatic
+ca,los angeles,2016,dodge,charger,23999,46312,automatic
+ca,los angeles,2009,subaru,outback 2.5i special edit,6995,126670,automatic
+ca,los angeles,2017,jeep,wrangler unlimited,37988,52726,automatic
+ca,los angeles,2012,toyota,prius v,14490,31321,automatic
+ca,los angeles,2004,chevrolet,tahoe,7400,135000,automatic
+ca,los angeles,2016,dodge,grand caravan,15900,103745,automatic
+ca,los angeles,2009,ford,,5100,,automatic
+ca,los angeles,2014,acura,mdx,19998,73207,automatic
+ca,los angeles,2017,chrysler,pacifica touring wheel,29900,32933,automatic
+ca,los angeles,2015,toyota,highlander,23495,60329,automatic
+ca,los angeles,2017,gmc,acadia,21980,39002,automatic
+ca,los angeles,2009,honda,accord lx sedan,5700,151700,automatic
+ca,los angeles,2005,chevrolet,avalanche ls,7998,147499,automatic
+ca,los angeles,2015,hyundai,elantra,8495,92500,automatic
+ca,los angeles,2015,honda,odyssey,17380,96677,automatic
+ca,los angeles,2018,toyota,camry,20426,29246,automatic
+ca,los angeles,2015,honda,cr-v,16845,35866,automatic
+ca,los angeles,1969,chevrolet,corvette stingray,34900,,automatic
+ca,los angeles,2017,ford,fusion,13788,27923,automatic
+ca,los angeles,2014,bmw,5 series 535i,17500,53000,automatic
+ca,los angeles,2016,lexus,is 200t,24700,52382,automatic
+ca,los angeles,2016,chevrolet,impala limited,9580,58005,automatic
+ca,los angeles,2014,ford,focus st,11000,70000,manual
+ca,los angeles,2009,toyota,corolla matrix,7600,53568,automatic
+ca,los angeles,2004,chrysler,town and country,10937,,automatic
+ca,los angeles,2000,honda,cr-v ex,3200,,automatic
+ca,los angeles,2007,ford,ranger xlt,8650,74067,automatic
+ca,los angeles,2018,dodge,challenger sxt,30995,37,automatic
+ca,los angeles,2017,ram,1500,0,,automatic
+ca,los angeles,2016,chevrolet,malibu,12780,53339,automatic
+ca,los angeles,2018,honda,odyssey,28995,20045,automatic
+ca,los angeles,2018,mercedes-benz,cla,25495,14294,automatic
+ca,los angeles,2013,,international terrastar,39900,108261,automatic
+ca,los angeles,2016,ford,escape,12388,77408,automatic
+ca,los angeles,2013,tesla,s 85,39500,,automatic
+ca,los angeles,2014,lexus,is 250,17408,87802,automatic
+ca,los angeles,2011,toyota,prius,5950,150000,automatic
+ca,los angeles,2013,,international terrastar,39900,108261,automatic
+ca,los angeles,2013,,international terrastar,39900,108261,automatic
+ca,los angeles,2017,ram,promaster 1500 cargo top 48k,15850,48000,automatic
+ca,los angeles,2019,ram,1500 classic crew cab,28990,12705,automatic
+ca,los angeles,2016,bmw,x5,23808,79633,automatic
+ca,los angeles,2018,audi,a4,25900,27859,automatic
+ca,los angeles,2013,,international terrastar,39900,108261,automatic
+ca,los angeles,2017,mini,clubman cooper s all4,21590,45159,automatic
+ca,los angeles,2010,toyota,corolla,0,140307,automatic
+ca,los angeles,2019,lexus,ux 250h luxury sport,32990,14359,automatic
+ca,los angeles,2014,ford,fusion,8388,97668,automatic
+ca,los angeles,2018,honda,accord,22795,34401,automatic
+ca,los angeles,2017,ford,f150 super cab xl pickup 4d,31590,23389,automatic
+ca,los angeles,2014,ford,edge,9588,95403,automatic
+ca,los angeles,2016,ford,c-max hybrid,12689,58714,automatic
+ca,los angeles,2017,hyundai,santa fe,0,17098,automatic
+ca,los angeles,2019,ford,f 150,0,14756,automatic
+ca,los angeles,2014,ford,explorer,0,104082,automatic
+ca,los angeles,2016,infiniti,qx50,0,84550,automatic
+ca,los angeles,2020,chevrolet,malibu ls,24995,333,automatic
+ca,los angeles,2018,chevrolet,silverado 1500,0,,automatic
+ca,los angeles,2017,bmw,3 series,21495,17601,automatic
+ca,los angeles,2017,bmw,i3,18388,25141,automatic
+ca,los angeles,2019,chevrolet,traverse lt,30995,22734,automatic
+ca,los angeles,2009,toyota,yaris,3850,118020,manual
+ca,los angeles,2010,kia,soul,0,183845,automatic
+ca,los angeles,2012,jaguar,xk coupe 2d,24590,87032,other
+ca,los angeles,2018,chrysler,pacifica hybrid limited fwd,0,31579,automatic
+ca,los angeles,2018,chrysler,pacifica hybrid limited fwd,0,31579,automatic
+ca,los angeles,2015,chevrolet,volt dr hb,0,71834,automatic
+ca,los angeles,2015,bmw,4 series 435i xdrive,34590,23876,other
+ca,los angeles,2014,nissan,370z,15900,20000,automatic
+ca,los angeles,2009,lexus,is 250 sport sedan 4d,16590,49224,other
+ca,los angeles,2013,infiniti,fx fx37 sport utility,18990,96700,automatic
+ca,los angeles,2018,mercedes-benz,c-class,24995,45855,automatic
+ca,los angeles,2013,mercedes-benz,sl-class sl 550,39990,54210,automatic
+ca,los angeles,2006,ford,f-150 xlt,10900,128292,automatic
+ca,los angeles,2013,mercedes-benz,sl-class sl 550,39990,54210,automatic
+ca,los angeles,2006,ford,f-150 xlt,10900,128292,automatic
+ca,los angeles,2006,,Scion xA,2950,165000,manual
+ca,los angeles,2003,toyota,tundra,5400,149000,automatic
+ca,los angeles,2017,ram,1500 low top van,16850,48000,automatic
+ca,los angeles,2011,rover,lr2 sport utility 4d,14990,64671,automatic
+ca,los angeles,2014,jeep,grand cherokee limited,22990,20217,other
+ca,los angeles,2003,toyota,tundra,5400,149000,automatic
+ca,los angeles,2018,lexus,es 350,26995,29314,automatic
+ca,los angeles,2016,mercedes-benz,cla 250,20000,53000,automatic
+ca,los angeles,2020,chevrolet,malibu ls,22995,5570,automatic
+ca,los angeles,1999,chevrolet,silverado 2500hd,3800,,automatic
+ca,los angeles,2015,toyota,sienna wheelchair handic,29900,35328,automatic
+ca,los angeles,2016,lexus,gx 460 sport utility 4d,36990,34160,automatic
+ca,los angeles,2018,mercedes-benz,c-class,27995,21555,automatic
+ca,los angeles,2014,toyota,sienna wheelchair handic,21900,69083,automatic
+ca,los angeles,2008,mercedes-benz,c-class c300 sport,8500,160500,automatic
+ca,los angeles,2019,nissan,nv wheelchair handicap m,22900,29603,automatic
+ca,los angeles,2000,chevrolet,silverado 2500hd,4300,,automatic
+ca,los angeles,2010,mercedes-benz,"sprinter cab chassis 3500, thermo king reefer box",18500,137988,automatic
+ca,los angeles,2016,hyundai,elantra,11781,41613,automatic
+ca,los angeles,1967,ford,f250,23000,42000,manual
+ca,los angeles,2009,ford,mustang premium,9999,100897,manual
+ca,los angeles,2009,mercedes-benz,clk-class clk 350,16590,63501,automatic
+ca,los angeles,1959,cadillac,coupe deville,52500,,automatic
+ca,los angeles,2011,subaru,impreza outback sport,14990,42000,other
+ca,los angeles,2014,audi,q5,22900,69689,automatic
+ca,los angeles,2015,audi,s3 premium plus sedan 4d,26990,24636,automatic
+ca,los angeles,2008,bmw,3 series 328xi,8500,111514,manual
+ca,los angeles,2008,chrysler,town and country,6975,121192,automatic
+ca,los angeles,2015,honda,civic,12588,59167,automatic
+ca,los angeles,2015,hyundai,sonata hybrid,10795,99274,automatic
+ca,los angeles,2017,toyota,highlander,24645,42159,automatic
+ca,los angeles,2010,bmw,135i,17388,46188,automatic
+ca,los angeles,2014,chevrolet,suburban,19688,107029,automatic
+ca,los angeles,2017,toyota,tacoma,32488,40414,automatic
+ca,los angeles,2013,toyota,prius plug-in hybrid,14990,50311,automatic
+ca,los angeles,2004,chevrolet,silverado 2500hd,5000,,automatic
+ca,los angeles,1995,gmc,sierra 3500hd,7500,347000,automatic
+ca,los angeles,2018,dodge,promaster city cargo van,17900,53000,automatic
+ca,los angeles,2016,ford,transit connect cargo,0,73301,automatic
+ca,los angeles,2010,honda,accord ex-l coupe,9997,,automatic
+ca,los angeles,2013,hyundai,equus signature,15995,55000,automatic
+ca,los angeles,2012,tesla,model s signature,37590,21216,other
+ca,los angeles,2008,honda,fit,8997,35000,automatic
+ca,los angeles,2010,acura,tsx sedan 4d,12990,90298,other
+ca,los angeles,2011,infiniti,fx,0,,manual
+ca,los angeles,2012,toyota,corolla t5 premier,9625,95606,automatic
+ca,los angeles,2017,subaru,wrx sedan 4d,24990,25182,other
+ca,los angeles,2020,volvo,s60,549,2901,automatic
+ca,los angeles,2012,chevrolet,express passenger rwd,17995,55374,automatic
+ca,los angeles,2013,bmw,3 series 328i coupe 2d,17990,35571,automatic
+ca,los angeles,2017,toyota,rav4 xle,17499,81800,automatic
+ca,los angeles,2014,chevrolet,impala limited ltz,13590,63053,other
+ca,los angeles,2019,chevrolet,impala premier,22949,26614,automatic
+ca,los angeles,2008,ford,mustang deluxe,8995,100270,manual
+ca,los angeles,2013,honda,pilot ex-l sport utility,18590,76665,other
+ca,los angeles,2011,ford,edge sel sport utility 4d,13990,38316,other
+ca,los angeles,2016,chevrolet,express 2500 cargo van,0,,automatic
+ca,los angeles,2017,cadillac,xt5 sport utility 4d,22590,43442,other
+ca,los angeles,2015,kia,optima lx sedan 4d,13990,25800,automatic
+ca,los angeles,2014,mercedes-benz,glk-class glk 350,22990,56905,automatic
+ca,los angeles,2012,acura,tl sh-awd sedan 4d,15990,97654,automatic
+ca,los angeles,2012,ford,edge sel,9999,90557,automatic
+ca,los angeles,2012,chevrolet,sonic lt sedan 4d,9990,69046,other
+ca,los angeles,2015,toyota,camry,13431,76221,automatic
+ca,los angeles,2011,mercedes-benz,e-class e 350,15990,96264,automatic
+ca,los angeles,2018,audi,sq5 prestige sport utility,49990,9130,automatic
+ca,los angeles,2013,toyota,land cruiser sport,47990,66070,automatic
+ca,los angeles,2013,subaru,xv crosstrek limited,17590,65300,automatic
+ca,los angeles,2014,ford,focus se hatchback 4d,10590,51275,automatic
+ca,los angeles,2018,gmc,canyon extended cab sle,30590,17440,other
+ca,los angeles,2013,audi,s5 prestige coupe 2d,23590,66077,automatic
+ca,los angeles,2014,ford,c-max energi,10500,46763,automatic
+ca,los angeles,2013,acura,rdx sport utility 4d,17990,71586,automatic
+ca,los angeles,2014,mazda,mazda5 grand touring,12990,57336,automatic
+ca,los angeles,2020,cadillac,ct5 premium luxury,44990,926,automatic
+ca,los angeles,2018,toyota,camry,18385,40840,automatic
+ca,los angeles,2014,audi,q7 3.0t s line prestige,23990,81284,automatic
+ca,los angeles,2020,kia,telluride ex sport utility,43990,9749,automatic
+ca,los angeles,2020,jeep,wrangler unlimited sport s,39590,21489,automatic
+ca,los angeles,2013,ram,1500 quad cab express pickup,25990,31390,other
+ca,los angeles,1982,,Grumman Olson,6995,97600,manual
+ca,los angeles,2010,bmw,7 series 750li xdrive sedan,16990,82412,automatic
+ca,los angeles,2012,chevrolet,equinox lt sport,12990,35015,other
+ca,los angeles,2015,chevrolet,tahoe ltz sport,36990,60426,automatic
+ca,los angeles,2017,bmw,2 series 230i coupe 2d,27990,11892,other
+ca,los angeles,2014,mercedes-benz,c 250 sport sedan,15400,73734,automatic
+ca,los angeles,2006,jeep,wrangler sport,15500,106000,automatic
+ca,los angeles,2018,honda,accord,24985,12790,automatic
+ca,los angeles,2012,lincoln,navigator sport utility,24590,57614,other
+ca,los angeles,2015,volkswagen,golf tdi s hatchback,15590,41015,automatic
+ca,los angeles,2015,toyota,prius plug-in advanced,11400,119995,automatic
+ca,los angeles,2016,chevrolet,silverado 1500 regular,28990,63277,automatic
+ca,los angeles,2019,chevrolet,silverado 1500 4x4 20,45995,4062,automatic
+ca,los angeles,2017,lexus,nx 200t,25550,33592,automatic
+ca,los angeles,2018,rover,range evoque hse,40990,16545,automatic
+ca,los angeles,2017,kia,niro,16300,28758,automatic
+ca,los angeles,2007,dodge,caliber,2500,,automatic
+ca,los angeles,2011,bmw,z4 sdrive30i roadster 2d,21990,49846,other
+ca,los angeles,2015,hyundai,genesis coupe 3.8,21990,34128,other
+ca,los angeles,2016,audi,q3 prestige sport utility,24990,31134,automatic
+ca,los angeles,2020,hyundai,tucson se,21995,3219,automatic
+ca,los angeles,2001,bmw,x5 3.0i,3200,190000,automatic
+ca,los angeles,2013,bmw,3 series,24491,53107,automatic
+ca,los angeles,2017,lexus,is 200t,26000,52377,automatic
+ca,los angeles,1995,toyota,tacoma,8750,220200,manual
+ca,los angeles,2014,cadillac,cts cts-v coupe 2d,41990,40021,other
+ca,los angeles,2013,cadillac,cts,19795,37328,automatic
+ca,los angeles,1976,volkswagen,bus,14000,28000,manual
+ca,los angeles,2017,honda,accord,15992,100450,automatic
+ca,los angeles,2013,,smart fortwo Pure Hatchback,9590,38001,automatic
+ca,los angeles,2019,chevrolet,cruze,13450,,automatic
+ca,los angeles,2016,nissan,rogue,12995,69375,automatic
+ca,los angeles,2016,nissan,altima 2.5 sv,9999,69390,automatic
+ca,los angeles,2014,mercedes-benz,gl-class,23998,83981,automatic
+ca,los angeles,2016,bmw,i3 hatchback 4d,16990,35533,other
+ca,los angeles,2014,bmw,x6 xdrive50i sport utility,29990,44178,automatic
+ca,los angeles,2019,mini,hardtop 2 door cooper s,24990,5374,other
+ca,los angeles,2014,mercedes-benz,cla-class cla 250,19990,68872,automatic
