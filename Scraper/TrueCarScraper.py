@@ -1,18 +1,20 @@
+import time
+
 import requests
 import numpy as np
 import pandas as pd
 import lxml.html as lxl
-
-MAX_PAGE = 100
+import multiprocessing
+from multiprocessing import Pool
 
 ## Get all the urls for all the listed used vehicles on truecar.com
-def urls_scraping(base_url='https://www.truecar.com/used-cars-for-sale/listings/location-los-angeles-ca/?searchRadius=10'):
+def urls_scraping(number_of_page = 100):
     urls = []
     pages = []
     base_urls = ['https://www.truecar.com/used-cars-for-sale/listings/location-los-angeles-ca/?searchRadius=10',
                  'https://www.truecar.com/used-cars-for-sale/listings/location-new-york-ny/?searchRadius=10']
     for base_url in base_urls:
-        for i in range(1, MAX_PAGE + 1):
+        for i in range(1, number_of_page + 1):
             pages.append(base_url + '&page=' + str(i))
         for page in pages:
             try:
@@ -29,7 +31,6 @@ def urls_scraping(base_url='https://www.truecar.com/used-cars-for-sale/listings/
 
 # function to scrape one single url of a single used car listing.
 def page_scraping(url):
-    # print(url)
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -55,7 +56,10 @@ def page_scraping(url):
     mileage = root.xpath('//span[@data-qa="used-vdp-header-miles"]/text()[1]')[0]
 
     # vehicle price information
-    price = root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')[0]
+    if len(root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')) == 0:
+        price = 0
+    else:
+        price = root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')[0]
 
     # vehicle characteristics
     exterior_color = root.xpath('//div[@data-qa="vehicle-overview-item-Exterior Color"]/div[2]/ul/li/text()')[0]
@@ -78,35 +82,34 @@ def page_scraping(url):
         cpo = True
     else:
         cpo = False
-
     return pd.Series({'year': year, 'make': make, 'model': model, 'sub_model': sub_model, 'city': city, 'state': state,
                       'mileage': mileage, 'price': price, 'exterior_color': exterior_color,
                       'interior_color': interior_color, 'mpg_city': mpg_city, 'mpg_hwy': mpg_hwy, 'engine': engine,
                       'transmission': transmission, 'drive_type': drive_type, 'fuel_type': fuel_type,
                       'popular_feature': popular_feature, 'vehicle_history': vehicle_history, 'cpo': cpo})
 
-# Use multi-processing to speed up the web-scraping
-# fully make use of 8 cores of my macbook pro.
-from multiprocessing import Pool
-num_partitions = 32
-num_cores = 8
-def parallelize(urls, func):
-    url_set = np.array_split(urls, num_partitions)
-    print("#")
-    pool = Pool(num_cores)
-    print("@")
-    df = pd.concat(pool.map(func, url_set))
-    print("&")
-    pool.close()
-    pool.join()
-    return df
-# main function to scrape all the urls and merge all the data into one dataframe
 def scraping(urls):
     scraping_data = [page_scraping(url) for url in urls]
     return pd.concat(scraping_data, axis=1).T
 
-if __name__ == '__main__':
-    urls=urls_scraping() # extract all vehicle urls from allowed 333 pages.
+def parallelize(urls, func):
+    url_set = np.array_split(urls, 32)
+    pool = Pool(multiprocessing.cpu_count())
+    df = pd.concat(pool.map(func, url_set))
+    pool.close()
+    pool.join()
+    return df
+
+# main function to scrape all the urls and merge all the data into one dataframe
+def scrapeTrueCar():
+    urls = urls_scraping()  # extract all vehicle urls from allowed 333 pages.
     print(len(urls))
-    cars = scraping(urls)
-    cars.to_csv('../Data/TrueCar/usedCarListing-11.18.csv', encoding='utf-8')
+    t1 = time.time()
+    df = parallelize(urls, scraping)
+    # cars = scraping(urls)
+    print('用时：', time.time() - t1)
+    # print(df)
+    df.to_csv('../Data/TrueCar/Raw/usedCarListing-11.20.csv', encoding='utf-8')
+
+if __name__ == '__main__':
+    scrapeTrueCar()
