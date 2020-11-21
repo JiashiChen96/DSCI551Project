@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<div class="text-center">
+		<div class="col-md-4"></div>
+		<h2 class="form-login-heading text-center col-md-12">Search Vehicles (all fields are optional)</h2>
+	  	<div class="col-md-12 text-center">
+			<div class="col-md-6 text-center">
+				<p> City<input type="text" id="city" name="city" size="20" maxlength="20">
+					  State <input type="text" id="State" name="State" size="20" maxlength="20">
+				    manufacturer <input type="text" id="manufacturer" name="manufacturer" size="12" maxlength="12">
+				    model <input type="text" id="model" name="model" size="12" maxlength="12"></p>
+			</div>
+			<div>
+				<p>Cylinders <input type="text" id="cylinders" name="cylinders" size="12" maxlength="12">
+				Fuel <input type="text" id="fuel" name="fuel" size="12" maxlength="12">
+			  Transmission <input type="text" id="transmission" name="transmission" size="12" maxlength="12">
+				Minimum Price <input type="text" id="min_price" name="min_price" size="12" maxlength="12"></p>
+			</div>
+
+			<div>
+					<p>Max Price <input type="text" id="max_price" name="max_price" size="12" maxlength="12">
+							Minimum Year <input type="text" id="min_year" name="min_year" size="12" maxlength="12">
+							Max Year <input type="text" id="max_year" name="max_year" size="12" maxlength="12">
+							Max mileage <input type="text" id="max_mileage" name="max_mileage" size="12" maxlength="12"></p>
+			</div>
+			<div>
+				Sort By <select id = "sort_key">
+					<option>----please select----</option>
+						<option value="mileage">mileage</option>
+							<option value="year">year</option>
+							<option value="price">price</option>
+						</select>
+
+			</div>
+			<div class="col-md-12 text-center">
+				<button onclick = "get()">submit</button>
+
+				<a href="base.html">
+					<button>Home</button>
+				</a>
+
+			</div>
+
+
+	</form>
+	<br>
+</div>
+
+<script>
+function get(){
+	var city_ = document.getElementById("city");
+	var state_ = document.getElementById("state");
+	var manc_ = document.getElementById("manufacturer");
+	var model_ = document.getElementById("model");
+	var cylinder_ = document.getElementById("cylinders");
+	var fuel_ = document.getElementById("fuel");
+	var transmission__ = document.getElementById("transmission");
+	var min_price__ = document.getElementById("min_price");
+	var max_price__ = document.getElementById("max_price");
+	var min_year__ = document.getElementById("min_year");
+	var max_mileage__ = document.getElementById("max_mileage");
+	//request post json
+	
+}
+</script>
