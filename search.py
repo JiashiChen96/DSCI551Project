@@ -69,7 +69,18 @@ def sql_clause(request):
         elif k == "max mileage":
             where_clause = where_clause + "odometer <= " + f"{v} AND "
 
-    where_clause = where_clause[:-5]
+        elif k == "sort by":
+            if v == "mileage":
+                where_clause = where_clause[:-5]
+                where_clause = where_clause + " order by odometer asc"
+            elif v == "year": #year is reserved word in sql
+                where_clause = where_clause[:-5]
+                where_clause = where_clause + " order by years asc"
+            else:
+                where_clause = where_clause[:-5]
+                print(where_clause)
+                where_clause = where_clause + " order by price asc"
+
     return where_clause
 
 
@@ -78,6 +89,9 @@ def query(request):
     clause = sql_clause(request)
     if clause == "":
         pass
+    elif "order by" in clause and len(clause) <= 22:
+        q = "select * from craigslistscraper" + clause
+        cursor.execute(q)
     else:
         q = "select * from craigslistscraper where " + clause
         cursor.execute(q)
@@ -93,7 +107,7 @@ def mongo_query(request):
             if type(v) is int:
                 cleaned_request[k] = v
             else:
-                cleaned_request[k.lower] = v.title()
+                cleaned_request[k.lower()] = v.title()
             #如果将data里面的值转换成小写后，下面将替换上面
             # if type(v) is int:
             #     cleaned_request[k.lower()] = v
@@ -140,6 +154,9 @@ def mongo_query(request):
 
         elif k == "max mileage":
             myquery["max_mileage"] = {"$lte": v}
+
+        elif k == "sort by":
+            myquery["$orderby"] = {v: 1}
 
     if "min_price" in myquery.keys():
         if "max_price" in myquery.keys():
@@ -218,22 +235,37 @@ def mongo_query(request):
 
 def connectMongoDb(request):
     request = mongo_query(request)
+
+    k, v = list(request["$orderby"].items())[0]
+    k = k.lower()
+
+    del request["$orderby"]
+
     myclient = pymongo.MongoClient(
         "mongodb+srv://Jason:admin123@cluster0.3ne24.mongodb.net/<dbname>?retryWrites=true&w=majority")
     mydb = myclient.DSCI551Project
     myCollect = mydb.TrueCar
 
-    myresult = []
-    for x in myCollect.find(request):
-        myresult.append(x)
-    return myresult
+    d = []
+    if request != {}:
+        for x in myCollect.find(request):
+            d.append(x)
+        result = sorted(d, key = lambda i: i[k])
+        return result
+    else:
+        for x in myCollect.find():
+            d.append(x)
+        result = sorted(d, key=lambda i: i[k])
+        return result
 
 if __name__ == '__main__':
     # print(connectMongoDb())
+
+
     request = {"City": "", "State": "", "manufacturer": "Benz",
                "model": "E", "Cylinders": "", "Fuel": "", "Transmission": "Auto", "Minimum Price": 30000,
                "Max Price": 33000,
-               "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000}
+               "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000, "Sort By": "mileage"}
 
     print(connectMongoDb(request))
 
