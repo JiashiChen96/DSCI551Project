@@ -1,0 +1,14 @@
+.box-shadow-ds {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.item-ds {
+    padding: 0px;
+    font-size: 35px;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+h1 {
+    color: red
+}
