@@ -4,7 +4,7 @@ import pymongo
 HOST = '127.0.0.1'
 USER = 'root'
 PASSWORD = 'root'
-DB = 'DSCI551Project'
+DB = 'used_cars'
 
 def getConnection(host, user, pwd, db):
     connection = mysql.connector.connect(
@@ -19,27 +19,222 @@ def closeConnection(connection, cursor):
     cursor.close()
     connection.close()
 
-def query():
+
+def sql_clause(request):
+    cleaned_request = {}
+    for k, v in request.items():
+        if v != "":
+            if type(v) is int:
+                cleaned_request[k.lower()] = v
+            else:
+                cleaned_request[k.lower()] = v.lower()
+
+    where_clause = ""
+    for k, v in cleaned_request.items():
+        if k == "city":
+            where_clause = where_clause + "city = " + f"'{v}' AND "
+
+        elif k == "state":
+            where_clause = where_clause + "state = " + f"'{v}' AND "
+
+        elif k == "manufacturer":
+            where_clause = where_clause + "manufacturer " + f"LIKE '%{v}%' AND "
+
+        elif k == "model":
+            where_clause = where_clause + "model " + f"LIKE '%{v}%' AND "
+
+        elif k == "cylinders":
+            where_clause = where_clause + "cylinders " + f"LIKE '%{v}%' AND "
+
+        elif k == "fuel":
+            where_clause = where_clause + "fuel = " + f"'{v}' AND "
+
+        elif k == "transmission":
+            where_clause = where_clause + "transmission " + f"LIKE '%{v}%' AND "
+
+        elif k == "minimum price":
+            where_clause = where_clause + "price >= " + f"{v} AND "
+
+        elif k == "max price":
+            where_clause = where_clause + "price <= " + f"{v} AND "
+
+        elif k == "minimum year":
+            where_clause = where_clause + "years >= " + f"{v} AND "
+
+        elif k == "max year":
+            where_clause = where_clause + "years <= " + f"{v} AND "
+        elif k == "minimum mileage":
+            where_clause = where_clause + "odometer >= " + f"{v} AND "
+
+        elif k == "max mileage":
+            where_clause = where_clause + "odometer <= " + f"{v} AND "
+
+    where_clause = where_clause[:-5]
+    return where_clause
+
+
+def query(request):
     connection, cursor = getConnection(HOST, USER, PASSWORD, DB)
-    cursor.execute("SELECT * FROM vehicles")
+    clause = sql_clause(request)
+    if clause == "":
+        pass
+    else:
+        q = "select * from craigslistscraper where " + clause
+        cursor.execute(q)
 
     myresult = cursor.fetchall()
-    # print(type(myresult))
-    # for x in myresult:
-    #     print(x)
+
     closeConnection(connection, cursor)
     return myresult
+def mongo_query(request):
+    cleaned_request = {}
+    for k, v in request.items():
+        if v != "":
+            if type(v) is int:
+                cleaned_request[k] = v
+            else:
+                cleaned_request[k.lower] = v.title()
+            #如果将data里面的值转换成小写后，下面将替换上面
+            # if type(v) is int:
+            #     cleaned_request[k.lower()] = v
+            # else:
+            #     cleaned_request[k.lower()] = v.lower()
 
-def connectMongoDb():
+    myquery = {}
+    for k, v in cleaned_request.items():
+        if k == "city":
+            myquery[k] = v
+
+        elif k == "state":
+            myquery[k] = v
+
+        elif k == "manufacturer":
+            myquery[k] = {"$regex": v}
+
+        elif k == "model":
+            myquery[k] = {"$regex": v}
+
+        elif k == "cylinders":
+            myquery[k] = {"$regex": v}
+
+        elif k == "fuel":
+            myquery[k] = v
+
+        elif k == "transmission":
+            myquery[k] = {"$regex": v}
+
+        elif k == "minimum price":
+            myquery["min_price"] = {"$gte": v}
+
+        elif k == "max price":
+            myquery["max_price"] = {"$lte": v}
+
+        elif k == "minimum year":
+            myquery["min_year"] = {"$gte": v}
+
+        elif k == "max year":
+            myquery["max_year"] = {"$lte": v}
+
+        elif k == "minimum mileage":
+            myquery["min_mileage"] = {"$gte": v}
+
+        elif k == "max mileage":
+            myquery["max_mileage"] = {"$lte": v}
+
+    if "min_price" in myquery.keys():
+        if "max_price" in myquery.keys():
+            min_price = myquery["min_price"]["$gte"]
+            max_price = myquery["max_price"]["$lte"]
+            myquery["price"] = {"$gte": min_price, "$lte": max_price}
+            del myquery["min_price"]
+            del myquery["max_price"]
+        else:
+            min_price = myquery["min_price"]["$gte"]
+            myquery["price"] = {"$gte": min_price}
+            del myquery["min_price"]
+
+    if "max_price" in myquery.keys():
+        if "min_price" in myquery.keys():
+            min_price = myquery["min_price"]["$gte"]
+            max_price = myquery["max_price"]["$lte"]
+            myquery["price"] = {"$gte": min_price, "$lte": max_price}
+            del myquery["min_price"]
+            del myquery["max_price"]
+        else:
+            max_price = myquery["min_price"]["$lte"]
+            myquery["price"] = {"$gte": max_price}
+            del myquery["max_price"]
+
+    if "min_year" in myquery.keys():
+        if "max_year" in myquery.keys():
+            min_year = myquery["min_year"]["$gte"]
+            max_year = myquery["max_year"]["$lte"]
+            myquery["year"] = {"$gte": min_year, "$lte": max_year}
+            del myquery["min_year"]
+            del myquery["max_year"]
+        else:
+            min_year = myquery["min_year"]["$gte"]
+            myquery["year"] = {"$gte": min_year}
+            del myquery["min_year"]
+
+    if "max_year" in myquery.keys():
+        if "min_year" in myquery.keys():
+            min_year = myquery["min_year"]["$gte"]
+            max_year = myquery["max_year"]["$lte"]
+            myquery["year"] = {"$gte": min_year, "$lte": max_year}
+            del myquery["min_year"]
+            del myquery["max_year"]
+        else:
+            max_year = myquery["max_year"]["$lte"]
+            myquery["year"] = {"$lte": max_year}
+            del myquery["max_year"]
+
+    if "min_mileage" in myquery.keys():
+        if "max_mileage" in myquery.keys():
+            min_mileage = myquery["min_mileage"]["$gte"]
+            max_mileage = myquery["max_mileage"]["$lte"]
+            myquery["mileage"] = {"$gte": min_mileage, "$lte": max_mileage}
+            del myquery["min_mileage"]
+            del myquery["max_mileage"]
+        else:
+            min_mileage = myquery["min_mileage"]["$gte"]
+            myquery["mileage"] = {"$gte": min_mileage}
+            del myquery["min_mileage"]
+
+    if "max_mileage" in myquery.keys():
+        if "min_mileage" in myquery.keys():
+            min_mileage = myquery["min_mileage"]["$gte"]
+            max_mileage = myquery["max_mileage"]["$lte"]
+            myquery["mileage"] = {"$gte": min_mileage, "$lte": max_mileage}
+            del myquery["min_mileage"]
+            del myquery["max_mileage"]
+        else:
+            max_mileage = myquery["max_mileage"]["$lte"]
+            myquery["mileage"] = {"$lte": max_mileage}
+            del myquery["max_mileage"]
+
+    return myquery
+
+
+def connectMongoDb(request):
+    request = mongo_query(request)
     myclient = pymongo.MongoClient(
         "mongodb+srv://Jason:admin123@cluster0.3ne24.mongodb.net/<dbname>?retryWrites=true&w=majority")
     mydb = myclient.DSCI551Project
     myCollect = mydb.TrueCar
 
     myresult = []
-    for x in myCollect.find():
+    for x in myCollect.find(request):
         myresult.append(x)
     return myresult
 
 if __name__ == '__main__':
-    print(connectMongoDb())
+    # print(connectMongoDb())
+    request = {"City": "", "State": "", "manufacturer": "Benz",
+               "model": "E", "Cylinders": "", "Fuel": "", "Transmission": "Auto", "Minimum Price": 30000,
+               "Max Price": 33000,
+               "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000}
+
+    print(connectMongoDb(request))
+
+    print(query(request))
