@@ -4,22 +4,22 @@
 
 
 {% block content %}
-<div class="text-center">Show compare</div>
 
-<div class="container">
+<div class="container-fluid" style="padding:10px">
     <div class="text-center">
         {{ pagination.links }}
     </div>
 
 
     <div class="row" >
-        <div class="col-lg-6"  style="background-color: lightblue">
+        <div class="col-lg-6">
+            <img class="img-logo" src="../static/img/Craigslist.png">
             <div class="row">
                 {% for entry in range(data|length) %}
-                    <div class="col-lg-6 list-group-item panel text-center" style="padding:0">
-                        <div class=" text-center size_hack">
+                    <div class="col-lg-offset-1 col-lg-5">
+                        <div class="text-center card">
                             <a target=_blank, href={{data[entry][1]}}>
-                                <img src="{{data[entry][19]}}" alt="Photo not available" style="width: 270px; height: 230px;">
+                                <img class="img-car" src="{{data[entry][19]}}" alt="Photo not available">
                                 <ul class="list-group">
                                   <li class="list-group-item">{{ data[entry][5] }}</li>
                                   <li class="list-group-item">{{ data[entry][6] }}</li>
@@ -35,12 +35,13 @@
         </div>
 
         <div class="col-lg-6">
-            <div class="row">
+            <img class="img-logo" src="../static/img/TrueCar logo.png">
+            <div class="row"  style="background-color: AliceBlue">
                 {% for entry in range(TrueCar|length) %}
-                    <div class="col-lg-6 list-group-item panel text-center">
-                        <div class="text-center size_hack">
+                    <div class="col-lg-offset-1 col-lg-5">
+                        <div class="text-center card">
                             <a target=_blank, href={{ TrueCar[entry]['url'] }}>
-                                <img src="{{ TrueCar[entry]['img'] }}" alt="Photo not available" style="width: 270px; height: 230px;">
+                                <img class="img-car" src="{{ TrueCar[entry]['img'] }}" alt="Photo not available">
                                 <ul class="list-group">
                                   <li class="list-group-item">{{ TrueCar[entry]['year'] }}</li>
                                   <li class="list-group-item">{{ TrueCar[entry]['manufacturer'] }}</li>
@@ -55,9 +56,7 @@
                 {% endfor %}
             </div>
         </div>
-
     </div>
-
 <div>
 
 {% endblock content %}

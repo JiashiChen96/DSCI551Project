@@ -16,26 +16,30 @@ def index():
 
 @app.route('/compare', methods=['get', 'post'])
 def search():
-    print("*****************************************")
-    print(request.get_json(force=True).get("city"))
-    return request.get_json(force=True),200
+    # print("*****************************************")
+    # print(request.get_json(force=True).get("city"))
+    # return request.get_json(force=True),200
+    # {manufacturer: "", year: "1234"}
+    # city = request.get_json(force=True).get("city")
 
     Craigslist = query()
     TrueCar = connectMongoDb()
-    limit = 10
-    
+
     page = int(request.args.get("page", 1))
+    print(page)
+    limit = 10
     start = (page - 1) * limit
-    end = page * limit if len(Craigslist) > page * limit else len(Craigslist)
-    pagination = Pagination(page, per_page=10,total=len(Craigslist), css_framework='bootstrap4')
+    end = page * limit if min(len(TrueCar), len(Craigslist)) > page * limit else min(len(TrueCar), len(Craigslist))
+    pagination = Pagination(page=page, per_page=limit, total=min(len(TrueCar), len(Craigslist)), css_framework='bootstrap3')
+    print(pagination.page)
     Craigslist = Craigslist[start: end]
     TrueCar = TrueCar[start: end]
 
-    # print(cars)
-    return render_template("compare.html", data = Craigslist, TrueCar=TrueCar, pagination=pagination)
+    return render_template("compare.html", page = page, data = Craigslist, TrueCar=TrueCar, pagination=pagination)
 
 @app.route('/filter.html', methods=['get'])
 def filter():
+
     return render_template("filter.html")
 
 @app.route('/index.html', methods=['get'])

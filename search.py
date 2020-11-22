@@ -42,4 +42,5 @@ def connectMongoDb():
     return myresult
 
 if __name__ == '__main__':
+    # print(query())
     print(connectMongoDb())

@@ -1,14 +1,28 @@
-.box-shadow-ds {
+h1 {
+    color: red;
+}
+
+.img-car {
+    width: 100%; /* You can set the dimensions to whatever you want */
+    height: 240px;
+    object-fit: cover;
+}
+
+.img-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+.img-container-block {
+    display: block;
+}
+
+.card {
+    margin-top: 1.25rem;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-.item-ds {
-    padding: 0px;
-    font-size: 35px;
-    font-weight: normal;
-    margin-top: 5px;
-}
 
-h1 {
-    color: red
-}
+
