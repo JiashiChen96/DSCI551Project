@@ -1,4 +1,5 @@
 import mysql.connector
+import pymongo
 
 HOST = '127.0.0.1'
 USER = 'root'
@@ -28,3 +29,17 @@ def query():
     #     print(x)
     closeConnection(connection, cursor)
     return myresult
+
+def connectMongoDb():
+    myclient = pymongo.MongoClient(
+        "mongodb+srv://Jason:admin123@cluster0.3ne24.mongodb.net/<dbname>?retryWrites=true&w=majority")
+    mydb = myclient.DSCI551Project
+    myCollect = mydb.TrueCar
+
+    myresult = []
+    for x in myCollect.find():
+        myresult.append(x)
+    return myresult
+
+if __name__ == '__main__':
+    print(connectMongoDb())

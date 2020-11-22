@@ -8,7 +8,7 @@ import multiprocessing
 from multiprocessing import Pool
 
 ## Get all the urls for all the listed used vehicles on truecar.com
-def urls_scraping(number_of_page = 100):
+def urls_scraping(number_of_page = 1):
     urls = []
     pages = []
     base_urls = ['https://www.truecar.com/used-cars-for-sale/listings/location-los-angeles-ca/?searchRadius=10',
@@ -77,6 +77,8 @@ def page_scraping(url):
     # vehicle history information, will extract four variables from here.
     vehicle_history = root.xpath('//li[@class="_h9wfdq"]/text()')
 
+    image = root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')[0][:-6] + "360.jpg"
+    print(image)
     # whether the car is a certified preowned car.
     if "used-vdp-header-cpo" in response.text:
         cpo = True
@@ -86,7 +88,7 @@ def page_scraping(url):
                       'mileage': mileage, 'price': price, 'exterior_color': exterior_color,
                       'interior_color': interior_color, 'mpg_city': mpg_city, 'mpg_hwy': mpg_hwy, 'engine': engine,
                       'transmission': transmission, 'drive_type': drive_type, 'fuel_type': fuel_type,
-                      'popular_feature': popular_feature, 'vehicle_history': vehicle_history, 'cpo': cpo})
+                      'popular_feature': popular_feature, 'vehicle_history': vehicle_history, 'cpo': cpo, 'url': url, "img": image})
 
 def scraping(urls):
     scraping_data = [page_scraping(url) for url in urls]
@@ -109,7 +111,7 @@ def scrapeTrueCar():
     # cars = scraping(urls)
     print('用时：', time.time() - t1)
     # print(df)
-    df.to_csv('../Data/TrueCar/Raw/usedCarListing-11.20.csv', encoding='utf-8')
+    df.to_csv('../Data/TrueCar/Raw/usedCarListing-11.21.csv', encoding='utf-8')
 
 if __name__ == '__main__':
     scrapeTrueCar()

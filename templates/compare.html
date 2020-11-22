@@ -4,21 +4,60 @@
 
 
 {% block content %}
-<h1> Test </h1>
+<div class="text-center">Show compare</div>
 
 <div class="container">
-    <div class="row">
-        {% for entry in range(data|length) %}
-            <div class="col-md-4 panel text-center">
-                <div class="col list-group-item text-center size_hack">
-                    <a target=_blank, href={{data[entry][1]}}>
-                        <img src="{{data[entry][19]}}" alt="Photo not available" style="max-width: 100%">
-                    </a>
-                </div>
-            </div>
-        {% endfor %}
+    <div class="text-center">
+        {{ pagination.links }}
     </div>
+
+
+    <div class="row" >
+        <div class="col-lg-6"  style="background-color: lightblue">
+            <div class="row">
+                {% for entry in range(data|length) %}
+                    <div class="col-lg-6 list-group-item panel text-center" style="padding:0">
+                        <div class=" text-center size_hack">
+                            <a target=_blank, href={{data[entry][1]}}>
+                                <img src="{{data[entry][19]}}" alt="Photo not available" style="width: 270px; height: 230px;">
+                                <ul class="list-group">
+                                  <li class="list-group-item">{{ data[entry][5] }}</li>
+                                  <li class="list-group-item">{{ data[entry][6] }}</li>
+                                  <li class="list-group-item">{{ data[entry][7] }}</li>
+                                  <li class="list-group-item">${{data[entry][4] }}</li>
+                                  <li class="list-group-item">Located in {{ data[entry][2] }}</li>
+                                </ul>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="row">
+                {% for entry in range(TrueCar|length) %}
+                    <div class="col-lg-6 list-group-item panel text-center">
+                        <div class="text-center size_hack">
+                            <a target=_blank, href={{ TrueCar[entry]['url'] }}>
+                                <img src="{{ TrueCar[entry]['img'] }}" alt="Photo not available" style="width: 270px; height: 230px;">
+                                <ul class="list-group">
+                                  <li class="list-group-item">{{ TrueCar[entry]['year'] }}</li>
+                                  <li class="list-group-item">{{ TrueCar[entry]['manufacturer'] }}</li>
+                                  <li class="list-group-item">{{ TrueCar[entry]['model'] }}</li>
+                                  <li class="list-group-item">${{ TrueCar[entry]['price'] }}</li>
+                                  <li class="list-group-item">Located in LA</li>
+                                </ul>
+                            </a>
+
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+
 <div>
 
-{{ paginate.links }}
 {% endblock content %}
