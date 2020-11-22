@@ -5,7 +5,7 @@
 	  	<div class="col-md-12 text-center">
 			<div class="col-md-6 text-center">
 				<p> City<input type="text" id="city" name="city" size="20" maxlength="20">
-					  State <input type="text" id="State" name="State" size="20" maxlength="20">
+					  State <input type="text" id="state" name="State" size="20" maxlength="20">
 				    manufacturer <input type="text" id="manufacturer" name="manufacturer" size="12" maxlength="12">
 				    model <input type="text" id="model" name="model" size="12" maxlength="12"></p>
 			</div>
@@ -53,12 +53,29 @@ function get(){
 	var model_ = document.getElementById("model");
 	var cylinder_ = document.getElementById("cylinders");
 	var fuel_ = document.getElementById("fuel");
-	var transmission__ = document.getElementById("transmission");
-	var min_price__ = document.getElementById("min_price");
-	var max_price__ = document.getElementById("max_price");
-	var min_year__ = document.getElementById("min_year");
-	var max_mileage__ = document.getElementById("max_mileage");
-	//request post json
+	var transmission_ = document.getElementById("transmission");
+	var min_price_ = document.getElementById("min_price");
+	var max_price_ = document.getElementById("max_price");
+	var min_year_ = document.getElementById("min_year");
+	var max_mileage_ = document.getElementById("max_mileage");
+	var sort_key_ = document.getElementById("sort_key");
+
+	let obj = {"city":city_.value,"state":state_.value,"manufacturer":manc_.value,"model":model_.value,"cylinders":cylinder_.value,"fuel":fuel_.value,
+	"transmission":transmission_.value,"min_price":min_price_.value,"max_price":max_price_.value,"min_year":min_year_.value,"max_mileage":max_mileage_.value,"sort_by":sort_key_.value};
+	//alert(JSON.stringify(obj));
+	let xhr = new XMLHttpRequest();
+	let url = "http://127.0.0.1:8080/compare";
+	xhr.open("POST", url, true);
+	//xhr.setRequestHeader("Content-Type", "application/json"); 
+	xhr.onreadystatechange = function() {
+		if(xhr.readyState == 4){
+			let result = xhr.responseText;
+			console.log(result);
+		}
+	};
+	xhr.send(JSON.stringify(obj));
+
+
 	
 }
 </script>
