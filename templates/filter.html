@@ -65,12 +65,6 @@ function get(){
 	let obj = {"city":city_.value,"state":state_.value,"manufacturer":manc_.value,"model":model_.value,"cylinders":cylinder_.value,"fuel":fuel_.value,
 	"transmission":transmission_.value,"min_price":min_price_.value,"max_price":max_price_.value,"min_year":min_year_.value,"max_mileage":max_mileage_.value,"sort_by":sort_key_.value};
 	
-	for(var key in obj){
-		if(obj[key]==""){
-			alert(key + " can not be empty!");
-			return;
-		}
-	}
 	
 	let xhr = new XMLHttpRequest();
 	let url = "http://127.0.0.1:8080/compare";

@@ -52,24 +52,24 @@ def sql_clause(request):
         elif k == "transmission":
             where_clause = where_clause + "transmission " + f"LIKE '%{v}%' AND "
 
-        elif k == "minimum price":
+        elif k == "min_price":
             where_clause = where_clause + "price >= " + f"{v} AND "
 
-        elif k == "max price":
+        elif k == "max_price":
             where_clause = where_clause + "price <= " + f"{v} AND "
 
-        elif k == "minimum year":
+        elif k == "min_year":
             where_clause = where_clause + "years >= " + f"{v} AND "
 
-        elif k == "max year":
+        elif k == "max_year":
             where_clause = where_clause + "years <= " + f"{v} AND "
         elif k == "minimum mileage":
             where_clause = where_clause + "odometer >= " + f"{v} AND "
 
-        elif k == "max mileage":
+        elif k == "max_mileage":
             where_clause = where_clause + "odometer <= " + f"{v} AND "
 
-        elif k == "sort by":
+        elif k == "sort_by":
             if v == "mileage":
                 where_clause = where_clause[:-5]
                 where_clause = where_clause + " order by odometer asc"
@@ -137,25 +137,25 @@ def mongo_query(request):
         elif k == "transmission":
             myquery[k] = {"$regex": v}
 
-        elif k == "minimum price":
+        elif k == "min_price":
             myquery["min_price"] = {"$gte": v}
 
-        elif k == "max price":
+        elif k == "max_price":
             myquery["max_price"] = {"$lte": v}
 
-        elif k == "minimum year":
+        elif k == "min_year":
             myquery["min_year"] = {"$gte": v}
 
-        elif k == "max year":
+        elif k == "max_year":
             myquery["max_year"] = {"$lte": v}
 
-        elif k == "minimum mileage":
+        elif k == "min_mileage":
             myquery["min_mileage"] = {"$gte": v}
 
-        elif k == "max mileage":
+        elif k == "max_mileage":
             myquery["max_mileage"] = {"$lte": v}
 
-        elif k == "sort by":
+        elif k == "sort_by":
             myquery["$orderby"] = {v: 1}
 
     if "min_price" in myquery.keys():
@@ -259,6 +259,7 @@ def connectMongoDb(request):
         return result
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     # print(query())
     print(connectMongoDb())
     # print(connectMongoDb())
@@ -272,3 +273,22 @@ if __name__ == '__main__':
     print(connectMongoDb(request))
 
     print(query(request))
+=======
+#     # print(connectMongoDb())
+#
+#
+#     request = {"City": "", "State": "", "manufacturer": "Benz",
+#                "model": "E", "Cylinders": "", "Fuel": "", "Transmission": "Auto", "Minimum Price": 30000,
+#                "Max Price": 33000,
+#                "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000, "Sort By": "mileage"}
+#     print(sql_clause(request))
+#     # print(mongo_query(request))
+#     # print(connectMongoDb(request))
+#
+#     print(query(request))
+    request = {'city': 'Los Angeles', 'state': 'CA', 'manufacturer': 'toyota', 'model': 'camry', 'cylinders': '4', 'fuel': 'gas', 'transmission': 'auto', 'min_price': '1000', 'max_price': '20000', 'min_year': '2000', 'max_mileage': '1000000', 'sort_by': 'price'}
+#     print(sql_clause(request))
+    print(mongo_query(request))
+    # print(query(request))
+    print(connectMongoDb(request))
+>>>>>>> b33cc52bc4d3b2d41649dfe024a938823a98c9f9
