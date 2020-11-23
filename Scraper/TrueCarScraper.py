@@ -7,111 +7,70 @@ import lxml.html as lxl
 import multiprocessing
 from multiprocessing import Pool
 
-## Get all the urls for all the listed used vehicles on truecar.com
-def urls_scraping(number_of_page = 1):
+def get_urls(number_of_page = 1):
+
     urls = []
-    pages = []
-    base_urls = ['https://www.truecar.com/used-cars-for-sale/listings/location-los-angeles-ca/?searchRadius=10',
+    city_urls = ['https://www.truecar.com/used-cars-for-sale/listings/location-los-angeles-ca/?searchRadius=10',
                  'https://www.truecar.com/used-cars-for-sale/listings/location-new-york-ny/?searchRadius=10']
-    for base_url in base_urls:
-        for i in range(1, number_of_page + 1):
-            pages.append(base_url + '&page=' + str(i))
-        for page in pages:
-            try:
-                response = requests.get(page)
-                response.raise_for_status()
-            except:
-                break
+
+    for page_number in range(1, number_of_page + 1):
+        for city_url in city_urls:
+            response = requests.get(city_url + '&page=' + str(page_number))
             root = lxl.fromstring(response.content)
             url = ['https://www.truecar.com' + link for link in root.xpath('//div[@data-qa="Listings"]//a/@href')]
             urls += url
-
     return urls
 
+def isExist(data):
+    return "" if len(data) else data[0]
 
-# function to scrape one single url of a single used car listing.
-def page_scraping(url):
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-    except:
-        return
+def get_TrueCar(url):
+    response = requests.get(url)
     root = lxl.fromstring(response.content)
 
-    # extract vehicle year, make and model information
-    year = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[
-        0]
-    make = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[
-        1]
-    model = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[
-            2:]
-    # need to extract vehicle type (suv or sedan) and sub-model info
-    sub_model = root.xpath('//div[@class="text-truncate heading-4 text-muted"]/text()')[0]
+    if len(root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')) == 0:
+        image = ""
+    else:
+        image = root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')[0][:-6] + "360.jpg"
 
-    # city and state, geospatial information.
+    year = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[0]
+    make = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[1]
+    model = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[2:]
+    sub_model = root.xpath('//div[@class="text-truncate heading-4 text-muted"]/text()')[0]
     city = root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[1]')[0]
     state = root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[3]')[0]
-
-    # vehicle mileage
     mileage = root.xpath('//span[@data-qa="used-vdp-header-miles"]/text()[1]')[0]
-
-    # vehicle price information
     if len(root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')) == 0:
         price = 0
     else:
         price = root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')[0]
+    transmission = root.xpath('//div[@data-qa="vehicle-overview-item-Transmission"]//li/text()')[0]
+    drive_type = root.xpath('//div[@data-qa="vehicle-overview-item-Drive Type"]//li/text()')[0]
+    fuel_type = root.xpath('//div[@data-qa="vehicle-overview-item-Fuel Type"]//li/text()')[0]
 
-    # vehicle characteristics
-    exterior_color = root.xpath('//div[@data-qa="vehicle-overview-item-Exterior Color"]/div[2]/ul/li/text()')[0]
-    interior_color = root.xpath('//div[@data-qa="vehicle-overview-item-Interior Color"]/div[2]/ul/li/text()')[0]
-    mpg_city = \
-    root.xpath('//div[@data-qa="vehicle-overview-item-MPG"]/div[2]/ul/li/text()')[0].split('/')[0].split(' ')[0]
-    mpg_hwy = root.xpath('//div[@data-qa="vehicle-overview-item-MPG"]/div[2]/ul/li/text()')[0].split('/')[1].split(' ')[
-        1]
-    engine = root.xpath('//div[@data-qa="vehicle-overview-item-Engine"]/div[2]/ul/li/text()')[0]
-    transmission = root.xpath('//div[@data-qa="vehicle-overview-item-Transmission"]/div[2]/ul/li/text()')[0]
-    drive_type = root.xpath('//div[@data-qa="vehicle-overview-item-Drive Type"]/div[2]/ul/li/text()')[0]
-    fuel_type = root.xpath('//div[@data-qa="vehicle-overview-item-Fuel Type"]/div[2]/ul/li/text()')[0]
-    popular_feature = root.xpath('//div[@data-test="popularFeatures"]//li[@class="_19zze7p"]/p/text()')
+    return pd.Series({'url': url, "img": image, 'year': year, 'make': make, 'model': model, 'sub_model': sub_model, 'city': city, 'state': state,
+                      'mileage': mileage, 'price': price, 'transmission': transmission, 'drive_type': drive_type,
+                      'fuel_type': fuel_type})
 
-    # vehicle history information, will extract four variables from here.
-    vehicle_history = root.xpath('//li[@class="_h9wfdq"]/text()')
-
-    image = root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')[0][:-6] + "360.jpg"
-    print(image)
-    # whether the car is a certified preowned car.
-    if "used-vdp-header-cpo" in response.text:
-        cpo = True
-    else:
-        cpo = False
-    return pd.Series({'year': year, 'make': make, 'model': model, 'sub_model': sub_model, 'city': city, 'state': state,
-                      'mileage': mileage, 'price': price, 'exterior_color': exterior_color,
-                      'interior_color': interior_color, 'mpg_city': mpg_city, 'mpg_hwy': mpg_hwy, 'engine': engine,
-                      'transmission': transmission, 'drive_type': drive_type, 'fuel_type': fuel_type,
-                      'popular_feature': popular_feature, 'vehicle_history': vehicle_history, 'cpo': cpo, 'url': url, "img": image})
-
-def scraping(urls):
-    scraping_data = [page_scraping(url) for url in urls]
+def scraper(urls):
+    scraping_data = [get_TrueCar(url) for url in urls]
     return pd.concat(scraping_data, axis=1).T
 
-def parallelize(urls, func):
-    url_set = np.array_split(urls, 32)
+def parallelize(urls):
+    url_sets = np.array_split(urls, 32)
     pool = Pool(multiprocessing.cpu_count())
-    df = pd.concat(pool.map(func, url_set))
+    result = pd.concat(pool.map(scraper, url_sets))
     pool.close()
     pool.join()
-    return df
+    return result
 
-# main function to scrape all the urls and merge all the data into one dataframe
 def scrapeTrueCar():
-    urls = urls_scraping()  # extract all vehicle urls from allowed 333 pages.
-    print(len(urls))
+    urls = get_urls(150)
     t1 = time.time()
-    df = parallelize(urls, scraping)
-    # cars = scraping(urls)
+    print("Start scraping", len(urls), "cars")
+    TrueCar = parallelize(urls)
     print('用时：', time.time() - t1)
-    # print(df)
-    df.to_csv('../Data/TrueCar/Raw/usedCarListing-11.21.csv', encoding='utf-8')
+    TrueCar.to_csv('../Data/TrueCar/Raw/usedCarListing-11.22.csv', encoding='utf-8')
 
 if __name__ == '__main__':
     scrapeTrueCar()

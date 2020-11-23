@@ -5,7 +5,7 @@ from pyspark.sql import functions as F
 
 def dataClean():
     spark = SparkSession.builder.appName("DSCI551Project").getOrCreate()
-    TrueCar = spark.read.csv("../Data/TrueCar/Raw/usedCarListing-11.21.csv", header=True)
+    TrueCar = spark.read.csv("../Data/TrueCar/Raw/usedCarListing-11.22.csv", header=True)
     TrueCar = TrueCar.select("state", "year", F.col("make").alias("manufacturer"), regexp_replace("model", "\W+", "").alias("model"),
                              regexp_replace("price", "\W+", "").alias("price"),
                              regexp_replace("mileage", "\W+", "").alias("mileage"), "transmission", "url", "img")

@@ -21,10 +21,10 @@
                             <a target=_blank, href={{data[entry][1]}}>
                                 <img class="img-car" src="{{data[entry][19]}}" alt="Photo not available">
                                 <ul class="list-group">
-                                  <li class="list-group-item">{{ data[entry][5] }}</li>
-                                  <li class="list-group-item">{{ data[entry][6] }}</li>
-                                  <li class="list-group-item">{{ data[entry][7] }}</li>
-                                  <li class="list-group-item">${{data[entry][4] }}</li>
+                                  <li class="list-group-item">Year: {{ data[entry][5] }}</li>
+                                  <li class="list-group-item">Manufacturer: {{ data[entry][6] }}</li>
+                                  <li class="list-group-item">Model: {{ data[entry][7] }}</li>
+                                  <li class="list-group-item">Price: ${{data[entry][4] }}</li>
                                   <li class="list-group-item">Located in {{ data[entry][2] }}</li>
                                 </ul>
                             </a>
@@ -43,10 +43,10 @@
                             <a target=_blank, href={{ TrueCar[entry]['url'] }}>
                                 <img class="img-car" src="{{ TrueCar[entry]['img'] }}" alt="Photo not available">
                                 <ul class="list-group">
-                                  <li class="list-group-item">{{ TrueCar[entry]['year'] }}</li>
-                                  <li class="list-group-item">{{ TrueCar[entry]['manufacturer'] }}</li>
-                                  <li class="list-group-item">{{ TrueCar[entry]['model'] }}</li>
-                                  <li class="list-group-item">${{ TrueCar[entry]['price'] }}</li>
+                                  <li class="list-group-item">Year: {{ TrueCar[entry]['year'] }}</li>
+                                  <li class="list-group-item">Manufacturer: {{ TrueCar[entry]['manufacturer'] }}</li>
+                                  <li class="list-group-item">Model: {{ TrueCar[entry]['model'] }}</li>
+                                  <li class="list-group-item">Price: ${{ TrueCar[entry]['price'] }}</li>
                                   <li class="list-group-item">Located in LA</li>
                                 </ul>
                             </a>
