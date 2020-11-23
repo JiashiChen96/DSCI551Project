@@ -17,13 +17,15 @@ def index():
 @app.route('/compare', methods=['get', 'post'])
 def search():
     # print("*****************************************")
-    # print(request.get_json(force=True).get("city"))
+    filter = request.get_json(force=True)
     # return request.get_json(force=True),200
     # {manufacturer: "", year: "1234"}
     # city = request.get_json(force=True).get("city")
 
-    Craigslist = query()
-    TrueCar = connectMongoDb()
+    print(filter)
+
+    Craigslist = query({})
+    TrueCar = connectMongoDb({})
 
     page = int(request.args.get("page", 1))
     print(page)

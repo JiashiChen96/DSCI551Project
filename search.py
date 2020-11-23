@@ -4,7 +4,7 @@ import pymongo
 HOST = '127.0.0.1'
 USER = 'root'
 PASSWORD = 'root'
-DB = 'used_cars'
+DB = 'DSCI551Project'
 
 def getConnection(host, user, pwd, db):
     connection = mysql.connector.connect(
@@ -259,10 +259,8 @@ def connectMongoDb(request):
         return result
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     # print(query())
     print(connectMongoDb())
-=======
     # print(connectMongoDb())
 
 
@@ -274,4 +272,3 @@ if __name__ == '__main__':
     print(connectMongoDb(request))
 
     print(query(request))
->>>>>>> f50f9f90501f3e26ee1c7f65719ed888d56fb78b
