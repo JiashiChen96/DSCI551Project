@@ -1,13 +1,16 @@
 <!DOCTYPE html>
+<html>
 <div class="text-center">
 		<div class="col-md-4"></div>
 		<h2 class="form-login-heading text-center col-md-12">Search Vehicles (all fields are optional)</h2>
 	  	<div class="col-md-12 text-center">
 			<div class="col-md-6 text-center">
-				<p> City<input type="text" id="city" name="city" size="20" maxlength="20">
-					  State <input type="text" id="state" name="State" size="20" maxlength="20">
-				    manufacturer <input type="text" id="manufacturer" name="manufacturer" size="12" maxlength="12">
-				    model <input type="text" id="model" name="model" size="12" maxlength="12"></p>
+				
+				<p> City<input type="text" id="city" name="city" size="20" maxlength="12" >
+					  State <input type="text" id="state" name="State" size="20" maxlength="12" >
+				    manufacturer <input type="text" id="manufacturer" name="manufacturer" size="12" maxlength="12" >
+					model <input type="text" id="model" name="model" size="12" maxlength="12" ></p>
+				
 			</div>
 			<div>
 				<p>Cylinders <input type="text" id="cylinders" name="cylinders" size="12" maxlength="12">
@@ -39,11 +42,10 @@
 				</a>
 
 			</div>
+		</div>
+</html>
 
 
-	</form>
-	<br>
-</div>
 
 <script>
 function get(){
@@ -62,11 +64,18 @@ function get(){
 
 	let obj = {"city":city_.value,"state":state_.value,"manufacturer":manc_.value,"model":model_.value,"cylinders":cylinder_.value,"fuel":fuel_.value,
 	"transmission":transmission_.value,"min_price":min_price_.value,"max_price":max_price_.value,"min_year":min_year_.value,"max_mileage":max_mileage_.value,"sort_by":sort_key_.value};
-	//alert(JSON.stringify(obj));
+	
+	for(var key in obj){
+		if(obj[key]==""){
+			alert(key + " can not be empty!");
+			return;
+		}
+	}
+	
 	let xhr = new XMLHttpRequest();
 	let url = "http://127.0.0.1:8080/compare";
 	xhr.open("POST", url, true);
-	//xhr.setRequestHeader("Content-Type", "application/json"); 
+	
 	xhr.onreadystatechange = function() {
 		if(xhr.readyState == 4){
 			let result = xhr.responseText;
@@ -74,8 +83,5 @@ function get(){
 		}
 	};
 	xhr.send(JSON.stringify(obj));
-
-
-	
-}
+};
 </script>
