@@ -89,11 +89,12 @@ def query_craigslist(request):
         q = "select * from vehicles"
         cursor.execute(q)
     elif clause.startswith("order"):
-        q = "select * from vehicles" + clause
+        q = "select * from vehicles " + clause
+        # print(q)
         cursor.execute(q)
     else:
         q = "select * from vehicles where " + clause
-        print(q)
+        # print(q)
         cursor.execute(q)
 
     myresult = cursor.fetchall()
@@ -102,6 +103,6 @@ def query_craigslist(request):
     return myresult
 
 if __name__ == '__main__':
-    filter = {'inputLocation': '', 'manufacturer': '', 'model': '', 'drive_type': '4wd', 'fuel': '', 'transmission': '', 'sort_by': '', 'min_price': '', 'max_price': '', 'min_year': '', 'max_year': ''}
+    filter = {'inputLocation': '', 'manufacturer': '', 'model': '', 'drive_type': '', 'fuel': '', 'transmission': '', 'sort_by': 'Mileage', 'min_price': '', 'max_price': '', 'min_year': '', 'max_year': ''}
     # print(sql_clause(filter))
     print(query_craigslist(filter))
