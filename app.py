@@ -1,52 +1,56 @@
-import os
-import json
-from flask import Flask, render_template, request
-from flask_bootstrap import Bootstrap
+from flask import Flask, render_template, request, session
 from flask_paginate import Pagination
-from flask import make_response
-from search import query, connectMongoDb
+
+from Query.CraigslistQuery import query_craigslist
+from Query.TrueCarQuery import query_TrueCar
 
 app = Flask(__name__)
-app.debug=False
-# bootstrap = Bootstrap(app)
+app.debug= False
+app.secret_key = 'DSCI551'
 
 @app.route('/')
 def index():
     return render_template("index.html")
 
+@app.route('/filter', methods=['get'])
+def filter():
+    return render_template("filter.html")
+
 @app.route('/compare', methods=['get', 'post'])
 def search():
-    # print("*****************************************")
-    filter = request.get_json(force=True)
-    # return request.get_json(force=True),200
-    # {manufacturer: "", year: "1234"}
-    # city = request.get_json(force=True).get("city")
+    if request.method == "POST":
+        filter = {}
+        for k, v in request.form.to_dict().items():
+            if v != "" and v != "Choose...":
+                filter[k] = v
+            else:
+                filter[k] = ""
+        session['filter'] = filter
 
+    if request.method == "GET":
+        filter = session['filter']
     print(filter)
-
-    Craigslist = query({})
-    TrueCar = connectMongoDb({})
+    Craigslist = query_craigslist(filter)
+    TrueCar = query_TrueCar(filter)
+    print(Craigslist)
+    print(TrueCar)
+    if (len(Craigslist) == 0 or len(TrueCar) == 0):
+        return render_template("error.html")
 
     page = int(request.args.get("page", 1))
-    print(page)
     limit = 10
     start = (page - 1) * limit
     end = page * limit if min(len(TrueCar), len(Craigslist)) > page * limit else min(len(TrueCar), len(Craigslist))
     pagination = Pagination(page=page, per_page=limit, total=min(len(TrueCar), len(Craigslist)), css_framework='bootstrap3')
-    print(pagination.page)
     Craigslist = Craigslist[start: end]
     TrueCar = TrueCar[start: end]
 
-    return render_template("compare.html", page = page, data = Craigslist, TrueCar=TrueCar, pagination=pagination)
+    print(Craigslist)
+    print(TrueCar)
 
-@app.route('/filter.html', methods=['get'])
-def filter():
+    return render_template("compare.html", filter = filter, page = page, data = Craigslist, TrueCar=TrueCar, pagination=pagination)
 
-    return render_template("filter.html")
 
-@app.route('/index.html', methods=['get'])
-def index_html():
-    return render_template("index.html")
+
 if __name__ == "__main__":
-    # query()
     app.run(host='127.0.0.1', port=8080)

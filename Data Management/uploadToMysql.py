@@ -4,10 +4,10 @@ import re
 import mysql.connector
 import pandas as pd
 
-HOST = '127.0.0.1'
-USER = 'root'
-PASSWORD = 'root'
-DB = 'DSCI551Project'
+HOST = 'us-cdbr-east-02.cleardb.com'
+USER = 'ba989908699a00'
+PASSWORD = 'e0812ffe'
+DB = 'heroku_32dc5f0ec6f7b30'
 
 def getConnection(host, user, pwd, db):
     connection = mysql.connector.connect(
@@ -28,11 +28,14 @@ def upload(connection, cursor):
     data_files = [m for m in os.listdir(base_path) if regex.match(m)]
     # print(data_files)
     cars = pd.read_csv(base_path + data_files[0])
-    # print(cars)
+    print(cars)
+    cursor.execute("TRUNCATE TABLE vehicles")
+
     for index, row in cars.iterrows():
-        temp = (row.region, row.year, row.manufacturer, row.model, row.price, row.mileage, row.transmission)
-        # print(temp)
-        cursor.execute("INSERT INTO Craigslist (region, year, manufacturer, model, price, mileage, transmission) values(%s,%s,%s,%s,%s,%s,%s)",
+        temp = (row.state, row.city, row.year, row.manufacturer, row.model, row.price, row.mileage, row.cylinders, row.drive, row.transmission, row.fuel, row.url, row.image_url)
+        print(temp)
+        cursor.execute("INSERT INTO vehicles (state, city, year, manufacturer, model, price, mileage, cylinders, drive_type, transmission, fuel, url, image_url) "
+                       "values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
                        temp)
     connection.commit()
 if __name__ == '__main__':

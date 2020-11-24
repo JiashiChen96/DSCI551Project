@@ -22,31 +22,34 @@ def get_urls(number_of_page = 1):
     return urls
 
 def isExist(data):
-    return "" if len(data) else data[0]
+    return "" if len(data) == 0 else data[0]
 
 def get_TrueCar(url):
+    print(url)
     response = requests.get(url)
     root = lxl.fromstring(response.content)
 
-    if len(root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')) == 0:
-        image = ""
-    else:
-        image = root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src')[0][:-6] + "360.jpg"
+    image = isExist(root.xpath('//div[@data-qa="VdpGallery"]//div[@class="col-12"]//img/@src'))
+    if image != "": image = image[:-6]+ "360.jpg"
 
-    year = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[0]
-    make = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[1]
-    model = root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()')[0].split(' ')[2:]
-    sub_model = root.xpath('//div[@class="text-truncate heading-4 text-muted"]/text()')[0]
-    city = root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[1]')[0]
-    state = root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[3]')[0]
-    mileage = root.xpath('//span[@data-qa="used-vdp-header-miles"]/text()[1]')[0]
-    if len(root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')) == 0:
-        price = 0
+    title = isExist(root.xpath('//div[@class="text-truncate heading-3 margin-right-2 margin-right-sm-3"]/text()'))
+    if title == "":
+        year = ""
+        make = ""
+        model = ""
     else:
-        price = root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()')[0]
-    transmission = root.xpath('//div[@data-qa="vehicle-overview-item-Transmission"]//li/text()')[0]
-    drive_type = root.xpath('//div[@data-qa="vehicle-overview-item-Drive Type"]//li/text()')[0]
-    fuel_type = root.xpath('//div[@data-qa="vehicle-overview-item-Fuel Type"]//li/text()')[0]
+        year = title.split(' ')[0]
+        make = title.split(' ')[1]
+        model = title.split(' ')[2:]
+
+    sub_model = isExist(root.xpath('//div[@class="text-truncate heading-4 text-muted"]/text()'))
+    city = isExist(root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[1]'))
+    state = isExist(root.xpath('//span[@data-qa="used-vdp-header-location"]/text()[3]'))
+    mileage = isExist(root.xpath('//span[@data-qa="used-vdp-header-miles"]/text()[1]'))
+    price = isExist(root.xpath('//div[@data-qa="PricingBlock"]/div[@data-qa="LabelBlock-text"]/span/text()'))
+    transmission = isExist(root.xpath('//div[@data-qa="vehicle-overview-item-Transmission"]//li/text()'))
+    drive_type = isExist(root.xpath('//div[@data-qa="vehicle-overview-item-Drive Type"]//li/text()'))
+    fuel_type = isExist(root.xpath('//div[@data-qa="vehicle-overview-item-Fuel Type"]//li/text()'))
 
     return pd.Series({'url': url, "img": image, 'year': year, 'make': make, 'model': model, 'sub_model': sub_model, 'city': city, 'state': state,
                       'mileage': mileage, 'price': price, 'transmission': transmission, 'drive_type': drive_type,
@@ -65,7 +68,7 @@ def parallelize(urls):
     return result
 
 def scrapeTrueCar():
-    urls = get_urls(150)
+    urls = get_urls(100)
     t1 = time.time()
     print("Start scraping", len(urls), "cars")
     TrueCar = parallelize(urls)

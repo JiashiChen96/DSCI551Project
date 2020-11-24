@@ -90,10 +90,10 @@ def query(request):
     if clause == "":
         pass
     elif "order by" in clause and len(clause) <= 22:
-        q = "select * from craigslistscraper" + clause
+        q = "select * from vehicles" + clause
         cursor.execute(q)
     else:
-        q = "select * from craigslistscraper where " + clause
+        q = "select * from vehicles where " + clause
         cursor.execute(q)
 
     myresult = cursor.fetchall()
@@ -259,36 +259,17 @@ def connectMongoDb(request):
         return result
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-    # print(query())
-    print(connectMongoDb())
-    # print(connectMongoDb())
-
-
-    request = {"City": "", "State": "", "manufacturer": "Benz",
-               "model": "E", "Cylinders": "", "Fuel": "", "Transmission": "Auto", "Minimum Price": 30000,
-               "Max Price": 33000,
-               "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000, "Sort By": "mileage"}
-
-    print(connectMongoDb(request))
-
-    print(query(request))
-=======
-#     # print(connectMongoDb())
-#
-#
-#     request = {"City": "", "State": "", "manufacturer": "Benz",
-#                "model": "E", "Cylinders": "", "Fuel": "", "Transmission": "Auto", "Minimum Price": 30000,
-#                "Max Price": 33000,
-#                "Minimum Year": 2017, "Max Year": 2019, "Minimum mileage": 27000, "Max mileage": 33000, "Sort By": "mileage"}
-#     print(sql_clause(request))
-#     # print(mongo_query(request))
-#     # print(connectMongoDb(request))
-#
-#     print(query(request))
-    request = {'city': 'Los Angeles', 'state': 'CA', 'manufacturer': 'toyota', 'model': 'camry', 'cylinders': '4', 'fuel': 'gas', 'transmission': 'auto', 'min_price': '1000', 'max_price': '20000', 'min_year': '2000', 'max_mileage': '1000000', 'sort_by': 'price'}
-#     print(sql_clause(request))
-    print(mongo_query(request))
-    # print(query(request))
-    print(connectMongoDb(request))
->>>>>>> b33cc52bc4d3b2d41649dfe024a938823a98c9f9
+    # data = {'city': '', 'state': '', 'manufacturer': 'Toyota', 'model': '', 'cylinders': '', 'fuel': '', 'transmission': '', 'min_price': '', 'max_price': '', 'min_year': '', 'max_mileage': '', 'sort_by': 'mileage'}
+    # print(connectMongoDb(data))
+    # data = {'manufacturer': 'Toyota', 'inputOrder': 'Milage'}
+    # print(query(data))
+    data = {'inputLocation': '', 'manufacturer': 'Toyota', 'model': '', 'cylinders': '', 'fuel': '', 'transmission': '',
+            'inputOrder': '', 'min_price': '', 'max_price': '', 'min_year': '', 'max_year': '',
+            'sort_by': 'mileage'}
+    filter = {'inputLocation': '', 'manufacturer': 'Toyota', 'model': '', 'cylinders': '',
+              'fuel': '', 'transmission': '', 'min_price': '', 'max_price': '', 'min_year': '', 'max_mileage': '',
+              'sort_by': 'mileage'}
+    print(sql_clause(data))
+    print(sql_clause(filter))
+    query(filter)
+    query(data)

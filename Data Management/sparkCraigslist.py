@@ -5,11 +5,13 @@ from pyspark.sql.functions import regexp_replace
 
 def dataClean():
     spark = SparkSession.builder.appName("DSCI551Project").getOrCreate()
-    Craigslist = spark.read.csv("../Data/Craigslist/Raw/used_cars.csv", header=True)
-    Craigslist = Craigslist.select("region", F.col("years").alias("year"), "manufacturer",
-                                   "model", "price", F.col("odometer").alias("mileage"), "transmission")
+    Craigslist = spark.read.csv("../Data/Craigslist/Raw/CraigslistScraper.csv", header=True)
+    Craigslist = Craigslist.select("state", "city", F.col("years").alias("year"), "manufacturer",
+                                   "model", "price", F.col("odometer").alias("mileage"), "cylinders", "drive", "fuel", "transmission", "url", "image_url")
     Craigslist = Craigslist.filter((Craigslist.manufacturer != 'NULL') & (Craigslist.mileage != 'NULL') &
-                                   (Craigslist.transmission != 'NULL') & (Craigslist.model != ''))
+                                   (Craigslist.transmission != 'NULL') & (Craigslist.model != '') &
+                                   (Craigslist.cylinders != 'NULL') & (Craigslist.fuel != 'NULL') &
+                                   (Craigslist.price > 1000) & (Craigslist.drive != 'NULL'))
     Craigslist = Craigslist.filter(Craigslist.price != 0)
     Craigslist.show()
 

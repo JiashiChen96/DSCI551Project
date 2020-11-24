@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}Index{% endblock title %}
+{% block title %}Compare{% endblock title %}
 
 
 {% block content %}
@@ -10,7 +10,6 @@
         {{ pagination.links }}
     </div>
 
-
     <div class="row" >
         <div class="col-lg-6">
             <img class="img-logo" src="../static/img/Craigslist.png">
@@ -18,14 +17,14 @@
                 {% for entry in range(data|length) %}
                     <div class="col-lg-offset-1 col-lg-5">
                         <div class="text-center card">
-                            <a target=_blank, href={{data[entry][1]}}>
-                                <img class="img-car" src="{{data[entry][19]}}" alt="Photo not available">
+                            <a target=_blank, href={{data[entry][-2]}}>
+                                <img class="img-car" src="{{data[entry][-1]}}" alt="Photo not available">
                                 <ul class="list-group">
-                                  <li class="list-group-item">Year: {{ data[entry][5] }}</li>
-                                  <li class="list-group-item">Manufacturer: {{ data[entry][6] }}</li>
-                                  <li class="list-group-item">Model: {{ data[entry][7] }}</li>
-                                  <li class="list-group-item">Price: ${{data[entry][4] }}</li>
-                                  <li class="list-group-item">Located in {{ data[entry][2] }}</li>
+                                  <li class="list-group-item">Year: {{ data[entry][2] }}</li>
+                                  <li class="list-group-item">Model: {{ data[entry][3] }} {{ data[entry][4] }}</li>
+                                  <li class="list-group-item">Price: ${{data[entry][5] }}</li>
+                                  <li class="list-group-item">Mileage: {{data[entry][6] }}</li>
+                                  <li class="list-group-item">Located in {{ data[entry][0]|upper }}</li>
                                 </ul>
                             </a>
                         </div>
@@ -43,11 +42,11 @@
                             <a target=_blank, href={{ TrueCar[entry]['url'] }}>
                                 <img class="img-car" src="{{ TrueCar[entry]['img'] }}" alt="Photo not available">
                                 <ul class="list-group">
-                                  <li class="list-group-item">Year: {{ TrueCar[entry]['year'] }}</li>
-                                  <li class="list-group-item">Manufacturer: {{ TrueCar[entry]['manufacturer'] }}</li>
-                                  <li class="list-group-item">Model: {{ TrueCar[entry]['model'] }}</li>
-                                  <li class="list-group-item">Price: ${{ TrueCar[entry]['price'] }}</li>
-                                  <li class="list-group-item">Located in LA</li>
+                                  <li class="list-group-item">Year: {{ TrueCar[entry]['year']|int }}</li>
+                                  <li class="list-group-item">Model: {{ TrueCar[entry]['manufacturer'] }} {{ TrueCar[entry]['model'] }}</li>
+                                  <li class="list-group-item">Price: ${{ TrueCar[entry]['price']|int  }}</li>
+                                  <li class="list-group-item">Mileage: {{ TrueCar[entry]['mileage']|int  }}</li>
+                                  <li class="list-group-item">Located in {{ TrueCar[entry]['state'] }}</li>
                                 </ul>
                             </a>
 

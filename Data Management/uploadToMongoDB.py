@@ -14,7 +14,7 @@ def uploadToMongoDB():
     base_path = '../Data/TrueCar/SparkOutput/'
     data_files = [m for m in os.listdir(base_path) if regex.match(m)]
 
-    cars = pd.read_csv(base_path + data_files[0], index_col=0).to_dict(orient='records')
+    cars = pd.read_csv(base_path + data_files[0]).to_dict(orient='records')
 
     myCollect.delete_many({})
     myCollect.insert_many(cars)

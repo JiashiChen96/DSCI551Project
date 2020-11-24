@@ -1,81 +1,67 @@
-<!DOCTYPE html>
-<html>
-<div class="text-center">
-		<div class="col-md-4"></div>
-		<h2 class="form-login-heading text-center col-md-12">Search Vehicles (all fields are optional)</h2>
-	  	<div class="col-md-12 text-center">
-			<div class="col-md-6 text-center">
-				
-				<p> City<input type="text" id="city" name="city" size="20" maxlength="12" >
-					  State <input type="text" id="state" name="State" size="20" maxlength="12" >
-				    manufacturer <input type="text" id="manufacturer" name="manufacturer" size="12" maxlength="12" >
-					model <input type="text" id="model" name="model" size="12" maxlength="12" ></p>
-				
-			</div>
-			<div>
-				<p>Cylinders <input type="text" id="cylinders" name="cylinders" size="12" maxlength="12">
-				Fuel <input type="text" id="fuel" name="fuel" size="12" maxlength="12">
-			  Transmission <input type="text" id="transmission" name="transmission" size="12" maxlength="12">
-				Minimum Price <input type="text" id="min_price" name="min_price" size="12" maxlength="12"></p>
-			</div>
+{% extends 'base.html' %}
 
-			<div>
-					<p>Max Price <input type="text" id="max_price" name="max_price" size="12" maxlength="12">
-							Minimum Year <input type="text" id="min_year" name="min_year" size="12" maxlength="12">
-							Max Year <input type="text" id="max_year" name="max_year" size="12" maxlength="12">
-							Max mileage <input type="text" id="max_mileage" name="max_mileage" size="12" maxlength="12"></p>
-			</div>
-			<div>
-				Sort By <select id = "sort_key">
-					<option>----please select----</option>
-						<option value="mileage">mileage</option>
-							<option value="year">year</option>
-							<option value="price">price</option>
-						</select>
+{% block title %}Filter{% endblock title %}
 
-			</div>
-			<div class="col-md-12 text-center">
-				<button onclick = "get()">submit</button>
+{% block content %}
 
-				<a href="index.html">
-					<button>Home</button>
-				</a>
-
-			</div>
+<div class="container">
+	<form id="test" action="/compare" method="POST">
+	  <div class="form-row">
+		  <div class="form-group col-md-6">
+			  <label for="inputLocation">City, State</label>
+			  <select name="inputLocation" id="inputLocation" class="form-control">
+				  <option selected>Choose...</option>
+				  <option>Los Angeles, CA</option>
+				  <option>New York City, NY</option>
+			  </select>
+		  </div>
+		<div class="form-group col-md-3">
+		  <label for="manufacturer">Manufacturer</label>
+		  <input type="text" class="form-control" name="manufacturer" id="manufacturer" placeholder="manufacturer">
 		</div>
-</html>
-
-
-
-<script>
-function get(){
-	var city_ = document.getElementById("city");
-	var state_ = document.getElementById("state");
-	var manc_ = document.getElementById("manufacturer");
-	var model_ = document.getElementById("model");
-	var cylinder_ = document.getElementById("cylinders");
-	var fuel_ = document.getElementById("fuel");
-	var transmission_ = document.getElementById("transmission");
-	var min_price_ = document.getElementById("min_price");
-	var max_price_ = document.getElementById("max_price");
-	var min_year_ = document.getElementById("min_year");
-	var max_mileage_ = document.getElementById("max_mileage");
-	var sort_key_ = document.getElementById("sort_key");
-
-	let obj = {"city":city_.value,"state":state_.value,"manufacturer":manc_.value,"model":model_.value,"cylinders":cylinder_.value,"fuel":fuel_.value,
-	"transmission":transmission_.value,"min_price":min_price_.value,"max_price":max_price_.value,"min_year":min_year_.value,"max_mileage":max_mileage_.value,"sort_by":sort_key_.value};
-	
-	
-	let xhr = new XMLHttpRequest();
-	let url = "http://127.0.0.1:8080/compare";
-	xhr.open("POST", url, true);
-	
-	xhr.onreadystatechange = function() {
-		if(xhr.readyState == 4){
-			let result = xhr.responseText;
-			console.log(result);
-		}
-	};
-	xhr.send(JSON.stringify(obj));
-};
-</script>
+	  	<div class="form-group col-md-3">
+		  <label for="model">Model</label>
+		  <input type="text" class="form-control" name="model" id="model" placeholder="model">
+		</div>
+	  	<div class="form-group col-md-3">
+		  <label for="drive_type">Drive Type</label>
+		  <input type="text" class="form-control" name="drive_type" id="drive_type" placeholder="Drive Type">
+		</div>
+	  	<div class="form-group col-md-3">
+		  <label for="Fuel">Fuel</label>
+		  <input type="text" class="form-control" name="fuel" id="fuel" placeholder="fuel">
+		</div>
+	  	<div class="form-group col-md-3">
+		  <label for="Transmission">Transmission</label>
+		  <input type="text" class="form-control" name="transmission"  id="transmission" placeholder="transmission">
+		</div>
+	  	<div class="form-group col-md-3">
+		  <label for="inputOrder">Sort by</label>
+		  <select name="sort_by" id="inputOrder" class="form-control">
+			<option selected>Choose...</option>
+			<option>Mileage</option>
+			  <option>Price</option>
+			  <option>Year</option>
+		  </select>
+		</div>
+		<div class="form-group col-md-3">
+		  <label for="min_price">MinPrice</label>
+		  <input type="text" class="form-control" name="min_price" id="min_price" placeholder="min_price">
+		</div>
+		  <div class="form-group col-md-3">
+		  <label for="max_price">MaxPrice</label>
+		  <input type="text" class="form-control" name="max_price" id="max_price" placeholder="max_price">
+		</div>
+		  <div class="form-group col-md-3">
+		  <label for="min_year">MinYear</label>
+		  <input type="text" class="form-control" name="min_year" id="min_year" placeholder="min_year">
+		</div>
+		  <div class="form-group col-md-3">
+		  <label for="max_year">MaxYear</label>
+		  <input type="text" class="form-control" name="max_year" id="max_year" placeholder="max_year">
+		</div>
+	  <button class="btn btn-danger" type="reset">Reset</button>
+	  <button type="submit" class="btn btn-primary" style="float: right;">Submit</button>
+	</form>
+</div>
+{% endblock content %}
