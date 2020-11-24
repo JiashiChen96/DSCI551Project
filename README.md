@@ -9,4 +9,4 @@ Jiashi Chen, Zihao Wang, Changmeng Xu
 
 ## Architecture Diagram
 
-![DSCI551](/Users/jiashichen/Study/USC Courses/DSCI551/Project/Final/static/img/DSCI551.png)
+![DSCI551](static/img/DSCI551.png)
