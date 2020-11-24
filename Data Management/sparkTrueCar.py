@@ -10,6 +10,7 @@ def dataClean():
                              regexp_replace("price", "\W+", "").alias("price"),
                              regexp_replace("mileage", "\W+", "").alias("mileage"), "drive_type", "transmission", F.col("fuel_type").alias("fuel"),"url", "img")
     # TrueCar.show()
+    TrueCar = TrueCar.filter((TrueCar.state != 'NULL'))
     TrueCar.write.save("../Data/TrueCar/SparkOutput", format("csv"), mode='overwrite', header=True)
 
 
